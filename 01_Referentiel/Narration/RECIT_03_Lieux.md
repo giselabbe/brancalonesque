@@ -6,10 +6,10 @@ Version 0.3 — 25 novembre 2026 — référentiel de travail, à valider.
 
 Corpus narratif : chapitres I à V, dont le V en deux trames de travail :
 
-- [Chapitre I — Sourcemolle](../../02_Manuscrits/Chapitres/RECIT_01_chapitre01_trame.md)
-- [Chapitre II — Scanzona](../../02_Manuscrits/Chapitres/RECIT_01_chapitre02_trame.md)
-- [Chapitre III — La traversée vers Sibara](../../02_Manuscrits/Chapitres/RECIT_01_chapitre03_trame.md)
-- [Chapitre IV — Sibara et le bois de Bologne](../../02_Manuscrits/Chapitres/RECIT_01_chapitre04_trame.md)
+- [Chapitre I — Sourcemolle](../../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_trame.md)
+- [Chapitre II — Scanzona](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame.md)
+- [Chapitre III — La traversée vers Sibara](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_trame.md)
+- [Chapitre IV — Sibara et le bois de Bologne](../../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.md)
 - [Chapitre V — Pandosia et le Liber Vetillæ, partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md)
 - [Chapitre V — Pandosia et le Liber Vetillæ, partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md)
 

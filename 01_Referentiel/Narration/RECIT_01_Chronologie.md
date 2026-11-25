@@ -2,7 +2,7 @@
 
 Version 0.2 — 25 novembre 2026 — référentiel de travail, à valider.
 
-Sources : [chapitres I–IV](../../02_Manuscrits/Chapitres/), [chapitre V, partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md), [chapitre V, partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md), [fiches individuelles](../Perso/), index général et corrections des échanges BRANCA. Les PDF originaux du MJ et du lore n'ont pas été relus pour cette mise à jour.
+Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md), [chapitre V, partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md), [fiches individuelles](../Perso/), index général et corrections des échanges BRANCA. Les PDF originaux du MJ et du lore n'ont pas été relus pour cette mise à jour.
 
 **Statuts :** D = documenté dans le corpus (ne vaut pas validation finale) ; S = souvenir des échanges, à recouper ; P = proposition éditoriale ; ? = incertitude. Ne jamais transformer une intention du MJ ou une hypothèse des héros en événement joué. Les informations postérieures au chapitre V sont provisoires. Attention aux révélations : référentiel interne, non destiné à être publié tel quel.
 

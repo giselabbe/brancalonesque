@@ -6,7 +6,7 @@ Version 0.3 — 25 novembre 2026 — référentiel de travail, à valider.
 
 Référentiel maître : dépôt GitHub `brancalonesque`, branche `main`.
 
-- Corpus narratif : [I — Sourcemolle](../../02_Manuscrits/Chapitres/RECIT_01_chapitre01_trame.md), [II — Scanzona](../../02_Manuscrits/Chapitres/RECIT_01_chapitre02_trame.md), [III — Traversée](../../02_Manuscrits/Chapitres/RECIT_01_chapitre03_trame.md), [IV — Sibara](../../02_Manuscrits/Chapitres/RECIT_01_chapitre04_trame.md), [V — Pandosia, partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md), [V — Pandosia, partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md).
+- Corpus narratif : [I — Sourcemolle](../../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_trame.md), [II — Scanzona](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame.md), [III — Traversée](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_trame.md), [IV — Sibara](../../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.md), [V — Pandosia, partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md), [V — Pandosia, partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md).
 - [Index général](../00_INDEX_BRANCA.md), [sommaire](RECIT_00_Sommaire.md), [chronologie](RECIT_01_Chronologie.md), [personnages](RECIT_02_Personnages.md), [lieux](RECIT_03_Lieux.md), [lore](RECIT_04_Lore.md).
 - Fiches individuelles : [PJ](../Perso/pj/), [PNJ et familiers](../Perso/pnj/), [références visuelles](../../04_Illustrations/references/).
 - Bible visuelle historique `GRAPH_02_Personnages.md` et souvenirs des échanges BRANCA : sources de la version 0.1. Les [référentiels GRAPH](../Graphisme/) sont présents dans le dépôt ; les PDF originaux du MJ et du lore n'ont pas été relus pour cette mise à jour.
@@ -26,7 +26,7 @@ Conserver les identifiants Qxxx même après résolution. Renseigner le journal 
 - [ ] Q005 — Vérifier la chronologie et le moment de révélation des fées, elfes, l'Enfant et de l'homme en blanc ; conserver les spoilers hors du texte public avant leur chapitre.
 
 ### Chapitre I — Sourcemolle
-Source : [manuscrit I](../../02_Manuscrits/Chapitres/RECIT_01_chapitre01_trame.md).
+Source : [manuscrit I](../../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_trame.md).
 
 - [ ] Q101 — Circonstances précises de la chute initiale : le corpus dit chute des passerelles puis mise à l'eau ; les anciens souvenirs évoquent le Cracoucass. Ne pas fusionner sans preuve.
 - [ ] Q102 — Qui portait l'Agneau et découvrit l'invisibilité ? Probablement Psodia selon le corpus.
@@ -37,7 +37,7 @@ Source : [manuscrit I](../../02_Manuscrits/Chapitres/RECIT_01_chapitre01_trame.m
 - [ ] Q107 — Circonstances de constitution de la clique et équipement initial si utile au prologue.
 
 ### Chapitre II — Scanzona
-Source : [manuscrit II](../../02_Manuscrits/Chapitres/RECIT_01_chapitre02_trame.md).
+Source : [manuscrit II](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame.md).
 
 - [ ] Q201 — Pourquoi Tito a-t-il passé une nuit en prison ?
 - [ ] Q202 — Noms officiels des factions féeriques et de leurs responsables ; ne pas canoniser « légalistes ».
@@ -47,7 +47,7 @@ Source : [manuscrit II](../../02_Manuscrits/Chapitres/RECIT_01_chapitre02_trame.
 - [ ] Q206 — Moment exact de l'arrivée de Truffino et de l'intégration d'Ondine.
 
 ### Chapitre III — Traversée
-Source : [manuscrit III](../../02_Manuscrits/Chapitres/RECIT_01_chapitre03_trame.md).
+Source : [manuscrit III](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_trame.md).
 
 - [ ] Q301 — Nom du port de départ.
 - [ ] Q302 — Pourquoi Personne a-t-il endommagé la cale ?
@@ -56,7 +56,7 @@ Source : [manuscrit III](../../02_Manuscrits/Chapitres/RECIT_01_chapitre03_trame
 - [ ] Q305 — Formulation exacte de la prophétie du Kwisach des Rats et moment où Psodia la reprend à son compte.
 
 ### Chapitre IV — questions reprises du document du 25 novembre
-Source : [manuscrit IV](../../02_Manuscrits/Chapitres/RECIT_01_chapitre04_trame.md).
+Source : [manuscrit IV](../../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.md).
 
 - [ ] Q401 — Capitainerie : comment les Canailles ont-elles obtenu la restitution de la péniche malgré les frais ?
 - [ ] Q402 — Surveillance extérieure de Chez Gargantua : Psodia et Sispéo ont-ils identifié les livreurs ou l'origine des provisions ?

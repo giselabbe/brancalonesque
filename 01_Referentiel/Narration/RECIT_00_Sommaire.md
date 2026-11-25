@@ -2,20 +2,20 @@
 
 Version 0.3 — 25 novembre 2026 — référentiel de travail, à valider.
 
-Sources : [chapitres I–IV](../../02_Manuscrits/Chapitres/), [chapitre V, partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md), [chapitre V, partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md), [fiches individuelles des personnages](../Perso/), [index général](../00_INDEX_BRANCA.md) et souvenirs des échanges BRANCA. Les PDF originaux du MJ et du lore sont recensés mais n'ont pas été relus pour cette version.
+Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md), [chapitre V, partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md), [fiches individuelles des personnages](../Perso/), [index général](../00_INDEX_BRANCA.md) et souvenirs des échanges BRANCA. Les PDF originaux du MJ et du lore sont recensés mais n'ont pas été relus pour cette version.
 
 **Statuts :** D = documenté dans le corpus (ne vaut pas validation finale) ; S = souvenir des échanges, à recouper ; P = proposition éditoriale ; ? = incertitude. Ne jamais transformer une intention du MJ ou une hypothèse des héros en événement joué. Les informations postérieures au chapitre V sont provisoires. Attention aux révélations : référentiel interne, non destiné à être publié tel quel.
 
 ## Fonction
 
-Index des épisodes du recueil. Les numéros I à VI sont retenus ; aucune numérotation définitive n'est attribuée aux arcs suivants. Le corpus narratif est réparti en fichiers de travail indépendants dans `02_Manuscrits/Chapitres/` et `02_Manuscrits/Trames/`. La branche `main` du dépôt GitHub constitue le référentiel maître ; la présence d'un document ne signifie pas qu'il est définitivement validé.
+Index des épisodes du recueil. Les numéros I à VI sont retenus ; aucune numérotation définitive n'est attribuée aux arcs suivants. Le corpus narratif est réparti en fichiers de travail indépendants dans `02_Manuscrits/Trames/`. La branche `main` du dépôt GitHub constitue le référentiel maître ; la présence d'un document ne signifie pas qu'il est définitivement validé.
 
 | Chapitre | Intitulé / contenu | État | Manuscrit de travail |
 |---|---|---|---|
-| I | Sourcemolle | D — récit V2, validation finale à confirmer | [Chapitre I](../../02_Manuscrits/Chapitres/RECIT_01_chapitre01_trame.md) |
-| II | Scanzona | D — synthèse neutre, 23/11 | [Chapitre II](../../02_Manuscrits/Chapitres/RECIT_01_chapitre02_trame.md) |
-| III | La traversée vers Sibara | D — version de travail 3, 23/11 | [Chapitre III](../../02_Manuscrits/Chapitres/RECIT_01_chapitre03_trame.md) |
-| IV | Sibara, le bois de Bologne et la réparation de la péniche | D — chronologie de travail, 25/11 ; réparation effective ultérieure | [Chapitre IV](../../02_Manuscrits/Chapitres/RECIT_01_chapitre04_trame.md) |
+| I | Sourcemolle | D — récit V2, validation finale à confirmer | [Chapitre I](../../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_trame.md) |
+| II | Scanzona | D — synthèse neutre, 23/11 | [Chapitre II](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame.md) |
+| III | La traversée vers Sibara | D — version de travail 3, 23/11 | [Chapitre III](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_trame.md) |
+| IV | Sibara, le bois de Bologne et la réparation de la péniche | D — chronologie de travail, 25/11 ; réparation effective ultérieure | [Chapitre IV](../../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.md) |
 | V | Pandosia et le Liber Vetillæ | D — arc terminé ; deux trames disponibles ; rédaction définitive à faire | [Partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) · [Partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md) |
 | VI | La Marmite de Saint Glaude (titre de travail) | P — prochain chapitre ; reconstitution à poursuivre | À intégrer |
 

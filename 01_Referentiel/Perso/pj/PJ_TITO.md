@@ -81,5 +81,5 @@ Croissance : 200 à 250 cm. Conserver la même armure, devenue trop courte. Le m
 - Référentiel narratif : [RECIT_02_Personnages.md](../../Narration/RECIT_02_Personnages.md).
 - Prompt récupéré sur GitHub : `01_Referentiel/Graphisme/prompts/pj/PJ_TITO_PROMPT.txt` (emplacement au 25/11/2026).
 - Bible graphique GRAPH_02, V1.0, 25/11/2026.
-- [Chapitre V, partie 1](../../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) et [partie 2](../../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md) ; [chronologie](../../Narration/RECIT_01_Chronologie.md) ; [registre des illustrations](../../Graphisme/GRAPH_05_Illustrations_narratives.md).
+- [Chapitre V, partie 1](../../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) et [partie 2](../../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md) ; [chronologie](../../Narration/RECIT_01_Chronologie.md) ; [registre des illustrations](../../Graphisme/GRAPH_05_Prompts_CH05_Pandosia.md).
 - Fiche actualisée au 25 novembre 2026, à valider ; les événements ultérieurs au chapitre V restent provisoires. Les PDF du MJ n'ont pas été relus pour cette mise à jour. Les identifiants des PNJ hors de cette série sont proposés, à créer ou confirmer.

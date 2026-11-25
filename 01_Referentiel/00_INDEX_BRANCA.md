@@ -1,6 +1,6 @@
 # Branca — Index général du recueil
 
-Version 2.0 — 25 novembre 2026 — proposition à valider.
+Version 2.1 — 25 novembre 2026 — maintenance documentaire ; validations de fond inchangées.
 
 Cet index est le point d’entrée du projet éditorial BRANCA, recueil illustré de la deuxième campagne de Brancalonia.
 
@@ -13,7 +13,7 @@ Le [dépôt GitHub brancalonesque](https://github.com/giselabbe/brancalonesque),
 
 Consulter les fichiers pertinents sur GitHub avant chaque travail. Les versions distantes priment sur les anciennes copies des Sources, sauf indication explicite. Les documents et images absents du dépôt restent à consulter dans les Sources ou auprès de l’utilisateur. GitHub n’est pas synchronisé automatiquement dans le contexte ChatGPT.
 
-L’utilisateur gère les modifications, commits et push ; ChatGPT consulte le dépôt en lecture seule. Les références visuelles validées restent prioritaires pour les illustrations ; les joindre à la génération si nécessaire.
+Par défaut, ChatGPT consulte le dépôt en lecture seule ; les modifications et commits directs sont possibles sur autorisation explicite de l’utilisateur, limitée au périmètre convenu. Les références visuelles validées restent prioritaires pour les illustrations ; les joindre à la génération si nécessaire.
 
 ## 2. RECIT — Référentiels narratifs
 
@@ -51,21 +51,23 @@ Autres PNJ : fiches à créer progressivement. Les YAML sont réservés aux pers
 
 | Chapitre | Fichier | Statut de travail |
 |---|---|---|
-| I — Sourcemolle | [RECIT_01_chapitre01_trame.md](../02_Manuscrits/Chapitres/RECIT_01_chapitre01_trame.md) | Récit V2 ; validation finale à confirmer |
-| II — Scanzona | [RECIT_01_chapitre02_trame.md](../02_Manuscrits/Chapitres/RECIT_01_chapitre02_trame.md) | Synthèse neutre |
-| III — La traversée vers Sibara | [RECIT_01_chapitre03_trame.md](../02_Manuscrits/Chapitres/RECIT_01_chapitre03_trame.md) | Version de travail 3 |
-| IV — Cibara, le bois de Bologne et la réparation de la péniche | [RECIT_01_chapitre04_trame.md](../02_Manuscrits/Chapitres/RECIT_01_chapitre04_trame.md) | Chronologie de travail ; questions ouvertes |
-| V — Le Liber Vetillæ | À intégrer | Texte absent du dépôt vérifié |
+| I — Sourcemolle | [CH01_chapitre01_Sourcemolle_trame.md](../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_trame.md) | Récit V2 ; validation finale à confirmer |
+| II — Scanzona | [CH2_chapitre02_Scandoza_trame.md](../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame.md) | Synthèse neutre |
+| III — La traversée vers Sibara | [CH3_chapitre03_les_Pirates_trame.md](../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_trame.md) | Version de travail 3 |
+| IV — Sibara, le bois de Bologne et la réparation de la péniche | [CH4_chapitre04_Vetille_trame.md](../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.md) | Chronologie de travail ; questions ouvertes |
+| V — Pandosia et le Liber Vetillæ | [Partie 1](../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) · [Partie 2](../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md) | Arc terminé ; rédaction définitive à faire |
+| VI — La Marmite de Saint Glaude (titre de travail) | À intégrer | Prochain chapitre ; reconstitution à poursuivre |
 
 Les arcs ultérieurs restent à consolider. Conserver les graphies des titres de travail en attendant leur harmonisation.
 
 ## 5. GRAPH — Référentiels graphiques
 
-Documents existants dans les Sources de BRANCA Illustrations, à intégrer ou réorganiser dans `01_Referentiel/Graphisme/` (répertoire absent du dépôt au 25 novembre 2026) :
+Référentiels disponibles dans [Graphisme/](Graphisme/) :
 
-- `GRAPH_01_Charte.md` : direction artistique, palettes, décoration et impression.
-- `GRAPH_02_Personnages.md` : ancienne bible visuelle ; futur index graphique vers les fiches `Perso/`.
-- `GRAPH_03_Illustrations.md` : bibliothèque de prompts et inventaire des scènes, lieux et accessoires ; découpage ultérieur possible.
+- [Charte](Graphisme/GRAPH_01_Charte.md) ; [prompts maîtres](Graphisme/GRAPH_03_Prompts_maitres.md) ; [bibliothèque historique](Graphisme/GRAPH_03_Illustrations.md).
+- Registres de scènes : [I — Sourcemolle](Graphisme/GRAPH_05_Prompts_CH01_Sourcemolle.md), [II — Scanzona](Graphisme/GRAPH_02_Prompts_CH02_Scanzona.md), [III — Traversée](Graphisme/GRAPH_03_Prompts_CH03_Traversee_Sibara.md), [IV — Vétille](Graphisme/GRAPH_05_Prompts_CH04_Vetille.md), [V — Pandosia](Graphisme/GRAPH_05_Prompts_CH05_Pandosia.md).
+- [Décoration](Graphisme/GRAPH_04_Decoration.md), [lieux](Graphisme/GRAPH_06_Lieux.md), [accessoires](Graphisme/GRAPH_07_Accessoires.md), [couverture](Graphisme/GRAPH_08_Couverture.md), [suivi](Graphisme/GRAPH_09_Suivi.md).
+- Ancienne bible visuelle `GRAPH_02_Personnages.md` : document historique des Sources, non présent sur GitHub ; utiliser les fiches individuelles pour les références actuelles.
 
 Les prompts des personnages sont désormais intégrés aux fiches individuelles. Ne pas recréer une copie concurrente des prompts. Les planches `REF_01` à `REF_05` présentes dans les Sources restent utilisables comme références complémentaires.
 
@@ -84,6 +86,8 @@ Répertoire : [04_Illustrations/references/](../04_Illustrations/references/).
 | Truffino | [Portrait](../04_Illustrations/references/PNJ_TRUFFINO_REF.png) |
 
 Planches complémentaires : [Psodia](../04_Illustrations/references/REF_PSODIA.png), [Tito](../04_Illustrations/references/REF_TITO.png), [Marée de Nuit](../04_Illustrations/references/REF_MAREE_DE_NUIT.png), [Personne et Truffino](../04_Illustrations/references/REF_PERSONNE_TRUFFINO.png), [Sispéo et Sultan](../04_Illustrations/references/REF_SISPEO_SULTAN.png).
+
+Autres références : [échelle de la clique](../04_Illustrations/references/REF_03_Clique_Echelle.png), [Ondine](../04_Illustrations/references/PNJ_ONDINE.jpg), [reine des elfes](../04_Illustrations/references/PNJ_REINE_DES_ELFES.jpg), [croquis](../04_Illustrations/croquis/).
 
 La présence des fichiers sur GitHub ne garantit pas leur transmission directe au générateur d’images. Conserver les originaux haute définition et les références nécessaires dans les Sources.
 
@@ -128,4 +132,4 @@ Les répertoires `03_Ressources/`, `05_Maquette/` et `06_Publication/` restent �
 
 ## 11. Mode d’emploi
 
-[00_MODE_EMPLOI.md](00_MODE_EMPLOI.md) — document historique de migration par ZIP, à actualiser pour le fonctionnement GitHub. En attendant sa révision, les règles de la section 1 du présent index constituent la proposition de fonctionnement courant.
+Le document historique `00_MODE_EMPLOI.md` (migration par ZIP) n’est pas présent dans le dépôt. Les règles de la section 1 du présent index constituent le mode de fonctionnement courant.
