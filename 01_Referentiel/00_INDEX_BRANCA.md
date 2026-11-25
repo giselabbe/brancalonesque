@@ -1,6 +1,6 @@
 # Branca — Index général du recueil
 
-Version 2.1 — 25 novembre 2026 — maintenance documentaire ; validations de fond inchangées.
+Version 2.2 — 25 novembre 2026 — choix éditoriaux et direction chromatique.
 
 Cet index est le point d’entrée du projet éditorial BRANCA, recueil illustré de la deuxième campagne de Brancalonia.
 
@@ -123,7 +123,13 @@ Documents recensés dans les Sources du projet BRANCA ; non présents sur le dé
 - Préserver les originaux et utiliser Git pour l’historique des documents suivis.
 - Ne pas divulguer prématurément les révélations dans les légendes, illustrations ou documents destinés aux lecteurs.
 
-## 10. Jalons éditoriaux
+## 10. Choix éditoriaux et jalons
+
+Décisions du 25 novembre 2026 : chronique picaresque illustrée, concise et accessible aux joueurs, plutôt qu'un roman développé ; format fini carré **20 × 20 cm** ; intérieur en couleurs. Objectifs indicatifs : 20 000 à 30 000 mots, 120 à 160 pages, 30 à 50 grandes illustrations, complétées de croquis au graphite, vignettes et ornements Renaissance. Couverture rigide mate souhaitée ; tirage envisagé de 5 à 10 exemplaires. Papier, reliure, fond perdu et devis à confirmer auprès de l'imprimeur.
+
+Direction graphique : grandes scènes aux couleurs plus vives, sans dominante parchemin systématique ; effet parchemin et aquarelle réservé principalement aux vignettes. Voir la [charte graphique](Graphisme/GRAPH_01_Charte.md) pour les règles de production. Le dépôt conserve la mémoire détaillée de la campagne ; le livre en propose une sélection fidèle, vivante et agréable à feuilleter.
+
+### Jalons
 
 - Fin janvier 2027 : édition PDF narrative de lecture à partager aux joueurs.
 - Mars 2027 : objectif de remise du recueil illustré imprimé au MJ, au début de la troisième campagne.
