@@ -1,13 +1,23 @@
 # BRANCA — Lieux et itinéraire
 
-Version 0.1 — 25 novembre 2026 — référentiel de travail, à valider.
+Version 0.2 — 25 novembre 2026 — référentiel de travail, à valider.
 
-Sources : [corpus narratif GitHub, chapitres I–IV](https://github.com/giselabbe/brancaolonesque/blob/main/RECIT_01_Manuscrit.md) (blob `8011ebd322986295febd00456e3517e8c1cb0a31`), [bible visuelle](https://github.com/giselabbe/brancaolonesque/blob/main/GRAPH_02_Personnages.md), index général et souvenirs des échanges BRANCA. Les PDF originaux du MJ et du lore sont recensés mais n'ont pas été relus pour cette version.
+## Sources
+
+Corpus narratif réparti en quatre manuscrits de travail :
+
+- [Chapitre I — Sourcemolle](../../02_Manuscrits/Chapitres/RECIT_01_chapitre01_trame.md)
+- [Chapitre II — Scanzona](../../02_Manuscrits/Chapitres/RECIT_01_chapitre02_trame.md)
+- [Chapitre III — La traversée vers Sibara](../../02_Manuscrits/Chapitres/RECIT_01_chapitre03_trame.md)
+- [Chapitre IV — Cibara et le bois de Bologne](../../02_Manuscrits/Chapitres/RECIT_01_chapitre04_trame.md)
+
+Autres sources : [index général](../00_INDEX_BRANCA.md), [référentiel des personnages](RECIT_02_Personnages.md), [fiches individuelles](../Perso/), [références visuelles](../../04_Illustrations/references/) et souvenirs des échanges BRANCA. Les documents GRAPH restent à intégrer au dépôt ; consulter les sources de l'atelier graphique en attendant. Les PDF originaux du MJ et du lore sont recensés mais n'ont pas été relus pour cette version.
 
 **Statuts :** D = documenté dans le corpus (ne vaut pas validation finale) ; S = souvenir des échanges, à recouper ; P = proposition éditoriale ; ? = incertitude. Ne jamais transformer une intention du MJ ou une hypothèse des héros en événement joué. Les informations postérieures au chapitre IV sont provisoires. Attention aux révélations : référentiel interne, non destiné à être publié tel quel.
 
 ## Convention
-Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de travail suivent les chapitres correspondants ; la carte et les PDF officiels permettront de fixer les formes canoniques.
+
+Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de travail suivent les chapitres correspondants ; la carte et les PDF officiels permettront de fixer les formes canoniques. Les identifiants `LIEU_*` restent stables dans cette version et sont proposés, non validés. Les références I à IV renvoient aux manuscrits ci-dessus ; S indique une information à recouper. Le catalogue reste en Markdown, sans nouveau schéma YAML.
 
 | ID proposé | Lieu | Description / fonction | Référence |
 |---|---|---|---|
@@ -42,6 +52,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 | LIEU_ILE_ENFANTS | Île des enfants perdus | S : Perdita réapparaît ; autres personnages et géographie à préciser | S |
 
 ## Territoires et déplacements
+
 - Volturnie : Sourcemolle puis val de Carvagna (Scanzona).
 - Torrigianie : provenance des réfugiés rencontrés en mer, affectée par la guerre des Fées et le règne de Sidney selon III.
 - Piccadore : destination des réfugiés et région de Sibara selon III.
@@ -49,4 +60,14 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 - Aucun itinéraire cartographique précis ni distance n'est établi dans ce référentiel.
 
 ## Pour l'atelier graphique
-Les descriptions narratives font foi pour le contexte des scènes ; les palettes, références et choix de cadrage relèvent des documents GRAPH. Ne pas ajouter de monuments ou de plans de ville comme s'ils étaient canoniques. Les IDs LIEU ci-dessus sont proposés, non validés.
+
+Les descriptions narratives font foi pour le contexte des scènes ; les palettes, références et choix de cadrage relèvent des documents GRAPH. Consulter la charte `GRAPH_01_Charte.md` et l'inventaire `GRAPH_03_Illustrations.md` dans les sources de l'atelier graphique, en attendant leur intégration au dépôt. Ne pas ajouter de monuments ou de plans de ville comme s'ils étaient canoniques. Respecter les connaissances des personnages et l'état des lieux au chapitre illustré. Les IDs LIEU ci-dessus sont proposés, non validés.
+
+## Navigation
+
+- [Index général](../00_INDEX_BRANCA.md)
+- [Sommaire](RECIT_00_Sommaire.md)
+- [Chronologie](RECIT_01_Chronologie.md)
+- [Personnages](RECIT_02_Personnages.md)
+- [Lore](RECIT_04_Lore.md)
+- [Points à confirmer](RECIT_05_Points_a_confirmer.md)

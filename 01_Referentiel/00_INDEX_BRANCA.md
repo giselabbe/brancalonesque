@@ -6,7 +6,7 @@ Cet index est le point d’entrée du projet éditorial BRANCA, recueil illustr�
 
 ## 1. Organisation et source de vérité
 
-Le [dépôt GitHub brancaolonesque](https://github.com/giselabbe/brancaolonesque), branche `main`, constitue le référentiel maître des documents qui y sont intégrés. Deux projets ChatGPT complémentaires l’utilisent :
+Le [dépôt GitHub brancalonesque](https://github.com/giselabbe/brancalonesque), branche `main`, constitue le référentiel maître des documents qui y sont intégrés. Deux projets ChatGPT complémentaires l’utilisent :
 
 - **BRANCA** : reconstitution de la campagne, rédaction et continuité narrative.
 - **BRANCA Illustrations** : direction artistique, portraits, scènes, ornements et préparation graphique.
