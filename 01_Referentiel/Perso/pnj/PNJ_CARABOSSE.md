@@ -21,7 +21,7 @@ premiere_apparition: null
 graphisme:
   statut: portrait_valide
   references:
-    portrait: null
+    portrait: ../../../04_Illustrations/references/PNJ_CARABOSSE_REF.png
     planche: null
     croquis: ../../../04_Illustrations/croquis/Jeune aventurière steampunk en armure.png
 relations:
@@ -48,7 +48,9 @@ Origine, âge exact et passé inconnus. Le référentiel narratif emploie la gra
 
 ![Croquis steampunk initial](../../../04_Illustrations/croquis/Jeune%20aventuri%C3%A8re%20steampunk%20en%20armure.png)
 
-Portrait retravaillé et validé par l'autrice le 25/11/2026 : fichier prévu PNJ_CARABOSSE_REF.png dans 04_Illustrations/references/. Le fichier image n'est pas encore versé dans Git ; le champ portrait reste null jusqu'à son dépôt.
+![Carabosse — portrait validé](../../../04_Illustrations/references/PNJ_CARABOSSE_REF.png)
+
+Portrait retravaillé et validé par l'autrice le 25/11/2026 ; fichier présent dans Git.
 
 ## Description graphique
 
@@ -75,4 +77,4 @@ Illustration originale de fantasy picaresque italienne, encre fine expressive et
 - Croquis steampunk fourni par l'autrice, puis retravaillé pour vieillir et étoffer la silhouette.
 - Portrait approuvé par l'autrice le 25/11/2026.
 
-Identité graphique validée ; dépôt du portrait et illustration du balai-moto à effectuer. Fiche narrative provisoire, faute de trame détaillée du concours. Identifiant PNJ_CARABOSSE et statut portrait_valide proposés.
+Identité graphique validée ; portrait déposé dans Git. Illustration du balai-moto à effectuer. Fiche narrative provisoire, faute de trame détaillée du concours. Identifiant PNJ_CARABOSSE et statut portrait_valide proposés.
