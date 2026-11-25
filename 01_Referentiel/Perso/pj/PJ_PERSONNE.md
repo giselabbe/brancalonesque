@@ -37,7 +37,7 @@ Théâtral, flamboyant, pratique les arts occultes. Les masques lui donnent acc�
 
 ## Histoire personnelle
 
-Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considère comme Maman.
+Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considère comme Maman. Au chapitre V, après sa réparation, la péniche se réveille et communique avec lui : elle lui révèle être un Port-Trop-Loin, capable de rejoindre n'importe quel port déjà visité. Les modalités précises de cette communication et du voyage magique restent à établir.
 
 ## Évolution pendant la campagne
 
@@ -45,6 +45,10 @@ Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considèr
 - **CH_02** : Truffino annonce que Maman est en danger.
 - **CH_03** : Incident de la cale de La Brigantine.
 - **CH_04** : Fabrique des laissez-passer ; utilise le masque de Dona Vitalli au Domaine des Vieux.
+- **CH_05 — Retour à Sibara** : Surveille d'abord la cargaison de bois de vétille à bord de la péniche, puis retrouve ses compagnons. Le moment exact où il rejoint la délégation universitaire n'est pas établi.
+- **CH_05 — Recherches à la bibliothèque** : Ne sachant pas lire, il se voit prêter par Louis des lunettes magiques qui lui permettent de déchiffrer les ouvrages. C'est lui qui découvre dans un livre une référence au *Liber Vetillæ* et fait ainsi avancer l'enquête sur la lignification. « Lorgnons de Gouguel » est un nom proposé pour le recueil, non une appellation canonique confirmée.
+- **CH_05 — Pandosia** : Arrêté avec les Canailles après la dénonciation de Hulc, participe à l'évasion et à l'expédition souterraine. Son rôle précis dans le combat contre les golems et le polissage de Quenotte n'est pas établi.
+- **CH_05 — Le réveil de Maman** : Après le retour de Pandosia, la péniche réparée lui parle et lui révèle sa véritable nature de Port-Trop-Loin. La clique libère également Nuance, l'anguana emprisonnée dans la figure de proue, grâce à la polisseuse rapportée de Pandosia. Ne pas attribuer personnellement cette opération à Personne sans confirmation.
 
 ## Références visuelles
 
@@ -64,9 +68,14 @@ Illustration originale de fantasy picaresque italienne, encre fine expressive et
 
 Les masques constituent des variantes distinctes, à dater selon leur acquisition. Aucun visage anatomique dans son apparence habituelle.
 
+- **Lunettes de lecture magiques (CH_05)** : variante ponctuelle à la bibliothèque ; adapter les lunettes aux bandelettes sans ajouter de peau, d'yeux anatomiques ni de visage humain. L'objet est prêté, sa possession durable n'est pas attestée.
+- **Déguisement universitaire (CH_05)** : robe de mage et fausse barbe si la scène le justifie ; sa présence au moment de l'achat des déguisements ou du contrôle à l'entrée reste incertaine.
+- **Communication avec Maman (CH_05)** : privilégier une scène intime avec la péniche réparée ; ne pas matérialiser un visage sur la coque ni inventer un mode de communication. Nuance est encore en bois lors de la révélation du Port-Trop-Loin, selon l'ordre retenu dans la trame.
+
 ## Sources et validation
 
 - Référentiel narratif : [RECIT_02_Personnages.md](../../Narration/RECIT_02_Personnages.md).
 - Prompt récupéré sur GitHub : `01_Referentiel/Graphisme/prompts/pj/PJ_PERSONNE_PROMPT.txt` (emplacement au 25/11/2026).
 - Bible graphique GRAPH_02, V1.0, 25/11/2026.
-- Fiche de travail à valider ; les événements ultérieurs au chapitre IV restent provisoires. Les identifiants des PNJ hors de cette série sont proposés, à créer ou confirmer.
+- [Chapitre V, partie 1](../../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) et [partie 2](../../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md) ; [chronologie](../../Narration/RECIT_01_Chronologie.md) ; [registre des illustrations](../../Graphisme/GRAPH_05_Illustrations_narratives.md).
+- Fiche actualisée au 25 novembre 2026, à valider ; les événements ultérieurs au chapitre V restent provisoires. Les PDF du MJ n'ont pas été relus pour cette mise à jour. Les identifiants des PNJ hors de cette série sont proposés, à créer ou confirmer.
