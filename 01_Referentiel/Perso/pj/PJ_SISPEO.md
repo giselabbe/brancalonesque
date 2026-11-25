@@ -33,7 +33,7 @@ statut_fiche: a_valider
 
 ## Description et personnalité
 
-Également appelé C3PO. Provocateur, renfrogné et volontiers vulgaire. Sait communiquer avec les animaux.
+Provocateur, renfrogné et volontiers vulgaire. Sait communiquer avec les animaux.
 
 ## Histoire personnelle
 
@@ -44,6 +44,7 @@ Originaire du bois de Bologne selon le chapitre IV. Marionnette en bois de véti
 - **CH_01** : Sa marraine transforme temporairement Psodia et lui en humains ; intervient dans le destin de l’Agneau Unique.
 - **CH_03** : Répare la cale de La Brigantine.
 - **CH_04** : Interprète les paroles du cochon au Domaine des Vieux.
+- **CH_05 — Pandosia et le Liber Vetillæ** : Lors de la détention à l'Académie de Sibara, descelle quelques pierres du mur de la cellule. Ces pierres servent de diversion lors de l'évasion organisée par les Canailles ; elles s'échappent par les portes, et non par le mur. Humus conseille de consulter sa marraine, Belle-Mère la Bonne Fée, ou Ondine au sujet de la lignification. Sispéo accompagne l'expédition à Pandosia ; sa participation précise au polissage de Quenotte reste à confirmer.
 - **Suite — souvenir à recouper** : Peut diriger les marionnettes géantes elfiques.
 
 ## Références visuelles
@@ -69,4 +70,5 @@ Apparence humaine au bal : variante narrative à illustrer. Ne pas ajouter de ch
 - Référentiel narratif : [RECIT_02_Personnages.md](../../Narration/RECIT_02_Personnages.md).
 - Prompt récupéré sur GitHub : `01_Referentiel/Graphisme/prompts/pj/PJ_SISPEO_PROMPT.txt` (emplacement au 25/11/2026).
 - Bible graphique GRAPH_02, V1.0, 25/11/2026.
-- Fiche de travail à valider ; les événements ultérieurs au chapitre IV restent provisoires. Les identifiants des PNJ hors de cette série sont proposés, à créer ou confirmer.
+- [Chapitre V, partie 1](../../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) et [partie 2](../../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md) ; [chronologie narrative](../../Narration/RECIT_01_Chronologie.md).
+- Fiche de travail actualisée au 25 novembre 2026 ; les événements ultérieurs au chapitre V restent provisoires. Le nom canonique est exclusivement Sispéo, conformément à la correction de l'utilisateur. Les identifiants des PNJ hors de cette série sont proposés, à créer ou confirmer.
