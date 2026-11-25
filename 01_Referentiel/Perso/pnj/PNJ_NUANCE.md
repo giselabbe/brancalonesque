@@ -9,7 +9,9 @@ origine: null
 physique:
   pelage: null
   yeux: null
-  signes_distinctifs: []
+  signes_distinctifs:
+  - morphologie de femme-serpent
+  - apparence évoquant une sirène marine
   taille_precision: null
   taille_fin_cm: null
 premiere_apparition: null
@@ -49,13 +51,13 @@ Choix du croquis confirmé par l'autrice. Portrait définitif et planche des var
 
 ## Description graphique
 
-Créature aquatique de type anguana. L'apparence de Nuance libérée doit respecter le croquis choisi, dans sa version vêtue. Distinguer clairement son identité visuelle de celle d'Ondine. Les détails morphologiques, les vêtements et la palette individuelle doivent être relevés sur le croquis avant génération : le contenu de l'image n'a pas pu être récupéré lors de la rédaction de cette fiche.
+Créature aquatique de type anguana, femme-serpent évoquant une sirène. L'autrice privilégie un imaginaire marin, les algues et une identité distincte de la fée bleutée Ondine. Direction proposée : buste féminin, longue queue serpentine plutôt qu'une queue de poisson classique, chevelure évoquant les algues, palette vert algue, olive, nacre et gris marin. Les détails de cette proposition restent à valider. L'apparence de Nuance libérée doit respecter le croquis choisi, dans sa version vêtue. Distinguer clairement son identité visuelle de celle d'Ondine. Les détails morphologiques, les vêtements et la palette individuelle doivent être relevés sur le croquis avant génération : le contenu de l'image n'a pas pu être récupéré lors de la rédaction de cette fiche.
 
 ## Prompt graphique de référence
 
 ### Nuance libérée
 
-Illustration originale de fantasy picaresque italienne, encre fine expressive et aquarelle texturée, rendu artisanal semi-réaliste, détails de matières, couleurs sourdes (encre #30261F, bordeaux #843A32, olive #546047, or ancien #AC8949). Respecter strictement le croquis choisi de Nuance vêtue : visage, silhouette, morphologie, coiffure, costume et accessoires. Créature aquatique vivante, gestuelle fluide et organique. Portrait en pied ou silhouette entière selon sa morphologie, personnage isolé, fond réellement transparent, sans décor, texte ni cadre. Ne pas assimiler son apparence à celle d'Ondine ni ajouter d'attributs féeriques non confirmés. Prompt à compléter après examen visuel du croquis.
+Illustration originale de fantasy picaresque italienne, encre fine expressive et aquarelle texturée, rendu artisanal semi-réaliste, détails de matières, couleurs sourdes (encre #30261F, bordeaux #843A32, olive #546047, or ancien #AC8949). Respecter strictement le croquis choisi de Nuance vêtue : visage, silhouette, morphologie, coiffure, costume et accessoires. Créature marine vivante, femme-serpent évoquant une sirène, gestuelle fluide et organique, inspiration algues et monde marin. Palette individuelle proposée : vert algue, olive, nacre et gris marin ; éviter la dominante bleue propre à Ondine. Portrait en pied ou silhouette entière selon sa morphologie, personnage isolé, fond réellement transparent, sans décor, texte ni cadre. Ne pas assimiler son apparence à celle d'Ondine ni ajouter d'attributs féeriques non confirmés. Prompt à compléter après examen visuel du croquis.
 
 ### Nuance lignifiée
 
@@ -69,6 +71,8 @@ Même identité morphologique que Nuance libérée, représentée sous forme de 
 - Ne pas confondre Nuance, la péniche consciente (Maman) et Ondine.
 
 ## Sources et validation
+
+- Précision de l'autrice : Nuance est une femme-serpent, une sorte de sirène associée à la mer et aux algues ; Ondine est bleutée. Les couleurs précises restent proposées et non validées.
 
 - [RECIT_02_Personnages.md](../../Narration/RECIT_02_Personnages.md).
 - [RECIT_01_Chronologie.md](../../Narration/RECIT_01_Chronologie.md).
