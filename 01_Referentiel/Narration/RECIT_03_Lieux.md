@@ -25,7 +25,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 |---|---|---|---|
 | LIEU_CAMP | Camp de Dame Mystique | Campement itinérant de roulottes sur les routes du Royaume d'État-lie | I |
 | LIEU_SOURCEMOLLE | Sourcemolle | Bourgade de Volturnie autour d'un aqueduc partiellement effondré ; habitat vertical, riches en hauteur, passerelles, pont sous environ 50 cm d'eau | I |
-| LIEU_DOUX_FUMET | Doux Fumet | Auberge, toit traversé lors de la chute, jardin où se trouve l'œuf | I |
+| LIEU_DOUX_FUMET | Doux Fumet | Auberge, toit traversé par les Canailles après leur chute à travers une passerelle de la ville haute (Q101), jardin où se trouve l'œuf | I |
 | LIEU_CRYPTE | Crypte de la 17e pile | Gisants des ancêtres de Rouspète, statue de Chaterpillar, tombeau vide de Quenotte | I |
 | LIEU_NID_CRACOUCASS | Vieille tour | Nid du vautour géant, découverte de Robert et de l'Agneau | I |
 | LIEU_MANOIR_VITALLI | Manoir Vitalli | Grande demeure, richesse de façade, grenier de Tâcheron | I |
