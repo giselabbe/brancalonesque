@@ -25,7 +25,7 @@ Version 0.1 — 25 novembre 2026 — proposition de préparation pour le chapitr
 - **Psodia** : ratone d'environ 1 m, pelage brun-gris, grandes oreilles roses, foulard bordeaux, gilet olive, regard frondeur ; son empathie pour les pauvres motive la protection de Cosma.
 - **Tito** : jeune ogre paladin massif, environ 2 m au début, boucles brunes, grandes oreilles, petites défenses, armure patinée, pelle de Chaterpillar acquise au chapitre I. Ne pas lui attribuer arbitrairement sa stature de fin de campagne (2,50 m).
 - **Marée de Nuit** : chalupestre moine gris sombre, de moins d'1 m, silhouette ronde et petit ventre visible, robe brune, capuche olive, expression érudite et posée.
-- **Personne** : Inexistant de taille humaine, **sans visage ni corps matériel** ; bandelettes crème séparées par du vide noir ; costume théâtral Renaissance bordeaux, or et turquoise. Ne jamais inventer de peau ou d'yeux humains sous les bandelettes.
+- **Personne** : Inexistant de taille humaine, **sans visage ni corps matériel** ; bandelettes crème séparées par du vide noir ; costume théâtral Renaissance bordeaux, or et turquoise. Ne jamais inventer de peau ou d'yeux humains sous les bandelettes. Après le combat contre les grands guerriers (II.07), il confectionne un masque d'elfe : variante à préparer pour la suite, jamais avant cette scène.
 - **Sispéo** (et non « Sispeo » ni « C3PO » dans la légende) : petite marionnette vivante en vétille brut, mal équarrie, articulations visibles, pantalon grossier attaché par une corde, torse nu, pieds de bois, air renfrogné. Ne pas lui ajouter de chemise, cape, chapeau ou sourire.
 
 **Continuité des PNJ :** Ondine est une fée des eaux aux cheveux bleus (référence `PNJ_ONDINE.jpg`). Perdita est une **fillette** aux cheveux verts, vive et particulièrement perspicace, pas une jeune femme. Truffino est un petit diablotin noir, yeux blancs, cornes, ailes de chauve-souris et queue pointue (`PNJ_TRUFFINO_REF.png`). Cosma se fait passer pour Saint Nicollo. Ne pas extrapoler l'aspect de Maïale ou de Spiroulin à partir de descriptions seules si leurs portraits existants sont disponibles hors du dépôt.
@@ -36,6 +36,7 @@ Version 0.1 — 25 novembre 2026 — proposition de préparation pour le chapitr
 - Le véritable projet infernal de Maïale **n'est pas découvert par les PJ** : la scène CH02-ILL-03 est une **illustration allégorique / révélation hors récit vécu**, à réserver à un emplacement éditorial approprié (ou aux coulisses du MJ). Elle ne doit jamais passer pour une scène à laquelle la clique a assisté.
 - À la fin du chapitre II, Tourette est en difficulté et son état empire, **mais elle n'est pas encore une statuette de vétille**. La lignification intervient au chapitre IV.
 - À l'issue du chapitre II, Truffino annonce le danger menaçant la péniche « Maman » à Sibara ; **elle n'a pas encore été réparée** et son identité de Port-Trop-Loin ne doit pas être révélée ici.
+- Après l'affrontement du II.07, **Personne confectionne un masque d'elfe**. Ne pas lui attribuer une méthode précise, ni faire porter ce masque au personnage avant le combat.
 
 **Priorités proposées :** A = structurante ; B = scène secondaire recommandée ; C = option selon pagination. **Toutes les illustrations ont le statut `brouillon` et aucun fichier final n'est attribué.** Les cadrages sont pensés pour rester exploitables dans un recueil dont le format d'impression définitif reste à confirmer.
 
@@ -112,6 +113,7 @@ Ce tableau sert à préparer les générations. Il **ne remplace pas les fiches 
 | CH02-POR-07 | Gang des Crapauds | Quatre **humains**, silhouettes distinctes ; modèle de poulet géant à établir pour l'un d'eux. |
 | CH02-POR-08 | Truffino | **Référence validée** : `PNJ_TRUFFINO_REF.png` et `REF_PERSONNE_TRUFFINO.png`. |
 | CH02-POR-09 | Dame Mystique | Croquis candidat `dame_mystique.png` ; confirmer avant de l'introduire dans CH02-ILL-06. |
+| CH02-POR-10 | Personne au masque d'elfe | Variante à créer après II.07, en conservant les bandelettes, le vide noir et le costume de Personne ; visuel du masque à définir, première utilisation inconnue. |
 
 **PJ :** ne pas créer de nouveaux portraits ; utiliser les cinq fiches et portraits de `04_Illustrations/references/`. Pour la scène du trésor, une planche commune d'échelle sera particulièrement utile.
 
@@ -126,6 +128,7 @@ Ce tableau sert à préparer les générations. Il **ne remplace pas les fiches 
 | CH02-ACC-05 | Métamorphose en poulet géant | **Un seul brigand** transformé parmi les quatre humains du Gang. Proportions cocasses et lisibles. |
 | CH02-ACC-06 | Ruisseau d'Ondine | Végétation aquatique Art nouveau, reflet turquoise maîtrisé ; premier cadre romantique de Tito. |
 | CH02-ACC-07 | Camp de Dame Mystique | Roulottes, feu de camp, objets ordinaires, ambiance ambulante ; pas de péniche sur place. |
+| CH02-ACC-08 | Masque d'elfe de Personne | Objet confectionné après l'affrontement de II.07, à harmoniser avec les références des grands guerriers ; ne pas lui inventer de pouvoirs supplémentaires ni de provenance précise. |
 
 ## Contrôles avant validation et ordre de production proposé
 

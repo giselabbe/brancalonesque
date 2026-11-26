@@ -45,6 +45,7 @@ Source : [manuscrit II](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame
 - [x] Q204 — Inscription de la statue de Soubiroute : inutile de récupérer son texte, la mission du pèlerinage n'ayant pas été poursuivie.
 - [x] Q205 — Début de renseignements sur le pèlerinage, puis abandon : Psodia veut aider les habitants, contrairement à Personne et Sispéo ; urgences du sauvetage de la péniche (santé de Personne) et du remède de Tourette, et perspective d'affronter un démon puissant. Ne pas transformer les anciens souvenirs d'évasion ou de passage aux enfers en événements confirmés.
 - [x] Q206 — Ondine rejoint la clique après l'affrontement avec les elfes ; Truffino apparaît au passage au niveau 3, au retour sur la péniche en fin de session (familiers accessibles au niveau 3).
+- [x] Q207 — Confirmation de la joueuse (26 novembre 2026) : après l'affrontement contre les grands guerriers, Personne se confectionne un masque d'elfe. Deuxième masque connu après Dona Vitalli (I). Ne pas anticiper le masque avant cette scène ; fabrication exacte et première utilisation non documentées. La nature elfique de ces guerriers n'est identifiée explicitement par les héros qu'au chapitre V.
 
 ### Chapitre III — Traversée
 Source : [manuscrit III](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_trame.md).

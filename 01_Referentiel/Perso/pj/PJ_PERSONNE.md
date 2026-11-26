@@ -42,7 +42,7 @@ Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considèr
 ## Évolution pendant la campagne
 
 - **CH_01** : Premier masque : Dona Vitalli.
-- **CH_02** : S'oppose à la mission du pèlerinage ; Au passage au niveau 3, lors du retour sur la péniche en fin de session, son familier Truffino apparaît et annonce que Maman est en danger (Q206). La dégradation de la santé de Personne rend le sauvetage de la péniche urgent et contribue à l'abandon du pèlerinage (Q205).
+- **CH_02** : Après le combat contre les grands guerriers près d'Ondine, se confectionne un masque d'elfe (leur nature ne sera explicitement identifiée que plus tard). Il s'agit du deuxième masque connu après celui de Dona Vitalli ; ses modalités exactes de fabrication et sa première utilisation ne sont pas précisées. S'oppose à la mission du pèlerinage ; Au passage au niveau 3, lors du retour sur la péniche en fin de session, son familier Truffino apparaît et annonce que Maman est en danger (Q206). La dégradation de la santé de Personne rend le sauvetage de la péniche urgent et contribue à l'abandon du pèlerinage (Q205).
 - **CH_03** : Endommage la cale de La Brigantine ; les Canailles ne comprennent pas pourquoi (Q302).
 - **CH_04** : Fabrique des laissez-passer ; utilise le masque de Dona Vitalli au Domaine des Vieux.
 - **CH_05 — Retour à Sibara** : Surveille d'abord la cargaison de bois de vétille à bord de la péniche, puis retrouve ses compagnons. Le moment exact où il rejoint la délégation universitaire n'est pas établi.
@@ -67,6 +67,8 @@ Illustration originale de fantasy picaresque italienne, encre fine expressive et
 ## Variantes et continuité
 
 Les masques constituent des variantes distinctes, à dater selon leur acquisition. Aucun visage anatomique dans son apparence habituelle.
+
+- **Masque d'elfe (CH_02)** : confectionné après l'affrontement contre les grands guerriers. Variante graphique à préparer, sans introduire ce masque dans les scènes antérieures. Son aspect précis et la première scène où Personne le porte restent à documenter ; ne pas transformer le masque en visage anatomique permanent.
 
 - **Lunettes de lecture magiques (CH_05)** : variante ponctuelle à la bibliothèque ; adapter les lunettes aux bandelettes sans ajouter de peau, d'yeux anatomiques ni de visage humain. L'objet est prêté, sa possession durable n'est pas attestée.
 - **Déguisement universitaire (CH_05)** : robe de mage et fausse barbe si la scène le justifie ; sa présence au moment de l'achat des déguisements ou du contrôle à l'entrée reste incertaine.
