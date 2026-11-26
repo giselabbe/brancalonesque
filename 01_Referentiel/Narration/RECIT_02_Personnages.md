@@ -60,7 +60,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | Bosco Rosso | « Le Sanguinaire », équipage de Kali ; semble tenir la vraie direction du bateau. |
 | Isabella | « La Sirène », équipage de Kali ; hostile aux passagers supplémentaires. |
 | Hulc | Grenouille de taille humaine à accent marseillais, réfugié. V : dénonce les Canailles aux gardes pour la prime et provoque leur arrestation. |
-| Poule géante | Passagère parmi les réfugiés ; nom non fourni. |
+| Poule géante | Passagère parmi les réfugiés ; nom non fourni ; devenir ultérieur sans importance pour le récit (Q304). |
 
 ## Sibara, Académie et bois (D)
 | Nom | Rôle |
