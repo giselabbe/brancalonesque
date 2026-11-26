@@ -14,7 +14,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 ## I — Sourcemolle (D)
 | ID | Événement | Conséquence / continuité |
 |---|---|---|
-| I.01 | Camp itinérant de Dame Mystique ; cinq Canailles déjà associées | Tourette et Sanchez présents ; matériel initial ordinaire |
+| I.01 | Camp itinérant de Dame Mystique ; cinq Canailles déjà associées | Tourette présente ; matériel initial ordinaire. Les figurants sans rôle ultérieur ne sont pas détaillés dans ce référentiel (Q109). |
 | I.02 | Chute à travers une passerelle de la ville haute, puis le toit du Doux Fumet ; réveil dans la rivière | Chute confirmée par une joueuse (Q101) ; mise à l'eau documentée dans la trame |
 | I.03 | Concours de nourriture ; Personne démasqué | Œuf du Cracoucass brisé |
 | I.04 | Escorte de Cornelia, guet-apens, rencontre de la Communauté | Recherche de quatre porteurs et de l'Agneau Unique ; mise en garde vague, danger jamais élucidé (Q106) |

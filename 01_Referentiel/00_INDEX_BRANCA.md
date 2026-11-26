@@ -43,6 +43,8 @@ Statuts existants : D = documenté dans le corpus, S = souvenir à recouper, P =
 
 Les fiches de `Perso/` regroupent les caractéristiques structurées (en-tête YAML), le récit libre et le prompt graphique de référence. Un personnage possède un identifiant stable et une fiche individuelle ; les index narratifs et graphiques ont vocation à pointer vers celle-ci, sans duplication. La migration est en cours : signaler les divergences sans les résoudre arbitrairement.
 
+**Critère de sélection des PNJ (décision de l'utilisatrice, 26 novembre 2026) :** ne conserver dans les répertoires de référence et les fiches individuelles que les PNJ dont le rôle est significatif pour l'intrigue, les relations ou les illustrations. Un figurant ou personnage purement secondaire peut rester cité dans un manuscrit pour la fidélité du récit, sans nécessiter d'entrée dans les référentiels, de fiche ni de suivi de continuité spécifique. **Exemple : Sanchez**, cuisinier du camp au chapitre I, n'est pas retenu dans le répertoire des PNJ car il n'aura pas de rôle dans l'aventure. Une apparition brève mais décisive justifie en revanche la présence d'un PNJ dans les références.
+
 ### Personnages joueurs
 
 - [PJ_PSODIA — Psodia](Perso/pj/PJ_PSODIA.md)
