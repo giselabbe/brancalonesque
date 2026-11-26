@@ -49,7 +49,7 @@ Elle a notamment oublié l'emplacement de Pandosia, comme les autres ratons. Les
 - **CH_05 — Évasion** : Tente de communiquer avec le Malebranche flûtiste, empêché de parler par une bulle de silence. Crochète la serrure de la cellule et contribue à l'évasion collective organisée par les Canailles.
 - **CH_05 — Retrouvailles avec Pandosia** : Les indications d'Ondine réveillent ses souvenirs du sanctuaire de Quenotte. Dans les égouts, elle se rappelle la baguette acquise à Sourcemolle, oubliée depuis lors, et ouvre grâce à elle l'immense porte de Pandosia. Elle déchiffre les panneaux en langue ratone et crochète la porte de la Banque des Dents de Lait.
 - **CH_05 — Libération de Quenotte** : La statuette de bois de la fée vibre lorsqu'elle la prend entre ses mains. Psodia se transforme en véritable souris pour reconnaître le temple et repérer les deux golems d'émail et la polisseuse. Elle polit la statuette de Quenotte pendant que les autres Canailles combattent les golems. Elle participe ensuite à l'affrontement collectif contre les cinq elfes (Q515).
-- **CH_05 — Retour du peuple raton** : Avec les Canailles, convainc les réfugiés de retourner vivre à Pandosia. Elle tient ainsi la promesse faite à son peuple au chapitre III.
+- **CH_05 — Retour du peuple raton** : Avec les Canailles, convainc les réfugiés de retourner vivre à Pandosia. Elle tient ainsi la promesse faite à son peuple au chapitre III. Les paroles exactes de son discours ne sont pas conservées ; reconstitution littéraire autorisée autour de « Je vais vous reconduire à Pandosia », dans un registre messianique évoquant Paul Atréides face aux Fremen (Q505).
 
 ## Pouvoirs et compétences
 
