@@ -47,7 +47,7 @@ Un tombeau lui est consacré dans la crypte de la dix-septième pile. Celui-ci e
 - **CH_01 (I.06)** : Première mention ; découverte du tombeau vide de Quenotte. Psodia récupère sa baguette sans en connaître les propriétés.
 - **CH_05 (V.15)** : Ondine indique que Quenotte pourrait savoir où se trouve l'Enfant. Psodia retrouve des souvenirs de son sanctuaire.
 - **CH_05 (V.19)** : Un magicien rescapé témoigne de sa lignification par les elfes et de la présence de la statuette à Pandosia ; le mystère du tombeau vide est ainsi résolu (Q104).
-- **CH_05 (V.20–V.21)** : Découverte de la statuette vibrante dans le temple ; Psodia reconnaît les lieux sous forme de souris. Les Canailles combattent les golems d'émail et polissent la statuette. Quenotte est libérée ; le second golem s'immobilise.
+- **CH_05 (V.20–V.21)** : Découverte de la statuette vibrante dans le temple ; Psodia reconnaît les lieux sous forme de souris. Psodia polit la statuette pendant que les autres Canailles combattent les golems d'émail (Q515). Quenotte est libérée ; le second golem s'immobilise.
 - **CH_05 (V.22)** : Quenotte ouvre la porte avec sa baguette ; cinq elfes surgissent d'un cercle de champignons.
 - **CH_05 (V.23)** : Quitte Pandosia en compagnie des Canailles.
 
