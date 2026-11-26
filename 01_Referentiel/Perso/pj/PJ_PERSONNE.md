@@ -37,7 +37,7 @@ Théâtral, flamboyant, pratique les arts occultes. Les masques lui donnent acc�
 
 ## Histoire personnelle
 
-Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considère comme Maman. Au chapitre V, après sa réparation, la péniche se réveille et communique avec lui : elle lui révèle être un Port-Trop-Loin, capable de rejoindre n'importe quel port déjà visité. Les modalités précises de cette communication et du voyage magique restent à établir.
+Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considère comme Maman. Au chapitre V, après sa réparation, la péniche se réveille et communique avec lui : elle lui révèle être un Port-Trop-Loin, capable de rejoindre n'importe quel port déjà vu à condition d'atteindre 8,8 nœuds par heure (Q517). Les modalités précises de la communication restent à établir ; aucune autre restriction du voyage n'est confirmée.
 
 ## Évolution pendant la campagne
 
