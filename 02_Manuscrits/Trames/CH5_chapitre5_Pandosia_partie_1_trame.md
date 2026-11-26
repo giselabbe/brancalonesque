@@ -38,7 +38,7 @@ Ironie du sort, c'est précisément Personne qui découvre, dans un livre, une r
 
 Il y est question d'un puissant sort de lignification permettant d'inverser les propriétés du bois de vétille. Alors que ce bois permet habituellement à la magie d'animer des objets et des marionnettes, le sort inverse en fait un réceptacle capable d'emprisonner la magie et les créatures féériques.
 
-Ce sort aurait été utilisé pour la dernière fois il y a six cents ans par la Guilde des Guiscards de Tarantase, avant de tomber dans l'oubli. Voilà une piste pour comprendre ce qui est arrivé à Tourette.
+D'après les sources consultées, le dernier usage officiellement recensé de ce sort remonterait à environ six cents ans, par la Guilde des Guiscards de Tarantase. Cela ne signifie pas que le sort n'a plus été pratiqué depuis. Voilà une piste pour comprendre ce qui est arrivé à Tourette.
 
 ## 5. Du dit des nains et des elfes
 
