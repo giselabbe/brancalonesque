@@ -43,7 +43,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | El Lessar / Grands Plats | Cuisinier, mystérieux rôdeur de l'auberge ; Communauté. |
 | Le Beau Romir | Barbier ; Communauté. |
 | Chaterpillar | Chalupestre représenté dans la crypte avec la pelle acquise par Tito. |
-| Quenotte | Fée des dents ; tombeau vide et baguette retrouvée au I, sans explication pour les héros. V : le témoignage du mage rescapé révèle sa lignification par les elfes et sa présence à Pandosia, expliquant le tombeau vide (Q104) ; statuette vibrante au contact de Psodia ; libérée par polissage dans son temple à Pandosia. Utilise sa baguette pour ouvrir la porte avant l'apparition de cinq elfes. Après sa libération, elle transforme le flûtiste en grenouille (Q512). Son rôle dans le silence du flûtiste reste une hypothèse. |
+| Quenotte | Fée des dents ; tombeau vide et baguette retrouvée au I, sans explication pour les héros. V : le témoignage du mage rescapé révèle sa lignification par les elfes et sa présence à Pandosia, expliquant le tombeau vide (Q104) ; statuette vibrante au contact de Psodia ; libérée par polissage dans son temple à Pandosia. Utilise sa baguette pour ouvrir la porte avant l'apparition de cinq elfes. Après sa libération, elle transforme le flûtiste en grenouille (Q512). Son rôle dans le silence du flûtiste reste une hypothèse, au même titre que celui des mages (Q512). |
 | Belle Mère | Bonne fée, marraine de Sispéo ; transforme provisoirement Sispéo et Psodia. |
 | Casanabo | Nain muni d'un escabeau, prétendant importun de Psodia. |
 | Cracoucass | Vautour géant ; son nid abrite Robert et l'Agneau. |
