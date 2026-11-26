@@ -23,7 +23,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | I.07 | Manoir Vitalli, découverte de Tâcheron | Personne acquiert son premier masque, Dona Vitalli |
 | I.08 | Préparatifs du bal ; diversion des boules puantes ; magie de Belle Mère | Psodia et Sispéo temporairement humains |
 | I.09 | Bal ; Casanabo ; rivalité féerique ; échec auprès de Kali puis réussite auprès de Robert | Robert et Tâcheron se marient ; Kali libre de partir |
-| I.10 | Minuit : Cendrillon se révèle être Rouspète | Mystère non résolu |
+| I.10 | Minuit : Cendrillon se révèle être Rouspète | Raison de sa transformation jamais révélée (Q105) |
 | I.11 | Baron ruiné et butin Vitalli sans valeur | Pas de récompense significative |
 | I.12 | Agneau repris à la Communauté ; décision unilatérale de Sispéo | Mort de l'Agneau ; quête interrompue |
 
