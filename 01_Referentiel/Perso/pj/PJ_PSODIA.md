@@ -56,7 +56,7 @@ Elle a notamment oublié l'emplacement de Pandosia, comme les autres ratons. Les
 - Roublarde : discrétion et crochetage ; sait lire et déchiffrer la langue ratone.
 - Capacités magiques acquises durant son enfance, dont la transformation en véritable souris attestée au chapitre V. Les modalités exactes et la première manifestation de ces capacités restent à préciser.
 - Baguette de Quenotte : acquise au chapitre I, utilisée au V pour ouvrir Pandosia. Ne pas attribuer automatiquement tous ses pouvoirs à cette baguette.
-- Kwisach des Rats : figure de guide associée à la prophétie des ratons ; ne pas présenter une nature surnaturelle ou un statut royal comme établis.
+- Kwisach des Rats (Q305) : raton sauveur annoncé par la prophétie, destiné à reconduire le peuple raton à Pandosia, la cité mythique dont l'entrée s'est perdue ; ne pas présenter une nature surnaturelle ou un statut royal comme établis.
 
 ## Références visuelles
 
