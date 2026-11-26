@@ -38,7 +38,7 @@ Le plus remarquable est **Tourette**, une fée minuscule, pourvue d'ailes, qui a
 
 On compte également parmi les habitants du camp un cuisinier nommé **Sanchez**, ainsi que plusieurs compagnons dont le rôle reste secondaire à ce stade de l'histoire.
 
-Les cinq aventuriers commencent leurs péripéties avec un équipement relativement ordinaire, correspondant à leurs différentes professions.
+Les cinq aventuriers commencent leurs péripéties avec un équipement relativement ordinaire, correspondant à leurs classes respectives. [Note de travail Q107 : équipement de départ selon les règles de D&D 5e, édition 2014 ; ne pas détailler les inventaires sans nécessité narrative. La clique est déjà constituée au prologue, sans nécessité d'en raconter la formation.]
 
 Rien, dans leur situation initiale, ne laisse encore prévoir l'ampleur des événements auxquels ils vont être mêlés.
 
