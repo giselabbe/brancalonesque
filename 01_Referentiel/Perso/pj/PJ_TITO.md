@@ -13,6 +13,7 @@ physique:
   - cheveux bruns bouclés
   - grandes oreilles
   - petites défenses
+  - dents surnuméraires, arrondies, très désalignées et chevauchantes (sourire en accordéon)
   taille_precision: environ 2 m au début, 2,50 m ensuite
   taille_fin_cm: 250
 premiere_apparition: CH_01
@@ -61,15 +62,19 @@ Origine non précisée. Sa mère est la patronne de Chez Gargantua ; les soupço
 
 ## Description graphique
 
-Jeune ogre paladin, massif, visage juvénile, cheveux bruns bouclés, grandes oreilles, petites défenses, regard sincère et fier. Armure métallique patinée, tunique claire, étoffes bordeaux et olive, bottes. Pelle de Chaterpillar après sa découverte à Sourcemolle. Au début environ 2 m ; ensuite environ 2,50 m, même armure devenue trop courte. Variante naine temporaire à créer.
+Jeune ogre paladin, massif, visage juvénile, cheveux bruns bouclés, grandes oreilles, petites défenses, regard sincère et fier. Armure métallique patinée, tunique claire, étoffes bordeaux et olive, bottes. Pelle de Chaterpillar après sa découverte à Sourcemolle. Au début environ 2 m ; ensuite environ 2,50 m, cotte de mailles devenue trop petite, façon crop top, laissant le ventre apparent. Dentition surnuméraire, arrondie, irrégulière et chevauchante, sans dents pointues hors des petites défenses. Variante naine temporaire à créer.
 
 ## Prompt graphique de référence
 
-Illustration originale de fantasy picaresque italienne, encre fine expressive et aquarelle texturée, rendu artisanal semi-réaliste, détails de matières, vêtements usés, couleurs sourdes (encre #30261F, bordeaux #843A32, olive #546047, or ancien #AC8949). Respecter strictement la planche validée jointe : visage, silhouette, costume et accessoires. Portrait en pied, personnage isolé, fond réellement transparent, sans décor, texte ni cadre. Ne pas embellir ou moderniser le personnage. Jeune ogre paladin, massif, visage juvénile, cheveux bruns bouclés, grandes oreilles, petites défenses, regard sincère et fier. Armure métallique patinée, tunique claire, étoffes bordeaux et olive, bottes. Pelle de Chaterpillar après sa découverte à Sourcemolle. Au début environ 2 m ; ensuite environ 2,50 m, même armure devenue trop courte. Variante naine temporaire à créer.
+Illustration originale de fantasy picaresque italienne, encre fine expressive et aquarelle texturée, rendu artisanal semi-réaliste, détails de matières, vêtements usés, couleurs sourdes (encre #30261F, bordeaux #843A32, olive #546047, or ancien #AC8949). Respecter strictement la planche validée jointe : visage, silhouette, costume et accessoires. Portrait en pied, personnage isolé, fond réellement transparent, sans décor, texte ni cadre. Ne pas embellir ou moderniser le personnage. Jeune ogre paladin, massif, visage juvénile, cheveux bruns bouclés, grandes oreilles, petites défenses, regard sincère et fier. Armure métallique patinée, tunique claire, étoffes bordeaux et olive, bottes. Pelle de Chaterpillar après sa découverte à Sourcemolle. Au début environ 2 m ; ensuite environ 2,50 m, cotte de mailles devenue trop petite, façon crop top, laissant le ventre apparent. Variante naine temporaire à créer.
+
+### Variante validée — portrait en pied, bouche ouverte (26/11/2026)
+
+Portrait en pied de Tito après sa croissance, de la tête aux bottes, sur fond blanc pour cette variante. Encre et aquarelle texturée, palette chaude et terreuse, style de la référence. Jeune ogre massif et jovial, peau claire tachetée de rousseur, cheveux bruns bouclés en désordre, grandes oreilles, nez rond rougi, tête légèrement renversée et yeux plissés de joie. Large sourire bouche ouverte : dents trop nombreuses, de forme humaine arrondie, très désalignées, inclinées et chevauchantes, effet accordéon ; pas de dentition de prédateur ni de rangées de crocs. Cotte de mailles trop courte façon crop top, bras et ventre nus, sangles de cuir, cape bordeaux à bordures dorées et broche fleur de lys, pantalon olive-brun rapiécé, bottes de cuir, ceinture avec bourses, sacoche et chope métallique. Les deux mains reposent sur le manche en bois de la pelle de Chaterpillar, lame usée posée au sol. Sans texte ni cadre. Conserver également la variante bouche fermée, avec les petites défenses caractéristiques. Les deux expressions sont des références complémentaires du même personnage.
 
 ## Variantes et continuité
 
-Croissance : 200 à 250 cm. Conserver la même armure, devenue trop courte. Le moment exact de la croissance n'est pas fixé dans cette fiche : vérifier la taille de Tito pour chaque scène du chapitre V à partir de la chronologie et des références validées. Ne pas anticiper l’acquisition de la pelle.
+Croissance : 200 à 250 cm. Après la croissance, représenter la cotte de mailles trop petite en crop top, ventre apparent. Le moment exact de la croissance n'est pas fixé dans cette fiche : vérifier la taille de Tito pour chaque scène du chapitre V à partir de la chronologie et des références validées. Ne pas anticiper l’acquisition de la pelle.
 
 - **Déguisement universitaire (CH_05)** : fausse barbe et robe de mage, variante proposée à partir du déguisement collectif ; conserver sa silhouette massive et ses traits juvéniles. Ajustement précis du costume à valider.
 - **Cabane de livres (CH_05)** : mettre en valeur le contraste entre sa taille et son assemblage de volumes ; le grand livre ouvert forme le toit. Ne pas présenter Tito comme sachant lire.
