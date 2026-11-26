@@ -114,7 +114,9 @@ L'ATTAQUE DES ELFES
 Nous la retrouvons dans un cours d'eau environant, mais en plein affrontement avec des grands guerriers très beaux. 
 Nous l'aidons bien sûr - TITO en dévore un au passage révélant ainsi sa nature d'ogre. 
 
-Après cet affrontement, Ondine nous remercie et rejoint notre clique. 
+Après cet affrontement, Ondine nous remercie et rejoint notre clique.
+
+Personne se confectionne alors un masque à l'effigie d'un de ces grands guerriers : un masque d'elfe, comme nous l'apprendrons plus tard. La manière exacte dont il le réalise et sa première utilisation ne sont pas précisées. 
 	 
 
 
