@@ -25,7 +25,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | Sanchez | Cuisinier du camp (I), rôle secondaire. |
 | PNJ_SULTAN | Chien de Sispéo persuadé d'être un lion (I). |
 | PNJ_TRUFFINO | Petit diablotin, familier de Personne ; apparaît au passage au niveau 3, lors du retour sur la péniche en fin de session, et annonce le danger de Maman à la fin du II (Q206) ; peut réapparaître après avoir été mis hors de combat au IV. |
-| Ondine | Fée des eaux, rencontrée au II ; rejoint la clique après l'affrontement avec les elfes (Q206) ; alliée et amour de Tito ; soutient le camp favorable au retour à l'ordre féerique ; demande de soutenir les cochons au IV, motif alors inconnu. V : retrouvée sur la péniche après l'évasion ; oriente la clique vers Quenotte, susceptible de renseigner sur l'Enfant. |
+| Ondine | Fée des eaux, rencontrée au II ; rejoint la clique après l'affrontement avec les elfes (Q206) ; alliée et amour de Tito ; soutient le camp favorable au retour à l'ordre féerique ; demande de soutenir les cochons au IV, motif inconnu des héros ; motivation confirmée dans le lore confidentiel (Q407). V : retrouvée sur la péniche après l'évasion ; oriente la clique vers Quenotte, susceptible de renseigner sur l'Enfant. |
 
 ## Sourcemolle (D)
 | Nom | Rôle |
