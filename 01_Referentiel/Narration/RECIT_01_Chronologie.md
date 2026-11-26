@@ -44,7 +44,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | ID | Événement | Conséquence |
 |---|---|---|
 | III.01 | Kali Jones embarque la clique sur La Brigantine | Bosco Rosso et Isabella dans l'équipage ; faux gouvernail |
-| III.02 | Abordage d'un navire transportant des réfugiés de Torrigianie | Incident de la cale causé par Personne, réparé par Sispéo |
+| III.02 | Abordage d'un navire transportant des réfugiés de Torrigianie | Incident de la cale causé par Personne, réparé par Sispéo ; motivation incomprise des Canailles (Q302) |
 | III.03 | Refus de sacrifier les passagers | Ratons, Hulc et poule géante sauvés ; résolution exacte inconnue |
 | III.04 | Prophétie du Kwisach des Rats | Psodia promet Pandosia sans savoir où elle se trouve |
 | III.05 | Kali renonce à la piraterie ; projet d'attraction pour enfants | Débarquement en crique à cause du blocus |
