@@ -70,7 +70,7 @@ Les enquêtes urbaines se chevauchent ; l'ordre ci-dessous reprend le document d
 | IV.14 | Excuses de Renault ; Anti-Cuite | Tourette guérie de l'ivresse grâce à la recette d'Aurora ; herbes non nommées, sans lien avec l'herbe elfique (Q502) ; trois potions de cochonisation obtenues |
 | IV.15 | Apparition d'elfes après la magie d'Aurora | Tourette transformée en statuette de bois |
 | IV.16 | Second passage au Domaine ; mise en scène et cochonisation | Abandon du chantier ; auteur de la brume non retrouvé (Q407) |
-| IV.17 | Récupération du bois et de la Burrichetta | Matériaux disponibles |
+| IV.17 | Récupération du bois et de la Burrichetta | Matériaux disponibles ; la Burrichetta servira de moteur au Port-Trop-Loin (Q517, ne pas anticiper la révélation) |
 | IV.18 | Retour à Sibara | Réparation et guérison définitive au chapitre V |
 
 ## V — Pandosia et le Liber Vetillæ (D)
@@ -103,7 +103,7 @@ Sources : les deux trames du chapitre V. L'ordre suit ces trames ; les scènes d
 | V.22 | Quenotte ouvre la porte avec sa baguette ; cinq elfes surgissent du cercle de champignons | Combat victorieux selon la trame, toutes les Canailles y participent (Q515) ; détails non notés. Ne pas expliquer encore le lien causal dans le récit. |
 | V.23 | Sortie de Pandosia avec Quenotte et la polisseuse | Récupération de la machine admise rétrospectivement par le MJ en fin de séance. |
 | V.24 | Retour à Sibara ; les Canailles convainquent les réfugiés ratons de retourner à Pandosia | Psodia tient sa promesse de III.04 ; cité repeuplée. |
-| V.25 | Péniche réparée et réveillée ; elle parle à Personne | Révélation du Port-Trop-Loin : permet de rejoindre tout port déjà vu ; règle confirmée Q517 : atteindre 8,8 nœuds par heure. Moment exact de révélation du seuil et des travaux non précisé. |
+| V.25 | Péniche réparée et réveillée ; elle parle à Personne | Révélation du Port-Trop-Loin : permet de rejoindre tout port déjà vu ; règle confirmée Q517 : atteindre 8,8 nœuds par heure grâce à la Burrichetta, qui fait office de moteur. Moment exact de révélation du seuil et de ce rôle et des travaux non précisé. |
 | V.26 | Polissage de Tourette et de la figure de proue | Tourette et Nuance, l'anguana, libérées ; distinct de la guérison de l'ivresse en IV.14. |
 | V.27 | Annonce du concours Croc Chef, doté d'une marmite magique ; Marée de Nuit s'engage | Transition vers le chapitre VI ; l'identité de la marmite n'est pas encore confirmée. |
 
