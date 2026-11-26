@@ -53,10 +53,16 @@ Les fiches de `Perso/` regroupent les caractéristiques structurées (en-tête Y
 
 ### PNJ et familiers
 
+- [PNJ_DAME_MYSTIQUE — Dame Mystique](Perso/pnj/PNJ_DAME_MYSTIQUE.md)
+- [PNJ_TOURETTE — Tourette](Perso/pnj/PNJ_TOURETTE.md)
+- [PNJ_ONDINE — Ondine](Perso/pnj/PNJ_ONDINE.md)
 - [PNJ_SULTAN — Sultan](Perso/pnj/PNJ_SULTAN.md)
 - [PNJ_TRUFFINO — Truffino](Perso/pnj/PNJ_TRUFFINO.md)
+- [PNJ_QUENOTTE — Quenotte](Perso/pnj/PNJ_QUENOTTE.md)
+- [PNJ_CARABOSSE — Carabosse](Perso/pnj/PNJ_CARABOSSE.md)
+- [PNJ_NUANCE — Nuance](Perso/pnj/PNJ_NUANCE.md)
 
-Autres PNJ : fiches à créer progressivement. Les YAML sont réservés aux personnages ; les autres documents restent en Markdown libre. Conserver les prompts originaux et distinguer validation graphique et narrative. Les champs inconnus restent non renseignés ou à `null`.
+Les identifiants ci-dessus renvoient aux fiches existantes ; les noms propres restent employés dans la narration. D'autres PNJ ne possèdent pas encore de fiche individuelle. Les YAML sont réservés aux personnages ; les autres documents restent en Markdown libre. Conserver les prompts originaux et distinguer validation graphique et narrative. Les champs inconnus restent non renseignés ou à `null`.
 
 ## 4. MANUSCRIT — Chapitres
 
