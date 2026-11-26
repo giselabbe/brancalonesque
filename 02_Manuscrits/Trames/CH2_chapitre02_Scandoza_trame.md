@@ -98,7 +98,7 @@ Dès lors deux clans de fées ont émergé :
 
 Grotte de Soubiroute
 -----------------------------------
-Dans la grotte se trouve une statue, la statue de Soubiroute aussi appeléé la Borgne à dette. Un message gravé sur le piédestal de la statue mais il ne servira pas par la suite.
+Dans la grotte se trouve une statue, la statue de Soubiroute aussi appeléé la Borgne à dette. Un message est gravé sur le piédestal de la statue, mais il ne servira pas par la suite : les Canailles ne poursuivent pas la mission du pèlerinage.
 
 
 =================================
