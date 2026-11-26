@@ -44,7 +44,7 @@ Originaire de Palla in Corso, Tourette est la gardienne d'un bosquet du bois de 
 ## Évolution pendant la campagne
 
 - **CH_01** : Accompagne la compagnie dès le prologue ; ivre, injurieuse et maladroite en vol.
-- **CH_02** : Son état empire ; Dame Mystique demande aux Canailles de consulter le bibliothécaire de Sibara.
+- **CH_02** : Son état empire ; Dame Mystique demande aux Canailles de consulter le bibliothécaire de Sibara. La recherche urgente d'un remède contribue à l'abandon de la mission du pèlerinage (Q205).
 - **CH_03** : Accompagne les Canailles dans leur traversée vers Sibara ; son ivresse persiste.
 - **CH_04** : En apparent coma éthylique, elle est examinée à l'Académie. Les recherches orientent les Canailles vers le bois de Bologne, où elle est reconnue comme la gardienne absente du bosquet.
 - **CH_04 (IV.13–IV.14)** : À Palla in Corso, l'Abstynthe est identifiée comme la cause de son ivresse. Après les excuses du prince Renault à Aurora, l'Anti-Cuite est préparée et administrée ; Tourette retrouve son état normal.
