@@ -81,7 +81,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 - [ ] Q514 — **À redemander au MJ en priorité :** la mention d'une « machine à fabriquer les couleurs » dans le carnet de la joueuse est-elle exacte, ou s'agit-il d'une erreur de prise de notes ? Vérifier ensuite, si pertinent, son fonctionnement et son devenir, ainsi que la signification de la mosaïque et l'origine de l'or de Quenotte. Ne pas assimiler cette machine à la polisseuse sans confirmation.
 - [x] Q515 — Psodia polit la statuette pendant que les autres combattent les golems ; toutes les Canailles participent ensuite à l'affrontement contre les cinq elfes. Aucun détail tactique supplémentaire établi.
 - [x] Q516 — Identité du bâtiment central et devenir du magicien rescapé : détails inutiles au récit, classés sans suite.
-- [x] Q517 — Le Port-Trop-Loin permet de rejoindre n'importe quel port déjà vu à condition d'atteindre 8,8 nœuds par heure (formulation du MJ), grâce à la Burrichetta qui fait office de moteur. Jeu de mots « un port trop loin » et clin d'œil à Retour vers le futur. Aucune autre restriction confirmée.
+- [x] Q517 — Le Port-Trop-Loin permet de rejoindre n'importe quel port déjà vu à condition d'atteindre 8,8 nœuds par heure (formulation du MJ), grâce à la Burrichetta qui fait office de moteur. Jeu de mots « un port trop loin » et clin d'œil à Retour vers le futur. Utilisations confirmées : retour à Scanzona pour retrouver Perdita, puis voyage vers l'île des enfants perdus grâce à un dessin laissé dans sa chambre. Une représentation suffit dans ce cas ; aucune autre restriction confirmée.
 
 ### Chapitre VI et arcs suivants — souvenirs à confronter
 
@@ -89,7 +89,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 - [ ] Q507 — Nom du restaurant sur la péniche, jury de Croc Chef, recette, ordre des épisodes, rôle exact de Carrabsosse et transformation de Tito.
 - [ ] Q508 — Destin de Bombance, état final de la Marmite et lien avec le monde elfique.
 - [ ] Q509 — Réanimation de Nuance résolue au V ; restent les épisodes avec les marionnettes géantes et la découverte des capacités de Sispéo.
-- [ ] Q510 — Île des enfants perdus : circonstances du voyage, Perdita, noms Panini/Uzino/Uncino, Méliane et révélations finales ; vérifier identités et orthographes sans les anticiper.
+- [ ] Q510 — Île des enfants perdus : retour à Scanzona en Port-Trop-Loin pour rechercher Perdita et accès à l'île grâce au dessin laissé dans sa chambre confirmés (Q517). Reste à documenter Perdita, noms Panini/Uzino/Uncino, Méliane et révélations finales ; vérifier identités et orthographes sans les anticiper.
 
 ### Question transversale — guerre des fées et retour des elfes (confidentiel)
 
@@ -126,7 +126,8 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q514 | La joueuse trouve sa note de carnet sur la machine à fabriquer les couleurs étrange et doute de son exactitude. À vérifier directement auprès du MJ avant de retenir cette information comme un fait. Mosaïque et origine de l'or non élucidées. | Précision directe de la joueuse | Ouvert (source incertaine) | 26/11/2026 |
 | Q515 | Psodia polit la statuette pendant que les autres Canailles combattent les golems ; tous participent à l'affrontement contre les cinq elfes. | Confirmation directe de la joueuse | Résolu | 26/11/2026 |
 | Q516 | Identité du bâtiment central et devenir du magicien rescapé inutiles au récit ; ne pas chercher ni inventer ces précisions. | Décision de la joueuse | Classé sans suite | 26/11/2026 |
-| Q517 | Le Port-Trop-Loin rejoint n'importe quel port déjà vu à condition d'atteindre 8,8 nœuds par heure. La Burrichetta fait office de moteur et permet d'atteindre cette vitesse. Le MJ s'inspire de Retour vers le futur. Conserver l'expression de vitesse du MJ ; moment exact de révélation et autres restrictions non établis. | Confirmation directe de la joueuse | Résolu (règle principale) | 26/11/2026 |
+| Q517 | Le Port-Trop-Loin rejoint n'importe quel port déjà vu à condition d'atteindre 8,8 nœuds par heure. La Burrichetta fait office de moteur et permet d'atteindre cette vitesse. Voyages confirmés : retour à Scanzona pour rechercher Perdita, puis accès à l'île des enfants perdus grâce à son dessin laissé dans sa chambre. Le dessin suffit dans ce cas ; règle générale sur les représentations non établie. Le MJ s'inspire de Retour vers le futur. Conserver l'expression de vitesse du MJ ; moment exact de révélation et autres restrictions non établis. | Confirmation directe de la joueuse | Résolu (règle principale) | 26/11/2026 |
+| Q510 | Retour à Scanzona en Port-Trop-Loin pour retrouver Perdita ; un dessin de l'île laissé dans sa chambre rend possible le voyage vers l'île des enfants perdus. | Confirmation directe de la joueuse | Partiel | 26/11/2026 |
 | Q509 | Nuance libérée par polissage de la figure de proue ; la polisseuse a été emportée avec l'accord rétrospectif du MJ. | Trame V.2, §10–12 et précision utilisateur | Partiel | 25/11/2026 | |
 
 | Q518 | Inimitié et lien de sororité confirmés : l'Enfant a exilé Méliane, future reine des elfes. Hypothèses ouvertes : Ondine souhaite restaurer l'Enfant ; guerre civile féerique distincte du projet de retour des elfes. | Confirmation directe de la joueuse pour l'exil et la rivalité ; trames II, IV, V pour les indices | Partiel (faits et hypothèses distingués) | 26/11/2026 |
