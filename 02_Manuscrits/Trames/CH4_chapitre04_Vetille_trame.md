@@ -232,7 +232,7 @@ La piste les conduit vers Palla in Corso, le village d'origine de Tourette.
 
 Pendant l'expédition, Ondine demande aux Canailles de soutenir les trois
 entrepreneurs cochons contre le Loup. Elle ne donne pas ses raisons aux
-personnages.
+personnages, qui ne comprennent pas encore les tenants et aboutissants de la guerre des fées.
 
 Cette intervention étonne le groupe, qui vient de rencontrer les défenseurs
 de la forêt. Tito, attaché à l'ordre et à Ondine, n'est pas d'accord avec
@@ -304,7 +304,7 @@ entrepreneurs hommes-cochons endormi, qui devient un véritable cochon.
 La clique organise une mise en scène d'intimidation : les Canailles se
 répartissent autour du chantier pour produire des bruits venant de plusieurs
 directions ; Psodia utilise des lumières féériques ; un sort de brume est
-également lancé (son auteur exact est incertain). PERSONNE, déguisé en
+également lancé (son auteur n'a pas été identifié dans les souvenirs de jeu). PERSONNE, déguisé en
 Dame Vitalli, apparaît et disparaît en plusieurs endroits et profère des
 menaces à l'adresse des ouvriers et des bûcherons.
 
