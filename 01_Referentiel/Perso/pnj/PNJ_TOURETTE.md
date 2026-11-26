@@ -47,7 +47,7 @@ Originaire de Palla in Corso, Tourette est la gardienne d'un bosquet du bois de 
 - **CH_02** : Son état empire ; Dame Mystique demande aux Canailles de consulter le bibliothécaire de Sibara. La recherche urgente d'un remède contribue à l'abandon de la mission du pèlerinage (Q205).
 - **CH_03** : Accompagne les Canailles dans leur traversée vers Sibara ; son ivresse persiste.
 - **CH_04** : En apparent coma éthylique, elle est examinée à l'Académie. Les recherches orientent les Canailles vers le bois de Bologne, où elle est reconnue comme la gardienne absente du bosquet.
-- **CH_04 (IV.13–IV.14)** : À Palla in Corso, l'Abstynthe est identifiée comme la cause de son ivresse. Après les excuses du prince Renault à Aurora, l'Anti-Cuite est préparée et administrée ; Tourette retrouve son état normal.
+- **CH_04 (IV.13–IV.14)** : À Palla in Corso, l'Abstynthe est identifiée comme la cause de son ivresse. Après les excuses du prince Renault à Aurora, l'Anti-Cuite est préparée selon la recette fournie par Aurora et administrée ; Tourette retrouve son état normal. Les herbes ne sont pas nommées ; ne pas confondre avec l'herbe elfique destinée à la Marmite de Saint Glaude (Q502).
 - **CH_04 (IV.15)** : Lors d'un affrontement avec les elfes, une incantation dirigée contre elle la transforme en statuette de bois inanimée.
 - **CH_05 (V.26)** : Libérée de sa prison de bois à bord de la péniche grâce à la polisseuse rapportée de Pandosia.
 
