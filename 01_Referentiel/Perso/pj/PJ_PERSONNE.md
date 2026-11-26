@@ -47,7 +47,7 @@ Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considèr
 - **CH_04** : Fabrique des laissez-passer ; utilise le masque de Dona Vitalli au Domaine des Vieux.
 - **CH_05 — Retour à Sibara** : Surveille d'abord la cargaison de bois de vétille à bord de la péniche, puis retrouve ses compagnons. Le moment exact où il rejoint la délégation universitaire n'est pas établi.
 - **CH_05 — Recherches à la bibliothèque** : Ne sachant pas lire, il se voit prêter par Louis des lunettes magiques qui lui permettent de déchiffrer les ouvrages. C'est lui qui découvre dans un livre une référence au *Liber Vetillæ* et fait ainsi avancer l'enquête sur la lignification. « Lorgnons de Gouguel » est un nom proposé pour le recueil, non une appellation canonique confirmée.
-- **CH_05 — Pandosia** : Arrêté avec les Canailles après la dénonciation de Hulc, participe à l'évasion et à l'expédition souterraine. Son rôle précis dans le combat contre les golems et le polissage de Quenotte n'est pas établi.
+- **CH_05 — Pandosia** : Arrêté avec les Canailles après la dénonciation de Hulc, participe à l'évasion et à l'expédition souterraine. Combat les golems tandis que Psodia polit la statuette, puis participe à l'affrontement collectif contre les cinq elfes (Q515).
 - **CH_05 — Le réveil de Maman** : Après le retour de Pandosia, la péniche réparée lui parle et lui révèle sa véritable nature de Port-Trop-Loin. La clique libère également Nuance, l'anguana emprisonnée dans la figure de proue, grâce à la polisseuse rapportée de Pandosia. Ne pas attribuer personnellement cette opération à Personne sans confirmation.
 
 ## Références visuelles
