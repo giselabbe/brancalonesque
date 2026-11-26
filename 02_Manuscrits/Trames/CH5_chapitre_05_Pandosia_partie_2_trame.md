@@ -130,6 +130,8 @@ Le magicien a également assisté à un affrontement impliquant des elfes. Ces d
 
 Heureusement, la statuette se trouve toujours dans le Temple de Quenotte.
 
+Les Canailles comprennent enfin pourquoi le tombeau de Quenotte, découvert à Sourcemolle, était vide : la fée avait été lignifiée et se trouvait à Pandosia.
+
 ### 9. Le Temple de Quenotte
 
 Les Canailles retrouvent sans grande difficulté la statuette de la fée. Celle-ci paraît totalement inanimée, mais se met à vibrer lorsque Psodia la prend entre ses mains.
