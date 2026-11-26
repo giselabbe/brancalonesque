@@ -114,18 +114,18 @@ L'ATTAQUE DES ELFES
 Nous la retrouvons dans un cours d'eau environant, mais en plein affrontement avec des grands guerriers très beaux. 
 Nous l'aidons bien sûr - TITO en dévore un au passage révélant ainsi sa nature d'ogre. 
 
-Ondine nous remercie, et elle rejoint notre clique. 
+Après cet affrontement, Ondine nous remercie et rejoint notre clique. 
 	 
 
 
 =================================
 EPILOGUE
 ==================================
-Suite à ces aventure es héros passent niv3 et rentrent à leur camp.
+À la fin de cette session de jeu, les héros passent au niveau 3 et rentrent sur la péniche.
 
 La dame MYSTIQUE les convoque, l'air grave : l'état de TOURETTE empire et elle leur demande de se rendre urgement à Cibara demander ua bibliothécaire Louis MUSTRUM de l'aide. 
 
-Puis, le familier de PERSONNE arrive - c'est TRUFFINO un petit diablotin (inspiré du petit diable de Désanchantée). TRUFFINO apprend à PERSONNE que MAMAN est en danger !
+Puis, lors de ce retour sur la péniche, le familier de PERSONNE apparaît (les familiers deviennent accessibles au niveau 3) : c'est TRUFFINO un petit diablotin (inspiré du petit diable de Désanchantée). TRUFFINO apprend à PERSONNE que MAMAN est en danger !
 Il s'agit en réalité de la péniche oiu personne a pris vie. PERSONNE a pris vie dans une malle de vêtements colorés appartement à une ancienne barde mémorable {c'est GISELA mon person dans la cmpagne 1 HAHAHA)
 Truffino nous alerte : "ils sont en train de démonter MAMAN" ! 
 Truffino nous révèle que la péniche se trouve également à Cibara, ce qui tombe bien !
