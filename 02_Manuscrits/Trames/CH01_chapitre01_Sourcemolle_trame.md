@@ -253,7 +253,7 @@ L'autre découverte importante du nid est l'agneau portant la médaille.
 
 L'animal est vivant, relativement petit et extrêmement bruyant. Il bêle presque continuellement.
 
-Sur le chemin du retour, l'un des membres du groupe — probablement Psodia — décide de porter l'agneau.
+Sur le chemin du retour, Psodia décide de porter l'agneau et devient invisible.
 
 Les Canailles découvrent alors sa propriété magique : **la personne qui porte l'Agneau Unique devient invisible**.
 
