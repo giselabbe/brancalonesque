@@ -51,7 +51,7 @@ Un tombeau lui est consacré dans la crypte de la dix-septième pile. Celui-ci e
 - **CH_05 (V.22)** : Quenotte ouvre la porte avec sa baguette ; cinq elfes surgissent d'un cercle de champignons.
 - **CH_05 (V.23)** : Quitte Pandosia en compagnie des Canailles.
 
-Son éventuelle responsabilité dans le silence du Malebranche flûtiste reste une hypothèse.
+Après sa libération de la statuette, Quenotte transforme le Malebranche flûtiste en grenouille (Q512). Moment précis par rapport à l'affrontement elfique non établi. Son éventuelle responsabilité dans le silence du Malebranche flûtiste reste une hypothèse.
 
 ## Références visuelles
 
