@@ -42,6 +42,8 @@ Magnifique fée des eaux, alliée boudeuse mais précieuse de la clique. Elle so
 
 Origine et passé personnel inconnus. Ondine connaît les enjeux de la guerre des fées, dite guerre de Sausisson, et rapporte le réveil de Tarantasio, la déchirure de la trame magique et la disparition de l'Enfant, reine des fées. La chronologie exacte de ces événements reste à confirmer. Sydney, nom proposé pour la cheffe des fées légalistes, n'est pas un nom définitivement établi.
 
+**Hypothèse confidentielle Q518 (non validée)** : Ondine pourrait souhaiter restaurer l'Enfant, sans pour autant soutenir le retour des elfes. Ses affrontements avec les elfes au II, son soutien à l'ordre traditionnel des contes au IV et sa recherche d'une piste vers l'Enfant au V sont compatibles avec cette lecture. Les deux conflits pourraient être distincts ; voir le lore et le registre des questions ouvertes.
+
 ## Évolution pendant la campagne
 
 - **CH_02 (II.04)** : Secourue par les Canailles alors qu'elle est accusée d'être une sorcière, elle révèle sa nature de fée des eaux. Tito tombe amoureux d'elle. Elle explique les enjeux de la guerre des fées.
