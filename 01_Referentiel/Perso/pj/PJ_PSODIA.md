@@ -41,7 +41,7 @@ Elle a notamment oublié l'emplacement de Pandosia, comme les autres ratons. Les
 
 ## Évolution pendant la campagne
 
-- **CH_01 — Sourcemolle** : Découvre la baguette de Quenotte dans la crypte de la dix-septième pile. Lors du bal de Saint-Glinglin, Belle-Mère la Bonne Fée transforme temporairement Psodia et Sispéo en humains.
+- **CH_01 — Sourcemolle** : Porte l'Agneau Unique et découvre son pouvoir d'invisibilité (Q102) ; découvre la baguette de Quenotte dans la crypte de la dix-septième pile. Lors du bal de Saint-Glinglin, Belle-Mère la Bonne Fée transforme temporairement Psodia et Sispéo en humains.
 - **CH_02 — Scanzona** : Prend le parti de Cosma et des personnes démunies.
 - **CH_03 — Traversée vers Sibara** : Rencontre les réfugiés ratons ; la prophétie du Kwisach des Rats fait d'elle à leurs yeux un guide vers Pandosia. Elle promet de retrouver leur cité sans en connaître encore l'emplacement.
 - **CH_04 — Sibara et le bois de Bologne** : Participe aux recherches et au sauvetage du bois de vétille ; met discrètement en œuvre la potion de cochonisation lors du sabotage du Domaine des Vieux.
@@ -85,6 +85,7 @@ Illustration originale de fantasy picaresque italienne, encre fine expressive et
 
 ## Sources et validation
 
+- Q102 confirmé par la joueuse le 26 novembre 2026 : invisibilité due à l'Agneau Unique, distincte des capacités magiques propres de Psodia.
 - [Référentiel narratif des personnages](../../Narration/RECIT_02_Personnages.md) et [chronologie](../../Narration/RECIT_01_Chronologie.md).
 - [Chapitre V, partie 1](../../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) et [partie 2](../../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md).
 - [Registre des illustrations narratives](../../Graphisme/GRAPH_05_Illustrations_narratives.md).
