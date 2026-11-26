@@ -28,7 +28,7 @@ Conserver les identifiants Qxxx même après résolution. Renseigner le journal 
 ### Chapitre I — Sourcemolle
 Source : [manuscrit I](../../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_trame.md).
 
-- [ ] Q101 — Circonstances précises de la chute initiale : le corpus dit chute des passerelles puis mise à l'eau ; les anciens souvenirs évoquent le Cracoucass. Ne pas fusionner sans preuve.
+- [x] Q101 — Chute initiale confirmée : les Canailles passent à travers une passerelle de la ville, puis traversent le toit de l'auberge du Doux Fumet. La mise à l'eau qui suit est documentée dans la trame ; aucun rôle du Cracoucass dans cette chute n'est établi.
 - [ ] Q102 — Qui portait l'Agneau et découvrit l'invisibilité ? Probablement Psodia selon le corpus.
 - [ ] Q103 — Pourquoi Tito bêchait-il le jardin de Rouspète ? Pourquoi détenait-elle la clé ?
 - [ ] Q104 — Pourquoi le tombeau de Quenotte était-il vide ? Quand les héros apprennent-ils la réponse ?
@@ -98,6 +98,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q003 | Sibara est la graphie retenue ; anciennes variantes conservées comme traces historiques. | Correction utilisateur | Partiel | 25/11/2026 |
 | Q004 | Deuxième visite à l'Académie au V, puis évasion et Pandosia ; Croc Chef annoncé à la clôture de l'arc. | Trames V.1–2 ; chronologie V.02–V.27 | Partiel | 25/11/2026 |
 | Q005 | Identification des elfes par Louis au V ; mécanisme de leur apparition confirmé par l'utilisateur mais non compris des héros à ce stade. Voir section confidentielle du lore. | Trame V.1, §5 ; précision utilisateur | Partiel | 25/11/2026 |
+| Q101 | Les Canailles passent à travers une passerelle de la ville puis traversent le toit de l'auberge. La mise à l'eau ultérieure demeure un élément de la trame, non reconfirmé séparément. | Confirmation directe de la joueuse ; trame I, §2 | Confirmé (chute) | 26/11/2026 |
 | Q106 | Rouspète est la mère de Louis. | Trame V.1, §2 | Partiel | 25/11/2026 |
 | Q304 | Hulc dénonce les Canailles pour la prime ; il ne s'agit pas du Malebranche détenu avec elles. | Trame V.1, §11–12 | Partiel | 25/11/2026 |
 | Q408 | Péniche réparée au retour de Pandosia ; moment des travaux non précisé. | Trame V.2, §12 | Partiel | 25/11/2026 |
