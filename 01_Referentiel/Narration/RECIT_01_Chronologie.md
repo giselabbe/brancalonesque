@@ -122,7 +122,12 @@ Sources : les deux trames du chapitre V. L'ordre suit ces trames ; les scènes d
 | S.08 | Marmite ; confrontation à l'élémentaire de graisse ; mort de Bombance | Ordre relatif et conséquences à confirmer ; une herbe poussant chez les elfes sert à nettoyer la Marmite (Q502), moment de récupération non précisé |
 | S.09 | Sispéo dirige les grandes marionnettes elfiques lorsqu'elles apparaissent | Aucune marionnette géante conservée ; réanimation de Nuance désormais documentée en V.26 |
 | S.10a | Retour à Scanzona à bord du Port-Trop-Loin pour rechercher Perdita | Un dessin de l'île des enfants perdus laissé dans sa chambre permet ensuite d'atteindre l'île (Q510, Q517). Position exacte par rapport aux autres arcs à préciser. |
-| S.10 | Voyage en Port-Trop-Loin vers l'île des enfants perdus grâce au dessin de Perdita ; Perdita retrouvée ; révélations | Dénouement à documenter |
+| S.10 | Voyage en Port-Trop-Loin vers l'île des enfants perdus grâce au dessin de Perdita ; Perdita retrouvée ; révélations | Dilemme et décision confirmés ; scènes à documenter |
+
+## VII–VIII — Dénouement confirmé par la joueuse (27/11/2026)
+- VII : Uncino révèle son ambition d'incarner l'Enfant et de remplacer le Père Ternel. Après plusieurs heures de débat, les Canailles choisissent de l'aider : « le moindre mal » (Psodia).
+- Dénouement : Uncino affronte le Père Ternel et prend sa place. Répartition précise des scènes entre VII et VIII à confirmer.
+- [Contexte et révélations confidentielles](RECIT_06_Guerre_des_Fees.md).
 
 ## Règles de continuité
 Les accessoires n'apparaissent qu'après acquisition. Les héros ignorent d'abord l'histoire de la première clique et la véritable nature des phénomènes elfiques. Voir [points ouverts](RECIT_05_Points_a_confirmer.md).
