@@ -32,7 +32,7 @@ Et surtout, Louis et Dame Mystique étaient amoureux dans leur jeunesse !
 
 ## 4. Sur la piste du Liber Vetillæ
 
-Les recherches commencent à la bibliothèque. Marée de Nuit et Psodia sont les seuls à savoir lire. Personne, agacé de ne pouvoir participer, se voit prêter par Louis des lunettes magiques permettant de déchiffrer les ouvrages : les lorgnons de Gouguel (nom proposé pour le recueil).
+Les recherches commencent à la bibliothèque. Marée de Nuit et Psodia sont les seuls à savoir lire. Personne, agacé de ne pouvoir participer, se voit prêter par Louis des lunettes magiques permettant de déchiffrer les ouvrages : le lorgnon de Gouguel (nom proposé pour le recueil).
 
 Ironie du sort, c'est précisément Personne qui découvre, dans un livre, une référence au *Liber Vetillæ*, un grimoire attribué à Frà Maccario. [Note de travail Q511 : l'attribution à un nécromancien de haut niveau provient du souvenir des recherches en jeu ; le PDF original identifie Frà Maccario sans préciser son niveau.]
 

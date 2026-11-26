@@ -158,8 +158,6 @@ Une fois libérée de sa statuette, Quenotte transforme le Malebranche joueur de
 
 Tout heureuses de leur réussite, les Canailles quittent le temple en compagnie de Quenotte.
 
-La fée utilise sa baguette pour ouvrir la porte.
-
 Soudain, cinq elfes apparaissent au milieu du cercle de champignons découvert précédemment. Toutes les Canailles participent à l'affrontement.
 
 Un nouvel affrontement s'engage dans les rues de Pandosia. Les Canailles parviennent à venir à bout de leurs adversaires et peuvent enfin quitter la cité en compagnie de Quenotte.
