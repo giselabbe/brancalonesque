@@ -89,6 +89,15 @@ bolognaise accompagnée d'énormes boulettes de viande. Les clients, pourtant,
 sont extraordinairement enthousiastes : les plats semblent exercer sur eux
 une attirance presque surnaturelle, proche de la dépendance.
 
+**Révélation rétrospective (Q403, ne pas prêter aux héros une connaissance
+prématurée) :** les habitués du restaurant prennent du poids, toujours
+davantage. Lorsqu'ils sont suffisamment gras et gros, ils reçoivent une
+invitation pour la salle VIP, en bas du restaurant. Après y être entrés,
+on ne les revoit jamais. Cette succession d'engraissement et de
+disparitions éclaire l'origine de la viande servie chez Gargantua ;
+la manière précise dont les victimes deviennent de la viande n'est pas
+documentée. Ne pas inventer les événements vécus dans la salle VIP.
+
 Tito découvre que la patronne, une ogresse qu'il redoute, est sa propre mère.
 Il s'éloigne précipitamment du restaurant.
 
@@ -140,11 +149,15 @@ du feu et la cuisine.
 Griseta indique que la viande ne provient pas d'un animal ordinaire, mais
 d'une créature intelligente.
 
-Les Canailles en viennent alors à soupçonner la mère de Tito de faire
-disparaître des clients dans la cave pour les cuisiner. Il s'agit de leur
-hypothèse et non d'une conclusion confirmée. L'origine véritable de la
-viande reste à éclaircir, même à la lumière des révélations ultérieures
-sur la mère de Tito.
+Les Canailles en viennent alors à soupçonner que des clients disparaissent
+dans les sous-sols du restaurant pour finir dans les plats. **À ce stade
+du récit, cela reste une hypothèse des héros**, et l'on ignore jusqu'où
+leur enquête leur a permis de découvrir le mécanisme. La joueuse a ensuite
+confirmé que les habitués grossissaient jusqu'à être conviés en salle VIP,
+au sous-sol, d'où ils ne revenaient jamais (Q403). L'origine générale de
+la viande est donc éclaircie pour le référentiel interne, sans que les
+modalités exactes ni la part de responsabilité de la mère de Tito aient
+été établies par ce seul souvenir.
 
 
 08 — L'ACADÉMIE DE MAGIE : FONCTIONNEMENT GÉNÉRAL
@@ -342,8 +355,10 @@ récupéré, mais le travail de Giuseppe et Jésus n'est pas encore raconté dan
 cet arc. Le traitement de Tourette contre l'Abstynthe a fonctionné, mais la
 fée demeure victime du sort lancé par un elfe.
 
-Les missions du père Bombance, la provenance de la viande de Chez Gargantua
-et le sort des réfugiés restent des questions importantes pour la suite.
+Les missions du père Bombance et le sort des réfugiés restent des questions
+importantes pour la suite. La provenance de la viande de Chez Gargantua
+a été éclaircie rétrospectivement par la joueuse (Q403), mais les Canailles
+ne détenaient pas nécessairement cette explication lors de leur enquête.
 
 FIN DU CHAPITRE IV.
 
@@ -381,9 +396,11 @@ QUESTIONS ENCORE OUVERTES — POUR OLIVIER ET THIERRY
    identifié les livreurs du matin ou découvert quelque chose sur l'origine
    et l'acheminement des provisions ?
 
-3. CHEZ GARGANTUA / VIANDE : quelle était réellement l'origine des
-   boulettes ? Le MJ avait-il fourni une explication, ou cette enquête
-   a-t-elle été laissée sans conclusion par les personnages ?
+3. CHEZ GARGANTUA / VIANDE — RÉSOLU SUR L'ORIGINE (Q403) : les
+   clients habituels grossissent jusqu'à être invités en salle VIP
+   au sous-sol ; ensuite, ils disparaissent. Cette révélation éclaire
+   l'origine des boulettes, sans préciser comment la viande est
+   préparée ni ce que les héros ont compris à ce moment.
 
 4. DOMAINE DES VIEUX / PREMIER PASSAGE : pourquoi les Canailles ont-elles
    décidé de s'en prendre aux réserves d'eau du chantier, AVANT même de

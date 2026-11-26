@@ -62,7 +62,7 @@ Les enquêtes urbaines se chevauchent ; l'ordre ci-dessous reprend le document d
 | IV.04 | Chez Gargantua : Tito reconnaît sa mère | Fuite de Tito ; perception initiale à nuancer |
 | IV.05 | Marée de Nuit devient commis et prélève de la viande | Échantillon obtenu avant la bagarre |
 | IV.06 | Infiltration de Personne et Truffino ; surveillance extérieure | Résultat de la surveillance inconnu |
-| IV.07 | Griseta analyse l'échantillon | Créature intelligente ; soupçon des Canailles, non preuve de culpabilité |
+| IV.07 | Griseta analyse l'échantillon | Viande issue d'une créature intelligente ; les Canailles soupçonnent des disparitions de clients. Confirmation rétrospective (Q403) : les habitués grossissent puis sont invités en salle VIP au sous-sol, sans jamais reparaître ; les héros ne connaissent pas nécessairement cette vérité à ce stade. |
 | IV.08 | Académie ; admission barbe et queue de raton | Persécutions des ratons liées à ce critère |
 | IV.09 | Première bibliothèque : Mustrum et Gobemouche | Piste du bois de Bologne pour Tourette et péniche |
 | IV.10 | Premier passage au Domaine des Vieux | Incident envisagé autour des réserves d'eau, exécution incertaine ; titres non volés |

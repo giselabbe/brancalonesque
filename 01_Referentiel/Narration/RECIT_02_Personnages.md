@@ -60,7 +60,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 |---|---|
 | PNJ_PERE_BOMBANCE | Moine de la Faim Rassasiée, aide les réfugiés ; confie deux missions à la clique. S : décès ultérieur lié à l'arc Marmite. |
 | PNJ_GIUSEPPE_ET_JESUS | Artisans, père et fils, chargés de la péniche ; Giuseppe a un accent portugais. |
-| PNJ_MERE_DE_TITO | Ogresse, patronne de Chez Gargantua ; redoutée par Tito. Les soupçons du IV ne sont pas des faits établis. |
+| PNJ_MERE_DE_TITO | Ogresse, patronne de Chez Gargantua ; redoutée par Tito. Q403 : les habitués y grossissent jusqu'à être invités dans une salle VIP au sous-sol, d'où ils ne reviennent jamais ; ce mécanisme éclaire l'origine de la viande. L'implication personnelle précise de la patronne et ce que les Canailles en ont compris au IV restent à établir. |
 | PNJ_MUSTRUM | Bibliothécaire débordé par ses livres animés ; variante Louis Mustrum au II. V : dit Louis, vieux beau bronzé et gominé, fils de Rouspète et ancien amoureux de Dame Mystique ; fait entrer les Canailles, prête des lunettes de lecture à Personne, identifie les guerriers comme des elfes. |
 | PNJ_GOBEMOUCHE | Disciple lent et nonchalant de Mustrum. |
 | PNJ_TROIS_ENTREPRENEURS_COCHONS | Promoteurs du Domaine des Vieux ; l'un subit une cochonisation au IV. |

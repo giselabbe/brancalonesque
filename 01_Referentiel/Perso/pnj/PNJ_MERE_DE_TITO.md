@@ -27,7 +27,7 @@ statut_fiche: a_completer
 
 ## Identité et rôle
 
-Ogresse, patronne de Chez Gargantua ; redoutée par Tito. Les soupçons du IV ne sont pas des faits établis.
+Ogresse, patronne de Chez Gargantua ; redoutée par Tito. Les clients habitués grossissent de plus en plus, puis sont invités dans une salle VIP au sous-sol quand ils sont suffisamment corpulents ; ils ne reparaissent jamais. Confirmation rétrospective de la joueuse concernant l'origine de la viande (Q403). Ne pas inventer la méthode exacte de préparation, la responsabilité individuelle de la patronne ni ce que les héros savaient pendant leur enquête.
 
 ## Situation dans le récit
 
