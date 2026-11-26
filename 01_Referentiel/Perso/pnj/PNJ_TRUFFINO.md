@@ -39,7 +39,7 @@ Origine inconnue.
 
 ## Évolution pendant la campagne
 
-- **CH_02** : Alerte Personne sur le danger menaçant la péniche.
+- **CH_02 (II.08)** : Apparaît au passage au niveau 3, lors du retour des Canailles sur la péniche en fin de session ; les familiers sont alors accessibles en jeu. Alerte Personne sur le danger menaçant Maman (Q206).
 - **CH_04** : Mis hors de combat chez Gargantua ; peut être rappelé ultérieurement.
 
 ## Références visuelles
