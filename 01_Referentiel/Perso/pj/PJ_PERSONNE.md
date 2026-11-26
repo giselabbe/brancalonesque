@@ -43,7 +43,7 @@ Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considèr
 
 - **CH_01** : Premier masque : Dona Vitalli.
 - **CH_02** : S'oppose à la mission du pèlerinage ; Au passage au niveau 3, lors du retour sur la péniche en fin de session, son familier Truffino apparaît et annonce que Maman est en danger (Q206). La dégradation de la santé de Personne rend le sauvetage de la péniche urgent et contribue à l'abandon du pèlerinage (Q205).
-- **CH_03** : Incident de la cale de La Brigantine.
+- **CH_03** : Endommage la cale de La Brigantine ; les Canailles ne comprennent pas pourquoi (Q302).
 - **CH_04** : Fabrique des laissez-passer ; utilise le masque de Dona Vitalli au Domaine des Vieux.
 - **CH_05 — Retour à Sibara** : Surveille d'abord la cargaison de bois de vétille à bord de la péniche, puis retrouve ses compagnons. Le moment exact où il rejoint la délégation universitaire n'est pas établi.
 - **CH_05 — Recherches à la bibliothèque** : Ne sachant pas lire, il se voit prêter par Louis des lunettes magiques qui lui permettent de déchiffrer les ouvrages. C'est lui qui découvre dans un livre une référence au *Liber Vetillæ* et fait ainsi avancer l'enquête sur la lignification. « Lorgnons de Gouguel » est un nom proposé pour le recueil, non une appellation canonique confirmée.
