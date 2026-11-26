@@ -34,7 +34,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | II.02 | Spiroulin charge la clique d'enquêter sur la quête disparue | Découverte de Cosma et de sa communauté d'enfants |
 | II.03 | Redistribution aux pauvres ; discussion Psodia/Tito | La clique protège Cosma |
 | II.04 | Rencontre du Gang et de la prétendue sorcière | Ondine révélée ; Tito amoureux ; guerre des Fées évoquée |
-| II.05 | Grotte de Soubiroute et statue | Inscription sans suite connue |
+| II.05 | Grotte de Soubiroute et statue | Inscription sans suite : mission du pèlerinage non poursuivie (Q204) |
 | II.06 | Tito passe une nuit en prison | Motif inconnu |
 | II.07 | Perdita aide à retrouver Ondine ; affrontement elfique | Nature d'ogre de Tito révélée ; Ondine rejoint la clique |
 | II.08 | Retour au camp ; niveau 3 ; urgence Tourette | Truffino rejoint Personne et annonce le danger menaçant Maman |
