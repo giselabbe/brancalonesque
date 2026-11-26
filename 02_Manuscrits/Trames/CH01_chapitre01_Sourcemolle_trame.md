@@ -570,7 +570,7 @@ La vieille femme acariâtre qu'elles ont rencontrée à l'auberge, et qui leur a
 
 Les personnages ne parviennent cependant pas à expliquer cette transformation.
 
-Ils ignorent pourquoi Rouspète a été présentée comme Cendrillon, quels liens l'unissent aux marraines présentes au bal et ce qu'elle espérait obtenir de cette situation.
+Ils ignorent pourquoi Rouspète a été présentée comme Cendrillon, quels liens l'unissent aux marraines présentes au bal et ce qu'elle espérait obtenir de cette situation. La raison de sa transformation ne leur sera jamais révélée.
 
 Le mystère demeure entier.
 
