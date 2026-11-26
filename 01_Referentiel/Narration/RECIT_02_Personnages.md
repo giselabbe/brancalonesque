@@ -29,62 +29,62 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 ## Sourcemolle (D)
 | Nom | Rôle |
 |---|---|
-| Baron Moranes | Noble local ; succession conditionnée au premier mariage de ses enfants ; ruiné par ses bals. |
-| Robert Moranes | Fils du baron, rêve d'aventure ; retrouvé dans le nid ; remet le plan de la crypte ; épouse Tâcheron. |
-| Kali Moranes / Kali Jones | Fille du baron ; rêve de piraterie ; retrouve la clique au III, capitaine de La Brigantine ; envisage ensuite une attraction. |
-| Dona Vitalli | Matriarche de l'Honorable Société ; cinq fils quintuplés (bailli, tavernier, évêque, armateur, chambellan) ; premier masque de Personne après sa mort. |
-| Tâcheron | Beau-fils de Dona Vitalli, exploité ; aidé par la clique ; épouse Robert. |
-| Vieille Rouspète | Habitant acariâtre ; remet la clé de la crypte ; se révèle être Cendrillon à minuit ; raison de sa transformation jamais révélée (Q105). V : mère de Mustrum Ridculouis, retrouvée à l'Académie. S : lien éventuel avec la laine de l'Agneau à documenter dans les arcs finaux ; voir note éditoriale Q106. |
-| Musiciens du Doux Fumet | Orchestre épuisé par mille bals ; doigts des mandolinistes entaillés, lèvres gercées, tendinites ; remplacé par Tito, Personne et Marée de Nuit à la Saint-Glinglin (Q108). Noms non établis. |
-| Sœur Cornelia | Ordre de Sainte Nitouche ; conduit la clique dans un guet-apens. |
-| Grand Alf Guiscard | Sylvain artificier, Communauté de l'Agneau. |
-| El Lessar / Grands Plats | Cuisinier, mystérieux rôdeur de l'auberge ; Communauté. |
-| Quenotte | Fée des dents ; tombeau vide et baguette retrouvée au I, sans explication pour les héros. V : le témoignage du mage rescapé révèle sa lignification par les elfes et sa présence à Pandosia, expliquant le tombeau vide (Q104) ; statuette vibrante au contact de Psodia ; libérée grâce au polissage effectué par Psodia dans son temple à Pandosia (Q515). Utilise sa baguette pour ouvrir la porte avant l'apparition de cinq elfes. Après sa libération, elle transforme le flûtiste en grenouille (Q512). Son rôle dans le silence du flûtiste reste une hypothèse, au même titre que celui des mages (Q512). |
-| Belle Mère | Bonne fée, marraine de Sispéo ; transforme provisoirement Sispéo et Psodia. |
-| Casanabo | Nain muni d'un escabeau, prétendant importun de Psodia. |
-| Cracoucass | Vautour géant ; son nid abrite Robert et l'Agneau. |
-| Agneau Unique | Relique vivante permettant l'invisibilité de son porteur ; propriété découverte par Psodia (Q102) ; danger seulement évoqué, jamais élucidé ; mort au chapitre I (Q106). |
+| PNJ_BARON_MORANES | Noble local ; succession conditionnée au premier mariage de ses enfants ; ruiné par ses bals. |
+| PNJ_ROBERT_MORANES | Fils du baron, rêve d'aventure ; retrouvé dans le nid ; remet le plan de la crypte ; épouse Tâcheron. |
+| PNJ_KALI_MORANES | Fille du baron ; rêve de piraterie ; retrouve la clique au III, capitaine de La Brigantine ; envisage ensuite une attraction. |
+| PNJ_DONA_VITALLI | Matriarche de l'Honorable Société ; cinq fils quintuplés (bailli, tavernier, évêque, armateur, chambellan) ; premier masque de Personne après sa mort. |
+| PNJ_TACHERON | Beau-fils de Dona Vitalli, exploité ; aidé par la clique ; épouse Robert. |
+| PNJ_VIEILLE_ROUSPETE | Habitant acariâtre ; remet la clé de la crypte ; se révèle être Cendrillon à minuit ; raison de sa transformation jamais révélée (Q105). V : mère de Mustrum Ridculouis, retrouvée à l'Académie. S : lien éventuel avec la laine de l'Agneau à documenter dans les arcs finaux ; voir note éditoriale Q106. |
+| PNJ_MUSICIENS_DOUX_FUMET | Orchestre épuisé par mille bals ; doigts des mandolinistes entaillés, lèvres gercées, tendinites ; remplacé par Tito, Personne et Marée de Nuit à la Saint-Glinglin (Q108). Noms non établis. |
+| PNJ_SOEUR_CORNELIA | Ordre de Sainte Nitouche ; conduit la clique dans un guet-apens. |
+| PNJ_GRAND_ALF_GUISCARD | Sylvain artificier, Communauté de l'Agneau. |
+| PNJ_EL_LESSAR | Cuisinier, mystérieux rôdeur de l'auberge ; Communauté. |
+| PNJ_QUENOTTE | Fée des dents ; tombeau vide et baguette retrouvée au I, sans explication pour les héros. V : le témoignage du mage rescapé révèle sa lignification par les elfes et sa présence à Pandosia, expliquant le tombeau vide (Q104) ; statuette vibrante au contact de Psodia ; libérée grâce au polissage effectué par Psodia dans son temple à Pandosia (Q515). Utilise sa baguette pour ouvrir la porte avant l'apparition de cinq elfes. Après sa libération, elle transforme le flûtiste en grenouille (Q512). Son rôle dans le silence du flûtiste reste une hypothèse, au même titre que celui des mages (Q512). |
+| PNJ_BELLE_MERE | Bonne fée, marraine de Sispéo ; transforme provisoirement Sispéo et Psodia. |
+| PNJ_CASANABO | Nain muni d'un escabeau, prétendant importun de Psodia. |
+| PNJ_CRACOUCASS | Vautour géant ; son nid abrite Robert et l'Agneau. |
+| PNJ_AGNEAU_UNIQUE | Relique vivante permettant l'invisibilité de son porteur ; propriété découverte par Psodia (Q102) ; danger seulement évoqué, jamais élucidé ; mort au chapitre I (Q106). |
 
 ## Scanzona et traversée (D)
 | Nom | Rôle |
 |---|---|
-| Maïale | Évêque à tête de cochon, impose offices et collecte pour le pèlerinage. |
-| Gang des Crapauds | Clique rivale chargée de la chasse aux sorcières. |
-| Chevalier Spiroulin | Garde de la cathédrale, grand, maigre, imbu de lui-même ; confie l'enquête. |
-| Padre Cosma | Ancien prêtre, déguisé en Saint Nicollo ; aide orphelins et pauvres, redistribue la collecte. |
-| Perdita | Enfant aux cheveux verts, liée à Cosma ; aide à retrouver Ondine ; les Canailles retournent à Scanzona pour la rechercher ; un dessin de l'île des enfants perdus laissé dans sa chambre permet au Port-Trop-Loin d'atteindre l'île où elle réapparaît (S, Q510/Q517). |
-| Hulc | Grenouille de taille humaine à accent marseillais, réfugié. V : dénonce les Canailles aux gardes pour la prime et provoque leur arrestation. |
+| PNJ_MAIALE | Évêque à tête de cochon, impose offices et collecte pour le pèlerinage. |
+| PNJ_GANG_DES_CRAPAUDS | Clique rivale chargée de la chasse aux sorcières. |
+| PNJ_CHEVALIER_SPIROULIN | Garde de la cathédrale, grand, maigre, imbu de lui-même ; confie l'enquête. |
+| PNJ_PADRE_COSMA | Ancien prêtre, déguisé en Saint Nicollo ; aide orphelins et pauvres, redistribue la collecte. |
+| PNJ_PERDITA | Enfant aux cheveux verts, liée à Cosma ; aide à retrouver Ondine ; les Canailles retournent à Scanzona pour la rechercher ; un dessin de l'île des enfants perdus laissé dans sa chambre permet au Port-Trop-Loin d'atteindre l'île où elle réapparaît (S, Q510/Q517). |
+| PNJ_HULC | Grenouille de taille humaine à accent marseillais, réfugié. V : dénonce les Canailles aux gardes pour la prime et provoque leur arrestation. |
 
 ## Sibara, Académie et bois (D)
 | Nom | Rôle |
 |---|---|
-| Père Bombance | Moine de la Faim Rassasiée, aide les réfugiés ; confie deux missions à la clique. S : décès ultérieur lié à l'arc Marmite. |
-| Giuseppe et Jésus | Artisans, père et fils, chargés de la péniche ; Giuseppe a un accent portugais. |
-| Mère de Tito | Ogresse, patronne de Chez Gargantua ; redoutée par Tito. Les soupçons du IV ne sont pas des faits établis. |
-| Mustrum Ridculouis | Bibliothécaire débordé par ses livres animés ; variante Louis Mustrum au II. V : dit Louis, vieux beau bronzé et gominé, fils de Rouspète et ancien amoureux de Dame Mystique ; fait entrer les Canailles, prête des lunettes de lecture à Personne, identifie les guerriers comme des elfes. |
-| Gobemouche | Disciple lent et nonchalant de Mustrum. |
-| Trois entrepreneurs cochons | Promoteurs du Domaine des Vieux ; l'un subit une cochonisation au IV. |
-| Loup et Petit Chaperon rouge | Défenseurs de la forêt face au chantier. |
-| Prince Renault | Prince de Palla in Corso ; présente ses excuses à Aurora. |
-| Aurora | Magicienne de Palla in Corso ; créatrice de l'Abstynthe et source du remède Anti-Cuite. |
+| PNJ_PERE_BOMBANCE | Moine de la Faim Rassasiée, aide les réfugiés ; confie deux missions à la clique. S : décès ultérieur lié à l'arc Marmite. |
+| PNJ_GIUSEPPE_ET_JESUS | Artisans, père et fils, chargés de la péniche ; Giuseppe a un accent portugais. |
+| PNJ_MERE_DE_TITO | Ogresse, patronne de Chez Gargantua ; redoutée par Tito. Les soupçons du IV ne sont pas des faits établis. |
+| PNJ_MUSTRUM | Bibliothécaire débordé par ses livres animés ; variante Louis Mustrum au II. V : dit Louis, vieux beau bronzé et gominé, fils de Rouspète et ancien amoureux de Dame Mystique ; fait entrer les Canailles, prête des lunettes de lecture à Personne, identifie les guerriers comme des elfes. |
+| PNJ_GOBEMOUCHE | Disciple lent et nonchalant de Mustrum. |
+| PNJ_TROIS_ENTREPRENEURS_COCHONS | Promoteurs du Domaine des Vieux ; l'un subit une cochonisation au IV. |
+| PNJ_LOUP_ET_PETIT_CHAPERON_ROUGE | Défenseurs de la forêt face au chantier. |
+| PNJ_PRINCE_RENAULT | Prince de Palla in Corso ; présente ses excuses à Aurora. |
+| PNJ_AURORA | Magicienne de Palla in Corso ; créatrice de l'Abstynthe et source du remède Anti-Cuite. |
 
 ## Nouveaux personnages et entités du chapitre V (D)
 
 | Nom | Rôle |
 |---|---|
-| Guiscard Destin | Nouveau doyen de l'université ; contrôles renforcés ; demande aux Canailles de remplacer un professeur. Sa crainte supposée de Tarantasio est une hypothèse de Dame Mystique. |
-| Malebranche flûtiste | Prisonnier sous une bulle de silence ; communique par dessins ; engagé par les mages pour entraîner les ratons hors de Pandosia afin de récupérer leurs queues. Accompagne l'évasion et l'expédition ; nom propre inconnu ; transformé en grenouille par Quenotte après sa libération (Q512). |
-| Nuance | Anguana, ancienne figure de proue de la péniche ; libérée par polissage à la fin du V. |
-| Péniche / Maman | Entité consciente considérée comme sa mère par Personne ; réparée au V, lui parle et révèle être un Port-Trop-Loin permettant de rejoindre tout port déjà vu à condition d'atteindre 8,8 nœuds par heure grâce à la Burrichetta qui fait office de moteur (Q517). |
+| PNJ_GUISCARD_DESTIN | Nouveau doyen de l'université ; contrôles renforcés ; demande aux Canailles de remplacer un professeur. Sa crainte supposée de Tarantasio est une hypothèse de Dame Mystique. |
+| PNJ_FLUTISTE_MALEBRANCHE | Prisonnier sous une bulle de silence ; communique par dessins ; engagé par les mages pour entraîner les ratons hors de Pandosia afin de récupérer leurs queues. Accompagne l'évasion et l'expédition ; nom propre inconnu ; transformé en grenouille par Quenotte après sa libération (Q512). |
+| PNJ_NUANCE | Anguana, ancienne figure de proue de la péniche ; libérée par polissage à la fin du V. |
+| PNJ_MAMAN | Entité consciente considérée comme sa mère par Personne ; réparée au V, lui parle et révèle être un Port-Trop-Loin permettant de rejoindre tout port déjà vu à condition d'atteindre 8,8 nœuds par heure grâce à la Burrichetta qui fait office de moteur (Q517). |
 
 ## Personnages et entités des arcs à documenter (S)
-- Petit Poucet : homme de petite taille et grandes bottes ; révélation sur la famille de Tito.
-- Carrabsosse : fée acariâtre associée au concours et à la transformation de Tito.
-- Sidney/Sydney : fée liée au camp favorable au retour à l'ordre ; graphie et titre à fixer.
-- L'Enfant : reine des fées disparue ; cheveux turquoise selon les souvenirs ; ne pas confondre avec Perdita. **Confidentiel (Q518)** : a exilé sa sœur Méliane, future reine des elfes et ennemie jurée, selon confirmation directe de la joueuse.
-- Méliane : sœur de l'Enfant, exilée par celle-ci, future reine des elfes ; inimitié confirmée. Orthographe, circonstances précises et moment de révélation à recouper dans les arcs finaux (Q510, Q518).
-- Homme en blanc : conserver l'anonymat jusqu'à la révélation finale ; ne pas identifier dans les légendes publiques.
-- Panini / Uzino / Uncino : noms évoqués autour de l'île ; ne pas fusionner les identités avant vérification.
-- Gisela et Léonard de la Sylve : figures de la première campagne, distinctes des héros actuels (D, annexe IV).
+- PNJ_PETIT_POUCET — Petit Poucet : homme de petite taille et grandes bottes ; révélation sur la famille de Tito.
+- PNJ_CARABOSSE — Carrabsosse : fée acariâtre associée au concours et à la transformation de Tito.
+- PNJ_SIDNEY — Sidney/Sydney : fée liée au camp favorable au retour à l'ordre ; graphie et titre à fixer.
+- PNJ_ENFANT — L'Enfant : reine des fées disparue ; cheveux turquoise selon les souvenirs ; ne pas confondre avec Perdita. **Confidentiel (Q518)** : a exilé sa sœur Méliane, future reine des elfes et ennemie jurée, selon confirmation directe de la joueuse.
+- PNJ_MELIANE — Méliane : sœur de l'Enfant, exilée par celle-ci, future reine des elfes ; inimitié confirmée. Orthographe, circonstances précises et moment de révélation à recouper dans les arcs finaux (Q510, Q518).
+- PNJ_HOMME_EN_BLANC — Homme en blanc : conserver l'anonymat jusqu'à la révélation finale ; ne pas identifier dans les légendes publiques.
+- PNJ_PANINI / PNJ_UZINO / PNJ_UNCINO — Panini / Uzino / Uncino : noms évoqués autour de l'île ; ne pas fusionner les identités avant vérification.
+- Gisela et Léonard de la Sylve : figures de la première campagne, distinctes des héros actuels (D, annexe IV). [Figures historiques de la première campagne, à traiter dans l'annexe IV et non comme PNJ de la deuxième campagne ; l'absence de fiches `PNJ_*` est volontaire à ce stade.]
 
-Les personnages non renseignés pourront recevoir un ID stable après confirmation, sans dupliquer les fiches graphiques.
+Les identifiants `PNJ_*` ci-dessus servent au suivi des personnages et des groupes sélectionnés. Pour les arcs à documenter (S), ils ne valident ni les noms incertains, ni les identités non élucidées. Les entités de la première campagne restent à traiter dans leur annexe, sans création automatique de PNJ.

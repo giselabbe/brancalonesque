@@ -51,20 +51,79 @@ Les fiches de `Perso/` regroupent les caractéristiques structurées (en-tête Y
 - [PJ_TITO — Tito](Perso/pj/PJ_TITO.md)
 - [PJ_MAREE_DE_NUIT — Marée de Nuit](Perso/pj/PJ_MAREE_DE_NUIT.md)
 - [PJ_PERSONNE — Personne](Perso/pj/PJ_PERSONNE.md)
-- [PJ_SISPEO — Sispéo (C3PO)](Perso/pj/PJ_SISPEO.md)
+- [PJ_SISPEO — Sispéo](Perso/pj/PJ_SISPEO.md)
 
 ### PNJ et familiers
 
+Liste dérivée de `RECIT_02_Personnages.md`, seule liste maîtresse des PNJ retenus par l'autrice. Les codes `PNJ_*` identifient les fiches individuelles **ou collectives** ; les noms propres restent employés dans les manuscrits. Les entrées des arcs encore à documenter ne sont pas une validation anticipée des révélations.
+
+**Compagnie et familiers**
+
 - [PNJ_DAME_MYSTIQUE — Dame Mystique](Perso/pnj/PNJ_DAME_MYSTIQUE.md)
 - [PNJ_TOURETTE — Tourette](Perso/pnj/PNJ_TOURETTE.md)
-- [PNJ_ONDINE — Ondine](Perso/pnj/PNJ_ONDINE.md)
 - [PNJ_SULTAN — Sultan](Perso/pnj/PNJ_SULTAN.md)
 - [PNJ_TRUFFINO — Truffino](Perso/pnj/PNJ_TRUFFINO.md)
-- [PNJ_QUENOTTE — Quenotte](Perso/pnj/PNJ_QUENOTTE.md)
-- [PNJ_CARABOSSE — Carabosse](Perso/pnj/PNJ_CARABOSSE.md)
-- [PNJ_NUANCE — Nuance](Perso/pnj/PNJ_NUANCE.md)
+- [PNJ_ONDINE — Ondine](Perso/pnj/PNJ_ONDINE.md)
 
-Les identifiants ci-dessus renvoient aux fiches existantes ; les noms propres restent employés dans la narration. D'autres PNJ ne possèdent pas encore de fiche individuelle. Les YAML sont réservés aux personnages ; les autres documents restent en Markdown libre. Conserver les prompts originaux et distinguer validation graphique et narrative. Les champs inconnus restent non renseignés ou à `null`.
+**Sourcemolle**
+
+- [PNJ_BARON_MORANES — Baron Moranes](Perso/pnj/PNJ_BARON_MORANES.md)
+- [PNJ_ROBERT_MORANES — Robert Moranes](Perso/pnj/PNJ_ROBERT_MORANES.md)
+- [PNJ_KALI_MORANES — Kali Moranes / Kali Jones](Perso/pnj/PNJ_KALI_MORANES.md)
+- [PNJ_DONA_VITALLI — Dona Vitalli](Perso/pnj/PNJ_DONA_VITALLI.md)
+- [PNJ_TACHERON — Tâcheron](Perso/pnj/PNJ_TACHERON.md)
+- [PNJ_VIEILLE_ROUSPETE — Vieille Rouspète](Perso/pnj/PNJ_VIEILLE_ROUSPETE.md)
+- [PNJ_MUSICIENS_DOUX_FUMET — Musiciens du Doux Fumet](Perso/pnj/PNJ_MUSICIENS_DOUX_FUMET.md)
+- [PNJ_SOEUR_CORNELIA — Sœur Cornelia](Perso/pnj/PNJ_SOEUR_CORNELIA.md)
+- [PNJ_GRAND_ALF_GUISCARD — Grand Alf Guiscard](Perso/pnj/PNJ_GRAND_ALF_GUISCARD.md)
+- [PNJ_EL_LESSAR — El Lessar / Grands Plats](Perso/pnj/PNJ_EL_LESSAR.md)
+- [PNJ_QUENOTTE — Quenotte](Perso/pnj/PNJ_QUENOTTE.md)
+- [PNJ_BELLE_MERE — Belle Mère](Perso/pnj/PNJ_BELLE_MERE.md)
+- [PNJ_CASANABO — Casanabo](Perso/pnj/PNJ_CASANABO.md)
+- [PNJ_CRACOUCASS — Cracoucass](Perso/pnj/PNJ_CRACOUCASS.md)
+- [PNJ_AGNEAU_UNIQUE — Agneau Unique](Perso/pnj/PNJ_AGNEAU_UNIQUE.md)
+
+**Scanzona et traversée**
+
+- [PNJ_MAIALE — Maïale](Perso/pnj/PNJ_MAIALE.md)
+- [PNJ_GANG_DES_CRAPAUDS — Gang des Crapauds](Perso/pnj/PNJ_GANG_DES_CRAPAUDS.md)
+- [PNJ_CHEVALIER_SPIROULIN — Chevalier Spiroulin](Perso/pnj/PNJ_CHEVALIER_SPIROULIN.md)
+- [PNJ_PADRE_COSMA — Padre Cosma](Perso/pnj/PNJ_PADRE_COSMA.md)
+- [PNJ_PERDITA — Perdita](Perso/pnj/PNJ_PERDITA.md)
+- [PNJ_HULC — Hulc](Perso/pnj/PNJ_HULC.md)
+
+**Sibara, Académie et bois**
+
+- [PNJ_PERE_BOMBANCE — Père Bombance](Perso/pnj/PNJ_PERE_BOMBANCE.md)
+- [PNJ_GIUSEPPE_ET_JESUS — Giuseppe et Jésus](Perso/pnj/PNJ_GIUSEPPE_ET_JESUS.md)
+- [PNJ_MERE_DE_TITO — Mère de Tito](Perso/pnj/PNJ_MERE_DE_TITO.md)
+- [PNJ_MUSTRUM — Mustrum Ridculouis](Perso/pnj/PNJ_MUSTRUM.md)
+- [PNJ_GOBEMOUCHE — Gobemouche](Perso/pnj/PNJ_GOBEMOUCHE.md)
+- [PNJ_TROIS_ENTREPRENEURS_COCHONS — Trois entrepreneurs cochons](Perso/pnj/PNJ_TROIS_ENTREPRENEURS_COCHONS.md)
+- [PNJ_LOUP_ET_PETIT_CHAPERON_ROUGE — Loup et Petit Chaperon rouge](Perso/pnj/PNJ_LOUP_ET_PETIT_CHAPERON_ROUGE.md)
+- [PNJ_PRINCE_RENAULT — Prince Renault](Perso/pnj/PNJ_PRINCE_RENAULT.md)
+- [PNJ_AURORA — Aurora](Perso/pnj/PNJ_AURORA.md)
+
+**Chapitre V**
+
+- [PNJ_GUISCARD_DESTIN — Guiscard Destin](Perso/pnj/PNJ_GUISCARD_DESTIN.md)
+- [PNJ_FLUTISTE_MALEBRANCHE — Malebranche flûtiste](Perso/pnj/PNJ_FLUTISTE_MALEBRANCHE.md)
+- [PNJ_NUANCE — Nuance](Perso/pnj/PNJ_NUANCE.md)
+- [PNJ_MAMAN — Péniche / Maman](Perso/pnj/PNJ_MAMAN.md)
+
+**Arcs à documenter**
+
+- [PNJ_PETIT_POUCET — Petit Poucet](Perso/pnj/PNJ_PETIT_POUCET.md)
+- [PNJ_CARABOSSE — Carabosse](Perso/pnj/PNJ_CARABOSSE.md)
+- [PNJ_SIDNEY — Sidney/Sydney](Perso/pnj/PNJ_SIDNEY.md)
+- [PNJ_ENFANT — L'Enfant](Perso/pnj/PNJ_ENFANT.md)
+- [PNJ_MELIANE — Méliane](Perso/pnj/PNJ_MELIANE.md)
+- [PNJ_HOMME_EN_BLANC — Homme en blanc](Perso/pnj/PNJ_HOMME_EN_BLANC.md)
+- [PNJ_PANINI — Panini](Perso/pnj/PNJ_PANINI.md)
+- [PNJ_UZINO — Uzino](Perso/pnj/PNJ_UZINO.md)
+- [PNJ_UNCINO — Uncino](Perso/pnj/PNJ_UNCINO.md)
+
+Les groupes (musiciens, brigands, entrepreneurs, duo d'artisans et résistants de la forêt) disposent de fiches collectives provisoires. La liste n'impose pas de portrait individuel à chacun de leurs membres. Les figures de la campagne précédente Gisela et Léonard de la Sylve restent dans leur annexe historique, sans classification artificielle comme PNJ de cette campagne.
 
 ## 4. MANUSCRIT — Chapitres
 
