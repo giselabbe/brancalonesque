@@ -65,7 +65,7 @@ Source : [manuscrit III](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_t
 ### Chapitre IV — questions reprises du document du 25 novembre
 Source : [manuscrit IV](../../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.md).
 
-- [ ] Q401 — Capitainerie : comment les Canailles ont-elles obtenu la restitution de la péniche malgré les frais ?
+- [x] Q401 — **Résolu (confirmation de la joueuse, 26/11/2026)** : les Canailles ont simplement **payé les frais demandés** pour récupérer la péniche à la capitainerie. Aucune négociation exceptionnelle, ruse ni magie à supposer. Montant, nature exacte des frais et origine des fonds non précisés ; inutile de les inventer.
 - [ ] Q402 — Surveillance extérieure de Chez Gargantua : Psodia et Sispéo ont-ils identifié les livreurs ou l'origine des provisions ?
 - [ ] Q403 — Quelle était réellement l'origine de la viande ? Une créature intelligente est attestée dans le corpus ; l'hypothèse des héros reste non démontrée.
 - [ ] Q404 — Pourquoi les Canailles ont-elles envisagé de s'en prendre aux réserves d'eau du Domaine des Vieux avant même de rencontrer le Loup ?
@@ -128,6 +128,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q304 | Hulc dénonce les Canailles pour la prime ; il ne s'agit pas du Malebranche détenu avec elles. | Trame V.1, §11–12 | Partiel | 25/11/2026 |
 | Q304 | Le devenir de la poule géante est sans importance pour le récit ; aucune suite à rechercher ou inventer. Le rôle de Hulc est déjà établi. | Décision de la joueuse | Résolu | 26/11/2026 |
 | Q305 | Un raton sauveur reconduira le peuple raton à Pandosia, la cité mythique dont l'entrée s'est perdue (formulation normalisée). La trame III situe la promesse de Psodia pendant la traversée ; cette seconde partie n'a pas été reconfirmée séparément. | Confirmation directe de la joueuse (prophétie) ; trame III (promesse) | Partiel | 26/11/2026 |
+| Q401 | La restitution de la péniche à la capitainerie a été obtenue en payant les frais exigés. Le montant et la provenance de l'argent ne sont pas connus ; aucune ruse ni magie n'est attestée. | Confirmation directe de la joueuse, 26/11/2026 ; manuscrit IV, §03 | Résolu | 26/11/2026 |
 | Q407 | Auteur de la brume non retrouvé : Sispéo, Psodia ou Personne, sans préférence établie. Ondine défend les trois cochons en vertu de son idéal de retour à l'ordre des contes : dans le conte ils sont les gentils. Les héros ignorent ses motivations et ne comprennent pas les enjeux de la guerre entre les fées dites « bordéliques » et « elfiques » (ordre, rigueur). Termes descriptifs, noms officiels traités en Q202. | Confirmation directe de la joueuse ; trame IV | Résolu (auteur inconnu, motivation confirmée) | 26/11/2026 |
 | Q408 | Péniche réparée au retour de Pandosia ; moment des travaux non précisé. | Trame V.2, §12 | Partiel | 25/11/2026 |
 | Q501 | Anti-Cuite guérit l'ivresse au IV ; la lignification de Quenotte, Tourette et Nuance est inversée par polissage au V. Ordre des scènes établi dans les trames. | Chronologie IV.14–15 et V.20–26 | Résolu (trame) | 25/11/2026 |

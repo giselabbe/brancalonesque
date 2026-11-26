@@ -63,9 +63,11 @@ future narration.
 03 — LA CAPITAINERIE ET L'ÉTAT DE LA PÉNICHE
 
 Les Canailles retrouvent la trace de leur péniche au port. Le capitaine
-réclame des frais élevés d'immobilisation ou de gardiennage avant de la
-restituer. La clique obtient finalement gain de cause, mais le procédé exact
-employé lors de cette négociation reste à retrouver.
+réclame des frais d'immobilisation ou de gardiennage avant de la
+restituer. **Les Canailles paient les frais demandés** et obtiennent
+la restitution de leur embarcation. Le montant exact et l'origine de
+l'argent ne sont pas documentés ; aucune ruse ni magie n'a été nécessaire
+pour débloquer cette situation (Q401).
 
 Sur le chantier naval, plusieurs éléments en bois de vétille ont été retirés
 de l'embarcation. Une altercation éclate avec les ouvriers : Marée de Nuit
@@ -371,9 +373,9 @@ ces connaissances aux héros actuels.
 QUESTIONS ENCORE OUVERTES — POUR OLIVIER ET THIERRY
 ======================================================================
 
-1. CAPITAINERIE : comment la clique a-t-elle obtenu la restitution de la
-   péniche malgré les frais exigés ? Quel argument, quelle ruse ou quelle
-   magie a finalement permis de débloquer la situation ?
+1. CAPITAINERIE — RÉSOLU (Q401) : les Canailles ont payé les frais
+   exigés et récupéré la péniche. Montant et origine des fonds inconnus,
+   non nécessaires au récit. Aucun argument, ruse ou sort à inventer.
 
 2. CHEZ GARGANTUA / SURVEILLANCE EXTÉRIEURE : Psodia et Sispéo ont-ils
    identifié les livreurs du matin ou découvert quelque chose sur l'origine

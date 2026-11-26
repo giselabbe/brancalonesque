@@ -58,7 +58,7 @@ Les enquêtes urbaines se chevauchent ; l'ordre ci-dessous reprend le document d
 |---|---|---|
 | IV.01 | Camps ; Bombance sollicite Marée de Nuit | Marmite de Saint Glaude et nourriture pour réfugiés |
 | IV.02 | Faux laissez-passer de Personne ; repérages | Accès à la ville |
-| IV.03 | Péniche retrouvée ; Giuseppe et Jésus | Bois ordinaire rejeté ; vétille indispensable |
+| IV.03 | Péniche retrouvée à la capitainerie, frais payés pour sa restitution ; Giuseppe et Jésus | Montant et origine des fonds non précisés (Q401) ; bois ordinaire rejeté ; vétille indispensable |
 | IV.04 | Chez Gargantua : Tito reconnaît sa mère | Fuite de Tito ; perception initiale à nuancer |
 | IV.05 | Marée de Nuit devient commis et prélève de la viande | Échantillon obtenu avant la bagarre |
 | IV.06 | Infiltration de Personne et Truffino ; surveillance extérieure | Résultat de la surveillance inconnu |
