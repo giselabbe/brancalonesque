@@ -78,8 +78,9 @@ Précision confirmée par l'utilisateur : les elfes sont attirés par la magie f
 | Vétille | D : matériau de Sispéo et de la péniche ; bois ordinaire rejeté par la péniche ; bosquet gardé par Tourette ; animation magique ou emprisonnement par inversion des propriétés | IV–V ; voir 4.1 |
 | Burrichetta | D : véhicule mécanique, également ancien dispositif de propulsion de la péniche | Récupérée à la fin du IV ; passé inconnu des héros |
 | Abstynthe | D : potion fictive d'Aurora responsable du sort de Palla in Corso et de l'ivresse magique de Tourette | IV |
-| Anti-Cuite | D : remède fictif fourni par Aurora, guérit l'ivresse magique | IV, avant la lignification |
+| Anti-Cuite | D : remède fictif dont Aurora fournit la recette, guérit l'ivresse magique ; noms des herbes non documentés (Q502) | IV, avant la lignification |
 | Lignification | D : Tourette devient statuette de bois par magie elfique ; Quenotte subit également ce sort, ce qui explique le tombeau vide du I ; les héros ne l'apprennent qu'à Pandosia au V (Q104) ; libération par polissage démontrée au V, ainsi que pour Nuance | IV–V ; distincte de l'ivresse magique |
+| Herbe elfique (sonorité « Aspartam », nom provisoire) | D : pousse chez les elfes et sert à nettoyer la Marmite de Saint Glaude (Q502) ; sans lien avec l'Anti-Cuite | Arc ultérieur de la Marmite ; nom exact et moment de récupération à confirmer |
 | Marmite de Saint Glaude | D : relique recherchée par Bombance ; illustration découverte par Tito dans un ouvrage sur l'ancien temple de la Faim Rassasiée, associé à Chez Gargantua | Quête ouverte IV ; une marmite magique est annoncée comme prix de Croc Chef au V, identité non encore confirmée |
 | Liber Vetillæ | D : grimoire de nécromancie évoqué dans un livre découvert par Personne ; renseigne sur l'inversion des propriétés de la vétille | V ; texte original à relire, ne pas affirmer que les Canailles possèdent le grimoire |
 | Lunettes de lecture magiques | D : permettent à Personne de déchiffrer des livres ; prêtées par Louis | V ; « lorgnons de Gouguel » est un nom proposé (P) |
