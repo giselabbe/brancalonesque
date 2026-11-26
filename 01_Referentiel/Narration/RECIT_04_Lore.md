@@ -66,7 +66,7 @@ Précision confirmée par l'utilisateur : les elfes sont attirés par la magie f
 ## 5. Objets, pouvoirs et matériaux
 | Objet / phénomène | Propriété attestée ou rapportée | Continuité |
 |---|---|---|
-| Agneau Unique | D : son porteur devient invisible ; danger allégué par la Communauté, non vérifié | I seulement ; ne pas réintroduire l'animal vivant après sa mort |
+| Agneau Unique | D : son porteur devient invisible, propriété découverte par Psodia (Q102, confirmé) ; danger allégué par la Communauté, non vérifié | I seulement ; ne pas réintroduire l'animal vivant après sa mort |
 | Pelle de Chaterpillar | D : récupérée dans la crypte, arme favorite de Tito | À partir de I.06 |
 | Baguette de Quenotte | D : retrouvée au tombeau vide, réaction des moustaches de Psodia ; ouvre la grande porte de Pandosia ; Quenotte utilise sa baguette à la sortie du temple | À partir de I.06 ; oubliée puis retrouvée dans les souvenirs de Psodia au V ; autres pouvoirs non établis |
 | Masques de Personne | D : permettent de prendre une apparence et d'accéder à des souvenirs ; usage prolongé menace son identité | Premier masque : Dona Vitalli (I) |
