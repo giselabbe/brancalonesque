@@ -180,7 +180,7 @@ Après plusieurs années d'abandon et d'oubli, Pandosia peut enfin retrouver ses
 
 Une autre excellente nouvelle attend les Canailles : la péniche est désormais réparée !
 
-Plus extraordinaire encore, celle-ci s'est réveillée et communique avec Personne. Elle lui révèle sa véritable nature : elle est un **Port-Trop-Loin**, un bateau magique capable de rejoindre n'importe quel port déjà visité.
+Plus extraordinaire encore, celle-ci s'est réveillée et communique avec Personne. Elle lui révèle sa véritable nature : elle est un **Port-Trop-Loin**, un bateau magique capable de rejoindre n'importe quel port déjà vu, à condition d'atteindre la vitesse de 8,8 nœuds par heure. [Note éditoriale Q517 : clin d'œil du MJ à Retour vers le futur ; moment exact de révélation du seuil de vitesse à vérifier.]
 
 Grâce à la polisseuse rapportée de Pandosia, les Canailles peuvent également libérer Tourette de sa prison de bois.
 
