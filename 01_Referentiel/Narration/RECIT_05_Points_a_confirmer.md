@@ -52,7 +52,7 @@ Source : [manuscrit III](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_t
 - [x] Q301 — Nom du port de départ non conservé ; rester vague dans le récit, sans inventer de toponyme.
 - [x] Q302 — Les Canailles n'ont pas compris pourquoi Personne a endommagé la cale. Conserver l'explication et le ton humoristique de la trame, sans inventer de motivation.
 - [ ] Q303 — Comment le conflit avec Bosco Rosso et Isabella s'est-il résolu ?
-- [ ] Q304 — Rôle ultérieur de Hulc confirmé au V : il dénonce les Canailles aux gardes, avant leur emprisonnement. Reste à préciser le devenir de la poule géante.
+- [x] Q304 — Rôle ultérieur de Hulc confirmé au V : il dénonce les Canailles aux gardes, avant leur emprisonnement. Devenir de la poule géante sans importance pour le récit ; ne pas rechercher ni inventer de suite.
 - [ ] Q305 — Formulation confirmée : un raton sauveur reconduira le peuple raton à Pandosia, la cité mythique dont l'entrée s'est perdue. La trame situe l'appropriation du rôle par Psodia durant la traversée, lorsqu'elle prétend connaître l'emplacement ; moment à confirmer séparément.
 
 ### Chapitre IV — questions reprises du document du 25 novembre
@@ -115,6 +115,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q301 | Le nom du port de départ n'a pas été conservé. Employer une désignation générique dans le récit ; aucune recherche supplémentaire nécessaire. | Confirmation directe de la joueuse | Résolu (nom non conservé) | 26/11/2026 |
 | Q302 | Les Canailles n'ont pas du tout compris pourquoi Personne a endommagé la cale. Conserver le passage existant de la trame ; aucune motivation supplémentaire à inventer. | Confirmation directe de la joueuse ; trame III | Résolu (motivation inconnue des Canailles) | 26/11/2026 |
 | Q304 | Hulc dénonce les Canailles pour la prime ; il ne s'agit pas du Malebranche détenu avec elles. | Trame V.1, §11–12 | Partiel | 25/11/2026 |
+| Q304 | Le devenir de la poule géante est sans importance pour le récit ; aucune suite à rechercher ou inventer. Le rôle de Hulc est déjà établi. | Décision de la joueuse | Résolu | 26/11/2026 |
 | Q305 | Un raton sauveur reconduira le peuple raton à Pandosia, la cité mythique dont l'entrée s'est perdue (formulation normalisée). La trame III situe la promesse de Psodia pendant la traversée ; cette seconde partie n'a pas été reconfirmée séparément. | Confirmation directe de la joueuse (prophétie) ; trame III (promesse) | Partiel | 26/11/2026 |
 | Q407 | Auteur de la brume non retrouvé : Sispéo, Psodia ou Personne, sans préférence établie. Ondine défend les trois cochons en vertu de son idéal de retour à l'ordre des contes : dans le conte ils sont les gentils. Les héros ignorent ses motivations et ne comprennent pas les enjeux de la guerre entre les fées dites « bordéliques » et « elfiques » (ordre, rigueur). Termes descriptifs, noms officiels traités en Q202. | Confirmation directe de la joueuse ; trame IV | Résolu (auteur inconnu, motivation confirmée) | 26/11/2026 |
 | Q408 | Péniche réparée au retour de Pandosia ; moment des travaux non précisé. | Trame V.2, §12 | Partiel | 25/11/2026 |
