@@ -103,7 +103,7 @@ Sources : les deux trames du chapitre V. L'ordre suit ces trames ; les scènes d
 | V.22 | Quenotte ouvre la porte avec sa baguette ; cinq elfes surgissent du cercle de champignons | Combat victorieux selon la trame, toutes les Canailles y participent (Q515) ; détails non notés. Ne pas expliquer encore le lien causal dans le récit. |
 | V.23 | Sortie de Pandosia avec Quenotte et la polisseuse | Récupération de la machine admise rétrospectivement par le MJ en fin de séance. |
 | V.24 | Retour à Sibara ; les Canailles convainquent les réfugiés ratons de retourner à Pandosia | Psodia tient sa promesse de III.04 ; cité repeuplée. |
-| V.25 | Péniche réparée et réveillée ; elle parle à Personne | Révélation du Port-Trop-Loin : permet de rejoindre tout port déjà visité. Moment exact des travaux non précisé. |
+| V.25 | Péniche réparée et réveillée ; elle parle à Personne | Révélation du Port-Trop-Loin : permet de rejoindre tout port déjà vu ; règle confirmée Q517 : atteindre 8,8 nœuds par heure. Moment exact de révélation du seuil et des travaux non précisé. |
 | V.26 | Polissage de Tourette et de la figure de proue | Tourette et Nuance, l'anguana, libérées ; distinct de la guérison de l'ivresse en IV.14. |
 | V.27 | Annonce du concours Croc Chef, doté d'une marmite magique ; Marée de Nuit s'engage | Transition vers le chapitre VI ; l'identité de la marmite n'est pas encore confirmée. |
 
