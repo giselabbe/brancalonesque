@@ -91,6 +91,10 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 - [ ] Q509 — Réanimation de Nuance résolue au V ; restent les épisodes avec les marionnettes géantes et la découverte des capacités de Sispéo.
 - [ ] Q510 — Île des enfants perdus : circonstances du voyage, Perdita, noms Panini/Uzino/Uncino, Méliane et révélations finales ; vérifier identités et orthographes sans les anticiper.
 
+### Question transversale — guerre des fées et retour des elfes (confidentiel)
+
+- [ ] Q518 — Ondine souhaite-t-elle restaurer l'Enfant dans son rôle ? La guerre civile des fées (ordre des contes contre chaos) est-elle distincte de la volonté de Méliane et des elfes de réintégrer Brancalonia, ou les conflits sont-ils liés par des alliances ou des objectifs communs ? Fait confirmé : l'Enfant a exilé sa sœur Méliane, future reine des elfes et ennemie jurée. Indices : Ondine est attaquée par les elfes au II, soutient les cochons au IV, recherche une piste vers l'Enfant au V. Vérifier dans les révélations finales ; ne pas déduire une alliance elfique du seul goût de l'ordre. Voir Q005, Q202, Q407 et Q510.
+
 ## Journal des réponses
 | ID | Réponse / correction | Source ou témoin | Statut | Date |
 |---|---|---|---|---|
@@ -118,6 +122,8 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q504 | Psodia se rappelle sa baguette acquise au I et ouvre la porte ; la banque contient les dents de lait ; Quenotte est libérée par polissage. | Trame V.2, §5–9 | Résolu (trame) | 25/11/2026 |
 | Q505 | Enfance de Psodia près de l'Académie, ingestion de déchets magiques, troubles de mémoire et capacités magiques ; elle convainc les ratons de retourner à Pandosia. | Trame V.2, §3, 9 et 11 | Partiel | 25/11/2026 |
 | Q509 | Nuance libérée par polissage de la figure de proue ; la polisseuse a été emportée avec l'accord rétrospectif du MJ. | Trame V.2, §10–12 et précision utilisateur | Partiel | 25/11/2026 | |
+
+| Q518 | Inimitié et lien de sororité confirmés : l'Enfant a exilé Méliane, future reine des elfes. Hypothèses ouvertes : Ondine souhaite restaurer l'Enfant ; guerre civile féerique distincte du projet de retour des elfes. | Confirmation directe de la joueuse pour l'exil et la rivalité ; trames II, IV, V pour les indices | Partiel (faits et hypothèses distingués) | 26/11/2026 |
 
 ## Règle de validation
 Une réponse confirmée doit être répercutée dans le manuscrit et les référentiels concernés, notamment les fiches individuelles YAML + Markdown lorsqu'un personnage est concerné. Vérifier aussi les conséquences sur les illustrations et la continuité visuelle. Une validation graphique ne vaut pas validation narrative.
