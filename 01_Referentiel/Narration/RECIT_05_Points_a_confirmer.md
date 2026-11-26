@@ -50,7 +50,7 @@ Source : [manuscrit II](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame
 Source : [manuscrit III](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_trame.md).
 
 - [x] Q301 — Nom du port de départ non conservé ; rester vague dans le récit, sans inventer de toponyme.
-- [ ] Q302 — Pourquoi Personne a-t-il endommagé la cale ?
+- [x] Q302 — Les Canailles n'ont pas compris pourquoi Personne a endommagé la cale. Conserver l'explication et le ton humoristique de la trame, sans inventer de motivation.
 - [ ] Q303 — Comment le conflit avec Bosco Rosso et Isabella s'est-il résolu ?
 - [ ] Q304 — Rôle ultérieur de Hulc confirmé au V : il dénonce les Canailles aux gardes, avant leur emprisonnement. Reste à préciser le devenir de la poule géante.
 - [ ] Q305 — Formulation exacte de la prophétie du Kwisach des Rats et moment où Psodia la reprend à son compte.
@@ -108,6 +108,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q205 | La clique commence à se renseigner ; Psodia veut aider les habitants, Personne et Sispéo non. Le MJ installe un sentiment d'urgence : sauver la péniche alors que Personne dépérit, trouver un remède pour Tourette. La perspective d'affronter un démon puissant contribue également à l'abandon. Aucun passage aux enfers ni affrontement avec ce démon confirmé. | Confirmation directe de la joueuse ; trame II | Résolu | 26/11/2026 |
 | Q206 | Ondine rejoint les Canailles après l'affrontement avec les elfes (II.07). Truffino apparaît lors du passage au niveau 3, au retour sur la péniche à la fin de la session (II.08) ; les familiers sont disponibles à ce niveau. | Confirmation directe de la joueuse ; trame II | Confirmé | 26/11/2026 |
 | Q301 | Le nom du port de départ n'a pas été conservé. Employer une désignation générique dans le récit ; aucune recherche supplémentaire nécessaire. | Confirmation directe de la joueuse | Résolu (nom non conservé) | 26/11/2026 |
+| Q302 | Les Canailles n'ont pas du tout compris pourquoi Personne a endommagé la cale. Conserver le passage existant de la trame ; aucune motivation supplémentaire à inventer. | Confirmation directe de la joueuse ; trame III | Résolu (motivation inconnue des Canailles) | 26/11/2026 |
 | Q304 | Hulc dénonce les Canailles pour la prime ; il ne s'agit pas du Malebranche détenu avec elles. | Trame V.1, §11–12 | Partiel | 25/11/2026 |
 | Q408 | Péniche réparée au retour de Pandosia ; moment des travaux non précisé. | Trame V.2, §12 | Partiel | 25/11/2026 |
 | Q501 | Anti-Cuite guérit l'ivresse au IV ; la lignification de Quenotte, Tourette et Nuance est inversée par polissage au V. Ordre des scènes établi dans les trames. | Chronologie IV.14–15 et V.20–26 | Résolu (trame) | 25/11/2026 |
