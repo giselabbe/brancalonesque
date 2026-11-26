@@ -87,7 +87,7 @@ Précision confirmée par l'utilisateur : les elfes sont attirés par la magie f
 | Dentier magique | D : claque des dents en cas de danger | Butin du Tas de boue, V |
 | Réchaud à fondue | D : butin inhabituel du Tas de boue ; aucune propriété magique établie | V |
 | Polisseuse de Pandosia | D : énorme machine du temple de Quenotte, bruit de roulette de dentiste ; permet la libération de créatures lignifiées | V ; emportée avec l'accord rétrospectif du MJ, puis utilisée pour Tourette et Nuance |
-| Machine à fabriquer les couleurs | D : objet recherché par les mages, selon le témoignage du rescapé de Pandosia | V ; aspect, fonctionnement et devenir inconnus ; ne pas la confondre avec la polisseuse |
+| Machine à fabriquer les couleurs (mention incertaine) | S : note de carnet attribuant cet objectif aux mages dans le témoignage du rescapé ; la joueuse doute de l'exactitude de sa prise de notes | V ; vérifier auprès du MJ l'existence et la nature de cette machine avant toute interprétation (Q514) ; ne pas l'assimiler à la polisseuse |
 | Port-Trop-Loin | D : bateau magique permettant de rejoindre n'importe quel port déjà visité ; la péniche révèle sa nature à Personne après sa réparation | V ; modalités, coût éventuel, vitesse et limites supplémentaires inconnus |
 | Flûte du Malebranche et bulle de silence | D : le flûtiste a fait sortir les ratons de Pandosia ; une puissante bulle de silence empêche la communication orale et résiste aux tentatives de dissipation | V ; auteur du silence inconnu : Quenotte pour empêcher les méfaits du flûtiste, ou les mages pour dissimuler leur propre méfait (hypothèses non confirmées) ; elle transforme ensuite le flûtiste en grenouille après sa propre libération (Q512) |
 
