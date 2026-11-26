@@ -17,7 +17,7 @@ Après leurs aventures à Scanzona, les Canailles ont un problème autrement plu
 La Dame Mystique leur conseille de gagner Sibara, dans le Piccadore, pour y consulter Mustrum Ridculouis, bibliothécaire de l'université de Magie et, prétend-elle, un vieil ami. Pour rejoindre la ville, la clique doit prendre la mer. Tourette les accompagne  : après tout, c'est elle qu'il faut faire examiner. 
 
 
-Au port — dont le nom nous échappe —, la clique retrouve Kali Moranes, la fille du baron de Sourcemolle, désormais autoproclamée « Kali Jones ». Elle possède un bateau flambant neuf, La Brigantine, et compte bien devenir pirate. En souvenir des événements de Sourcemolle, elle propose spontanément d'embarquer les Canailles.
+Au port, la clique retrouve Kali Moranes, la fille du baron de Sourcemolle, désormais autoproclamée « Kali Jones ». Elle possède un bateau flambant neuf, La Brigantine, et compte bien devenir pirate. En souvenir des événements de Sourcemolle, elle propose spontanément d'embarquer les Canailles.
 
 Kali s'est entourée d'un équipage de flibustiers, parmi lesquels Bosco Rosso, dit « le Sanguinaire », et Isabella, surnommée « la Sirène ». Mais les apparences ne tardent pas à se fissurer : la barre derrière laquelle Kali pose fièrement n'est qu'un faux gouvernail. La vraie direction du navire semble plutôt appartenir à Bosco Rosso. Voilà qui augure bien de la carrière de la nouvelle capitaine.
 
