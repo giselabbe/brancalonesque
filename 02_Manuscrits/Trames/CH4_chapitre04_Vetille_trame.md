@@ -215,12 +215,19 @@ Les entrepreneurs se plaignent des interventions d'un Loup qui trouble les
 travaux. Les Canailles ne l'ont pas encore rencontré et ignorent donc sa
 version des faits.
 
-Au cours de ce PREMIER passage, la clique décide de s'en prendre aux
-réserves d'eau du chantier en envisageant de les empoisonner. Ce souvenir
-est partagé par les joueurs, mais personne ne se rappelle ce qui a motivé
-cette décision, particulièrement surprenante à ce stade. Il reste aussi à
-préciser si le projet a été effectivement exécuté et avec quelles
-conséquences éventuelles. Aucun détail de méthode n'est retenu.
+Dès ce PREMIER passage, **Sispéo veut faire arrêter le chantier** :
+originaire du bois de Bologne, il voit les entrepreneurs défricher la
+forêt dont il est issu et juge cette destruction inacceptable. Il prend
+cette initiative **avant la rencontre avec le Loup**, sans avoir besoin
+de connaître encore la version de celui-ci (témoignage direct de son
+joueur, Q404).
+
+Dans ce contexte, la clique envisage de s'en prendre aux réserves d'eau
+du chantier, notamment de les empoisonner. L'idée générale d'arrêter
+les travaux vient de Sispéo ; on ne sait pas qui a proposé précisément
+l'action contre l'eau. Il reste aussi à établir si ce projet a été mis
+à exécution et avec quelles conséquences éventuelles (Q405).
+Aucun détail de méthode n'est retenu.
 
 PERSONNE envisage par ailleurs de prendre les titres de propriété du
 chantier. Sispéo, soutenu par d'autres Canailles, l'en empêche : les
@@ -310,18 +317,19 @@ autre enchantement.
 16 — SECOND PASSAGE AU DOMAINE DES VIEUX : LE SABOTAGE DU CHANTIER
 
 Sur le chemin du retour, les Canailles repassent par le Domaine des Vieux.
-Elles décident d'interrompre le chantier, une fois encore contre l'avis de
-Tito.
+Elles poursuivent le projet d'arrêter le chantier, initialement porté par
+Sispéo dès le premier passage pour protéger sa forêt (Q404), une fois
+encore contre l'avis de Tito.
 
 Psodia administre discrètement une potion de cochonisation à l'un des
 entrepreneurs hommes-cochons endormi, qui devient un véritable cochon.
 
 La clique organise une mise en scène d'intimidation : les Canailles se
 répartissent autour du chantier pour produire des bruits venant de plusieurs
-directions ; Psodia utilise des lumières féériques ; un sort de brume est
-également lancé (son auteur n'a pas été identifié dans les souvenirs de jeu). PERSONNE, déguisé en
-Dame Vitalli, apparaît et disparaît en plusieurs endroits et profère des
-menaces à l'adresse des ouvriers et des bûcherons.
+directions ; Psodia utilise des lumières féériques ; **Sispéo lance le
+sort de brume** (attribution confirmée par son joueur, Q407). PERSONNE,
+déguisé en Dame Vitalli, apparaît et disparaît en plusieurs endroits et
+profère des menaces à l'adresse des ouvriers et des bûcherons.
 
 Le cochon transformé sort de sa tente. Sispéo, qui sait communiquer avec les
 animaux, prétend traduire ses propos, mais déforme volontairement ses
@@ -402,10 +410,11 @@ QUESTIONS ENCORE OUVERTES — POUR OLIVIER ET THIERRY
    l'origine des boulettes, sans préciser comment la viande est
    préparée ni ce que les héros ont compris à ce moment.
 
-4. DOMAINE DES VIEUX / PREMIER PASSAGE : pourquoi les Canailles ont-elles
-   décidé de s'en prendre aux réserves d'eau du chantier, AVANT même de
-   rencontrer le Loup et d'entendre son point de vue ? Quel était leur
-   raisonnement à ce moment de l'histoire ?
+4. DOMAINE DES VIEUX / PREMIER PASSAGE — RÉSOLU (Q404) : Sispéo
+   souhaitait stopper le défrichement de sa forêt d'origine, le bois de
+   Bologne, avant même la rencontre avec le Loup. Il a initié le projet
+   d'arrêter le chantier. La mise en œuvre du projet visant les réserves
+   d'eau reste incertaine (Q405).
 
 5. DOMAINE DES VIEUX / PREMIER PASSAGE : cette décision concernant les
    réserves d'eau a-t-elle été mise à exécution ? Si oui, y a-t-il eu des

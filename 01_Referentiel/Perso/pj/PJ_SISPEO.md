@@ -44,7 +44,7 @@ Originaire du bois de Bologne selon le chapitre IV. Marionnette en bois de véti
 - **CH_01** : Avec Psodia, entre au bal par les cuisines. Sa marraine les transforme en humains : Sispéo devient un magnifique jeune homme mais conserve sa voix éraillée et sa vulgarité. Reconnaissance et réplique « Mais si, c'est moi ! Tu ne me reconnais pas, trou du cul ? » **reconstituées**, non attestées mot pour mot (Q108). Intervient dans le destin de l’Agneau Unique.
 - **CH_02** : Ne souhaite pas aider les habitants dans le cadre de la mission du pèlerinage, contrairement à Psodia (Q205).
 - **CH_03** : Répare la cale de La Brigantine.
-- **CH_04** : Interprète les paroles du cochon au Domaine des Vieux.
+- **CH_04** : Dès le premier passage au Domaine des Vieux, prend l'initiative de vouloir arrêter le chantier pour empêcher le défrichement de son bois de Bologne natal, avant même la rencontre avec le Loup (Q404). Au second passage, **lance le sort de brume** lors de la mise en scène d'intimidation (Q407) et interprète les paroles du cochon transformé. Le projet contre les réserves d'eau demeure d'exécution incertaine (Q405).
 - **CH_05 — Pandosia et le Liber Vetillæ** : Lors de la détention à l'Académie de Sibara, descelle quelques pierres du mur de la cellule. Ces pierres servent de diversion lors de l'évasion organisée par les Canailles ; elles s'échappent par les portes, et non par le mur. Humus conseille de consulter sa marraine, Belle-Mère la Bonne Fée, ou Ondine au sujet de la lignification. Sispéo accompagne l'expédition à Pandosia ; combat les golems tandis que Psodia polit la statuette, puis participe à l'affrontement collectif contre les cinq elfes (Q515).
 - **Suite — souvenir à recouper** : Peut diriger les marionnettes géantes elfiques.
 

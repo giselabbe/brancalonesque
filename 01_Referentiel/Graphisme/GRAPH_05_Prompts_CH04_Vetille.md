@@ -57,7 +57,7 @@ Ce document suit la structure du registre graphique du chapitre V : scènes num�
 
 ### CH04-ILL-04 — La capitainerie et la facture impossible
 - Priorité A · IV.03 · Scène de groupe, demi-page ou pleine largeur.
-- Prompt : bureau de capitainerie donnant sur les quais, fonctionnaire ou capitaine inflexible derrière une pile de registres. Les Canailles négocient les frais exorbitants de gardiennage de la péniche : Psodia s'apprête à improviser, PERSONNE s'indigne, Tito campe sur une posture de justice, Sispéo gesticule avec son gourdin, Marée de Nuit tente de formuler un compromis. Interprétation de leur dynamique habituelle, **pas la reconstitution d'une réplique jouée**. Ne pas représenter un paiement, un charme magique ni un accord précis : moyen de résolution encore inconnu.
+- Prompt : bureau de capitainerie donnant sur les quais, fonctionnaire ou capitaine derrière une pile de registres. Les Canailles règlent les frais exigés pour récupérer leur péniche (Q401) ; on peut montrer la remise d'une somme au guichet, sans inventer le montant, le mode de paiement précis ni l'identité de la personne qui paie. Garder la dynamique picaresque de la compagnie, sans reconstituer de réplique jouée ni imaginer une ruse, une magie ou une négociation exceptionnelle.
 - Références : cinq portraits PJ ; port Renaissance.
 
 ### CH04-ILL-05 — Une péniche qui refuse les réparations
@@ -138,9 +138,9 @@ Ce document suit la structure du registre graphique du chapitre V : scènes num�
 - Prompt : grand chantier de maison de retraite en pleine forêt, arbres abattus et poutres empilées, nombreux ouvriers et bûcherons ; trois entrepreneurs hommes-cochons dirigent les travaux et présentent leur ambitieux projet, persuadés que les magiciens âgés constitueront une clientèle idéale. Architecture de chantier Renaissance-fantasy, grues et échafaudages de bois à fonctionnement artisanal, ironie visuelle. Montrer la destruction du bosquet environnant sans prétendre que l'Académie finance le projet.
 - Références : croquis « Croquis graphite du cochon rustique en gilet usé-5.png » candidat pour l'un des cochons seulement ; modèles distincts des trois frères à créer ; CH04-ACC-07.
 
-### CH04-ILL-19 — Les réserves d'eau : une décision oubliée
+### CH04-ILL-19 — Les réserves d'eau : un projet pour stopper le défrichement
 - Priorité C · IV.10 · Vignette documentaire **facultative, sous réserve**.
-- Prompt : vue sobre de réserves d'eau ou de tonneaux du chantier ; quelques Canailles les examinent à distance dans une attitude indéchiffrable. Aucun poison, produit, déversement, ouvrier malade ni conséquence dramatique. Cette composition **n'atteste pas l'exécution** : elle illustre uniquement qu'un projet d'empoisonnement a été évoqué au premier passage, pour une raison aujourd'hui oubliée. Mieux : réserver cette question à une note d'archive textuelle si l'incertitude demeure.
+- Prompt : vue sobre de réserves d'eau ou de tonneaux du chantier ; **Sispéo**, petite marionnette de vétille originaire de cette forêt, observe les arbres abattus avec indignation et manifeste sa volonté de stopper le défrichement. Quelques Canailles examinent les installations sans intervenir visiblement sur l'eau. Aucun poison, produit, déversement, ouvrier malade ni conséquence dramatique. Cette composition **n'atteste pas l'exécution** du projet contre les réserves (Q405) ; l'initiative générale de stopper le chantier est attribuée à Sispéo (Q404), pas nécessairement le choix de viser les réserves.
 - Références : chantier CH04-ILL-18 ; point Q404–405.
 
 ### CH04-ILL-20 — Le Loup et le Petit Chaperon rouge, défenseurs du bois
@@ -218,7 +218,7 @@ Ce document suit la structure du registre graphique du chapitre V : scènes num�
 
 ### CH04-ILL-33 — Dame Vitalli fait trembler les bûcherons
 - Priorité A · IV.16 · **Illustration majeure, pleine page ou pleine largeur**.
-- Prompt : nuit ou pénombre brumeuse autour du Domaine des Vieux, ouvriers et bûcherons terrifiés, lanternes, brouillard magique, petites lumières féériques de Psodia dans les arbres. PERSONNE utilise son masque de Dona Vitalli : l'apparition d'une vieille dame menaçante en costume ancien semble surgir en plusieurs lieux, grâce aux déplacements de la comédienne illusion, sans créer plusieurs personnages réels simultanés. Autour du chantier, les autres Canailles contribuent par des bruits venant de toutes parts. Scène de théâtre surnaturel, inquiétante et grotesque, mais sans véritable massacre. Ne pas imposer l'auteur du sort de brume, encore indéterminé.
+- Prompt : nuit ou pénombre brumeuse autour du Domaine des Vieux, ouvriers et bûcherons terrifiés, lanternes, brouillard magique, petites lumières féériques de Psodia dans les arbres. PERSONNE utilise son masque de Dona Vitalli : l'apparition d'une vieille dame menaçante en costume ancien semble surgir en plusieurs lieux, grâce aux déplacements de la comédienne illusion, sans créer plusieurs personnages réels simultanés. Autour du chantier, les autres Canailles contribuent par des bruits venant de toutes parts. Scène de théâtre surnaturel, inquiétante et grotesque, mais sans véritable massacre. **La brume magique a été lancée par Sispéo (Q407)** : conserver son identité visuelle de marionnette, sans inventer des attributs de mage ou un rituel précis. La composition peut le montrer participant à l'effet de brume sans faire croire que Psodia en est l'autrice ; les petites lumières féériques restent de Psodia.
 - Références : Personne + masque Dona Vitalli du chapitre I, Psodia, forêt et chantier ; effets de lumière à harmoniser.
 
 ### CH04-ILL-34 — La traduction très libre du cochon
@@ -301,10 +301,10 @@ Il s'agit d'un **vivier de scènes**, pas d'une commande de 26 illustrations : r
 
 ## Questions de continuité à confirmer avant génération
 
-1. Motif et déroulement exact de la négociation à la capitainerie ; la proposition CH04-ILL-04 illustre seulement la dynamique des personnages.
+1. Capitainerie (Q401 résolue) : les Canailles ont payé les frais demandés. Ne pas suggérer une résolution par ruse, magie ou négociation extraordinaire ; montant non documenté.
 2. Résultats de la surveillance des livraisons chez Gargantua ; ne pas montrer un fournisseur identifié.
-3. Véritable origine de la viande et part de l'ogresse dans cette affaire ; ne pas représenter une hypothèse comme une vérité.
-4. Motivation et **exécution éventuelle** du projet contre les réserves d'eau au premier Domaine ; privilégier un visuel neutre ou aucune image.
+3. Origine générale de la viande éclaircie rétrospectivement (Q403) : des clients habitués sont engraissés puis disparaissent après invitation en salle VIP au sous-sol. Modalités exactes, responsabilité personnelle de l'ogresse et connaissance des héros à ce stade non établies ; préserver la chronologie des révélations.
+4. **Motivation désormais connue (Q404) :** Sispéo veut défendre sa forêt natale contre le défrichement. **Seule l'exécution éventuelle du projet contre les réserves d'eau demeure ouverte (Q405)** ; privilégier un visuel neutre ou aucune image. **Sort de brume attribué à Sispéo (Q407).**
 5. Nombre et apparence exacts des elfes présents à Palla in Corso ; leur magie est attestée contre Tourette, leur mécanisme d'arrivée n'est pas compris par les héros.
 6. Design de Tourette, de la mère de Tito, de Mustrum/Gobemouche, de Renault, d'Aurora, de Giuseppe/Jésus et de la Burrichetta, à établir ou retrouver.
 7. Titre et graphie finale de la ville : Sibara retenu dans le référentiel, Cibara dans la trame du IV.

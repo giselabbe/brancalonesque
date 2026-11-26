@@ -65,13 +65,13 @@ Les enquêtes urbaines se chevauchent ; l'ordre ci-dessous reprend le document d
 | IV.07 | Griseta analyse l'échantillon | Viande issue d'une créature intelligente ; les Canailles soupçonnent des disparitions de clients. Confirmation rétrospective (Q403) : les habitués grossissent puis sont invités en salle VIP au sous-sol, sans jamais reparaître ; les héros ne connaissent pas nécessairement cette vérité à ce stade. |
 | IV.08 | Académie ; admission barbe et queue de raton | Persécutions des ratons liées à ce critère |
 | IV.09 | Première bibliothèque : Mustrum et Gobemouche | Piste du bois de Bologne pour Tourette et péniche |
-| IV.10 | Premier passage au Domaine des Vieux | Incident envisagé autour des réserves d'eau, exécution incertaine ; titres non volés |
+| IV.10 | Premier passage au Domaine des Vieux : Sispéo veut stopper le défrichement de sa forêt d'origine, avant la rencontre avec le Loup (Q404) | Action envisagée contre les réserves d'eau, auteur de cette idée précise non établi et exécution incertaine (Q405) ; titres non volés |
 | IV.11 | Loup et Petit Chaperon rouge | Tourette reconnue comme gardienne absente du bosquet |
 | IV.12 | Ondine demande de soutenir les entrepreneurs | Désaccord dans la clique ; motivation inconnue des héros, confirmée dans le lore confidentiel (Q407) |
 | IV.13 | Palla in Corso, Renault et Aurora | Abstynthe identifié comme origine de l'ivresse magique |
 | IV.14 | Excuses de Renault ; Anti-Cuite | Tourette guérie de l'ivresse grâce à la recette d'Aurora ; herbes non nommées, sans lien avec l'herbe elfique (Q502) ; trois potions de cochonisation obtenues |
 | IV.15 | Apparition d'elfes après la magie d'Aurora | Tourette transformée en statuette de bois |
-| IV.16 | Second passage au Domaine ; mise en scène et cochonisation | Abandon du chantier ; auteur de la brume non retrouvé (Q407) |
+| IV.16 | Second passage au Domaine ; mise en scène et cochonisation | Sispéo lance le sort de brume (Q407) ; les ouvriers s'enfuient et abandonnent le chantier |
 | IV.17 | Récupération du bois et de la Burrichetta | Matériaux disponibles ; la Burrichetta servira de moteur au Port-Trop-Loin (Q517, ne pas anticiper la révélation) |
 | IV.18 | Retour à Sibara | Réparation et guérison définitive au chapitre V |
 
