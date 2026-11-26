@@ -64,7 +64,7 @@ Source : [manuscrit IV](../../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.
 - [ ] Q404 — Pourquoi les Canailles ont-elles envisagé de s'en prendre aux réserves d'eau du Domaine des Vieux avant même de rencontrer le Loup ?
 - [ ] Q405 — Ce projet a-t-il été exécuté ? Conséquences éventuelles ? Aucun détail de méthode nécessaire au récit.
 - [ ] Q406 — L'ogresse a-t-elle repéré Personne invisible grâce à l'odeur de Tito ? La tentative d'accès à la cave a-t-elle déclenché la confrontation ? (facultatif)
-- [ ] Q407 — Auteur du sort de brume lors du second passage au Domaine ; raisons d'Ondine pour soutenir les entrepreneurs.
+- [x] Q407 — Auteur du sort de brume non retrouvé : Sispéo, Psodia et Personne sont les trois possibilités ; ne pas attribuer le sort. Ondine soutient les cochons car ils sont les gentils dans le conte traditionnel dont elle veut rétablir l'ordre ; motivation inconnue des héros.
 - [ ] Q408 — Nom propre éventuel du bosquet et moment exact des travaux ; réparation achevée au retour de Pandosia (V).
 
 ### Chapitre V — Pandosia et le Liber Vetillæ
@@ -111,6 +111,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q302 | Les Canailles n'ont pas du tout compris pourquoi Personne a endommagé la cale. Conserver le passage existant de la trame ; aucune motivation supplémentaire à inventer. | Confirmation directe de la joueuse ; trame III | Résolu (motivation inconnue des Canailles) | 26/11/2026 |
 | Q304 | Hulc dénonce les Canailles pour la prime ; il ne s'agit pas du Malebranche détenu avec elles. | Trame V.1, §11–12 | Partiel | 25/11/2026 |
 | Q305 | Un raton sauveur reconduira le peuple raton à Pandosia, la cité mythique dont l'entrée s'est perdue (formulation normalisée). La trame III situe la promesse de Psodia pendant la traversée ; cette seconde partie n'a pas été reconfirmée séparément. | Confirmation directe de la joueuse (prophétie) ; trame III (promesse) | Partiel | 26/11/2026 |
+| Q407 | Auteur de la brume non retrouvé : Sispéo, Psodia ou Personne, sans préférence établie. Ondine défend les trois cochons en vertu de son idéal de retour à l'ordre des contes : dans le conte ils sont les gentils. Les héros ignorent ses motivations et ne comprennent pas les enjeux de la guerre entre les fées dites « bordéliques » et « elfiques » (ordre, rigueur). Termes descriptifs, noms officiels traités en Q202. | Confirmation directe de la joueuse ; trame IV | Résolu (auteur inconnu, motivation confirmée) | 26/11/2026 |
 | Q408 | Péniche réparée au retour de Pandosia ; moment des travaux non précisé. | Trame V.2, §12 | Partiel | 25/11/2026 |
 | Q501 | Anti-Cuite guérit l'ivresse au IV ; la lignification de Quenotte, Tourette et Nuance est inversée par polissage au V. Ordre des scènes établi dans les trames. | Chronologie IV.14–15 et V.20–26 | Résolu (trame) | 25/11/2026 |
 | Q503 | Prime de 100 couronnes par tête pour destruction de marionnette tombée de la péniche et brisée au sol ; Hulc dénonce les Canailles. Malebranche flûtiste engagé par les mages pour vider Pandosia, puis frappé d'une bulle de silence. | Trames V.1, §1 et 11–12 ; V.2, §1–3 | Résolu (trame) | 25/11/2026 |
