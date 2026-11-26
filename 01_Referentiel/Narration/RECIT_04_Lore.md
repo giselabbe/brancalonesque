@@ -43,6 +43,10 @@ Royaume d'État-lie, univers picaresque ; les héros forment une clique de Canai
 
 | Anguana | Nuance, ancienne figure de proue de la péniche, libérée du bois par polissage au V. |
 
+### Continuité — formes humaines au bal de Saint-Glinglin
+
+Belle Mère transforme Psodia et Sispéo en humains le temps du bal. Sispéo apparaît comme un magnifique jeune homme mais garde sa voix éraillée et sa vulgarité. La scène où ses camarades le reconnaissent est une **reconstitution littéraire signalée**, non une citation de table. Ne pas en déduire de règle générale de métamorphose (Q108).
+
 ## 4. Magie, Féérie et histoire ancienne
 - D : réveil de Tarantasio, déchirure de la trame magique et disparition de l'Enfant ; Ondine raconte la guerre des Fées dite guerre de Saussisson/Sausisson (graphie à confirmer).
 - D : deux tendances s'opposent, l'une souhaite restaurer l'ordre des contes et de la magie, l'autre maintenir le nouvel équilibre plus brancalonesque. Ondine appartient à la première. « Légalistes » est une appellation de travail, non un nom canonique attesté.

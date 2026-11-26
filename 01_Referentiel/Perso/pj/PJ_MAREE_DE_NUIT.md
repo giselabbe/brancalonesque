@@ -40,6 +40,7 @@ Origine non renseignée. Appartient à l’ordre de la Faim Rassasiée.
 
 - **CH_03** : Conseille à Kali de reconvertir son bateau.
 - **CH_04** : Reçoit les missions du père Bombance ; enquête chez Gargantua et prélève un échantillon.
+- **CH_01 — Bal** : Remplace avec Tito et Personne les musiciens épuisés du Doux Fumet, entre déguisé au château et tente un ou deux airs (Q108).
 - **CH_05 — Retour à l'Académie** : Les gardes recherchent les Canailles pour destruction de marionnette, après la chute au sol d'une marionnette que Marée de Nuit avait fait tomber de la péniche. Devant l'échec du déguisement des faux professeurs, il propose de faire appeler Mustrum Ridculouis, dit Louis, qui leur permet d'entrer.
 - **CH_05 — Recherches universitaires** : Avec Psodia, il est l'un des deux membres du groupe sachant lire. Lorsque Louis identifie les mystérieux guerriers comme des elfes, Marée de Nuit se remémore le récit *Du dit des nains et des elfes*, notamment leur exil par les fées.
 - **CH_05 — La résurrection en milieu bovin** : À la demande du guiscard Destin, remplace un professeur absent et dispense avec succès un cours magistral sur la question : « Si on lance un sort de résurrection à un guerrier vêtu d'une veste en cuir, revient-il à la vie DANS une vache ? » Le contenu exact de sa démonstration n'est pas retrouvé.

@@ -21,8 +21,10 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | I.05 | Nid dans une vieille tour ; Robert et Agneau retrouvés | Plan de la crypte ; Psodia porte l'Agneau et découvre son pouvoir d'invisibilité (Q102) |
 | I.06 | Crypte de la dix-septième pile, clé de Rouspète | Tito acquiert la pelle de Chaterpillar ; Psodia la baguette de Quenotte ; mystère du tombeau vide non résolu à ce stade (Q104) |
 | I.07 | Manoir Vitalli, découverte de Tâcheron | Personne acquiert son premier masque, Dona Vitalli |
-| I.08 | Préparatifs du bal ; diversion des boules puantes ; magie de Belle Mère | Psodia et Sispéo temporairement humains |
-| I.09 | Bal ; Casanabo ; rivalité féerique ; échec auprès de Kali puis réussite auprès de Robert | Robert et Tâcheron se marient ; Kali libre de partir |
+| I.08 | Préparatifs ; boules puantes ; aucune invitation ; Psodia et Sispéo entrent par les cuisines et deviennent humains grâce à Belle Mère | Sispéo devient un magnifique jeune homme à la voix toujours éraillée (Q108) |
+| I.08a | Tito, Personne et Marée de Nuit remplacent les musiciens épuisés du Doux Fumet et tentent de jouer un ou deux airs au bal | Souvenir confirmé ; instruments autres que les mandolines non précisés (Q108) |
+| I.08b | Retrouvailles de Psodia et Sispéo humains avec les trois faux musiciens, après la prestation | Scène et réplique reconstituées, non souvenir littéral (Q108) |
+| I.09 | Après le récital, présentation de Tâcheron ; Casanabo ; rivalité féerique ; échec auprès de Kali puis réussite auprès de Robert | Robert et Tâcheron se marient ; le mode d'entrée de Tâcheron est inconnu |
 | I.10 | Minuit : Cendrillon se révèle être Rouspète | Raison de sa transformation jamais révélée (Q105) |
 | I.11 | Baron ruiné et butin Vitalli sans valeur | Pas de récompense significative |
 | I.12 | Agneau repris à la Communauté ; décision unilatérale de Sispéo | Mort de l'Agneau ; quête interrompue |

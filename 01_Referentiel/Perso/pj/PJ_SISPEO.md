@@ -41,7 +41,7 @@ Originaire du bois de Bologne selon le chapitre IV. Marionnette en bois de véti
 
 ## Évolution pendant la campagne
 
-- **CH_01** : Sa marraine transforme temporairement Psodia et lui en humains ; intervient dans le destin de l’Agneau Unique.
+- **CH_01** : Avec Psodia, entre au bal par les cuisines. Sa marraine les transforme en humains : Sispéo devient un magnifique jeune homme mais conserve sa voix éraillée et sa vulgarité. Reconnaissance et réplique « Mais si, c'est moi ! Tu ne me reconnais pas, trou du cul ? » **reconstituées**, non attestées mot pour mot (Q108). Intervient dans le destin de l’Agneau Unique.
 - **CH_02** : Ne souhaite pas aider les habitants dans le cadre de la mission du pèlerinage, contrairement à Psodia (Q205).
 - **CH_03** : Répare la cale de La Brigantine.
 - **CH_04** : Interprète les paroles du cochon au Domaine des Vieux.
@@ -64,7 +64,7 @@ Illustration originale de fantasy picaresque italienne, encre fine expressive et
 
 ## Variantes et continuité
 
-Apparence humaine au bal : variante narrative à illustrer. Ne pas ajouter de chemise, cape ni chapeau à la tenue canonique.
+Apparence humaine au bal : magnifique jeune homme à la voix éraillée et aux manières grossières, variante narrative à illustrer. Ne pas ajouter de chemise, cape ni chapeau à la tenue canonique.
 
 ## Sources et validation
 

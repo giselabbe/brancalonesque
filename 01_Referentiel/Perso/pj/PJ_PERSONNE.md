@@ -41,7 +41,7 @@ Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considèr
 
 ## Évolution pendant la campagne
 
-- **CH_01** : Premier masque : Dona Vitalli.
+- **CH_01** : Premier masque : Dona Vitalli. Avec Tito et Marée de Nuit, remplace les musiciens du Doux Fumet au bal pour entrer sans invitation ; ils tentent d'interpréter un ou deux airs (Q108).
 - **CH_02** : S'oppose à la mission du pèlerinage ; Au passage au niveau 3, lors du retour sur la péniche en fin de session, son familier Truffino apparaît et annonce que Maman est en danger (Q206). La dégradation de la santé de Personne rend le sauvetage de la péniche urgent et contribue à l'abandon du pèlerinage (Q205).
 - **CH_03** : Endommage la cale de La Brigantine ; les Canailles ne comprennent pas pourquoi (Q302).
 - **CH_04** : Fabrique des laissez-passer ; utilise le masque de Dona Vitalli au Domaine des Vieux.

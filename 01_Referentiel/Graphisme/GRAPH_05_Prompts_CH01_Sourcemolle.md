@@ -14,6 +14,8 @@
 
 **Nomenclature :** `CH01-ILL-xx` pour les scènes, `CH01-POR-xx` pour les modèles de personnages, `CH01-ACC-xx` pour les accessoires. Priorité **A** = image forte / structurante ; **B** = vignette ou scène secondaire recommandée ; **C** = option selon pagination. **Tous les éléments sont au statut brouillon ; aucun fichier final attribué.** Les propositions de format restent à adapter au livre imprimé.
 
+**Révision du 26/11/2026 :** ajouts `CH01-ILL-37` à `39` placés près des scènes concernées sans renumérotation. Souvenir confirmé pour les musiciens, reconstitution assumée pour les retrouvailles.
+
 ### Préfixe commun à joindre à chaque prompt
 
 > Illustration originale pour un recueil de campagne de fantasy picaresque italienne, inspiration Renaissance, encre fine expressive et aquarelle texturée, rendu artisanal semi-réaliste, textures de papier, pierre humide, étoffes élimées et métal patiné. Humour de situation, expressivité et lisibilité sans caricature systématique. Palette dominante parchemin #EADDC3, encre #30261F, bordeaux #843A32, or ancien #AC8949 et olive #546047, adaptée à l'ambiance de chaque scène. Respecter strictement les silhouettes, visages, proportions, tenues et accessoires des portraits validés joints. Pas de rendu photographique, 3D, esthétique de jeu vidéo, équipement contemporain ou architecture médiévale générique hors univers. Aucun texte lisible, logo, signature, cartouche ou bordure décorative générés ; les légendes et jeux de mots seront ajoutés en maquette. Ne jamais dupliquer un héros dans une scène ni ajouter un sixième membre à la clique.
@@ -67,6 +69,11 @@
 - **Priorité B · § 2 · Vignette horizontale.**
 - **Prompt :** dans le jardin de l'auberge du Doux Fumet, un œuf démesuré repose sur un lit de paille ou un support de fortune, entouré de curieux du village. La vieille Rouspète se tient avec sévérité ; Sœur Cornelia en habit de religieuse et les Canailles observent l'étrange trophée. À l'intérieur de la salle, seulement si cela reste lisible, El Lessar demeure un homme mystérieux à la pipe dans une zone d'ombre. Ne pas montrer l'œuf éclos, ni son propriétaire présent au jardin à cet instant.
 - **Références :** auberge, PNJ à développer.
+
+### CH01-ILL-37 — Mille bals et dix tendinites
+- **Priorité B · § 2 · Vignette ou demi-page.**
+- **Prompt :** au Doux Fumet, les musiciens épuisés par mille bals : mandolinistes aux doigts entaillés, lèvres gercées, poignets douloureux et tendinites ; instruments anciens et gestes las. Les Canailles entrevoyent une opportunité. Humour de situation Renaissance à l'encre et aquarelle, sans blessures graphiques ; effectif et instruments autres que les mandolines non attestés.
+- **Références :** Doux Fumet, portraits PJ, `CH01-POR-17`, `CH01-ACC-13`.
 
 ### CH01-ILL-07 — Personne, champion de gueuleton
 - **Priorité A · § 3 · Demi-page ou pleine largeur comique.**
@@ -176,6 +183,16 @@
 - **Prompt :** Belle-Mère la Bonne Fée, marraine de Sispéo, intervient dans une pièce attenante aux cuisines ou dans un espace discret du château (lieu précis à confirmer). Psodia la ratone et Sispéo la marionnette sont sur le point de prendre une **apparence humaine provisoire** pour entrer au bal ; suggérer la transformation par des silhouettes ou un effet de tissu et de lumière, sans figer les traits exacts des variantes humaines non validées. Fée forte en personnalité, merveilleux teinté d'ironie. **Il s'agit de la marraine de Sispéo, ne pas confondre avec la fée qui présente Cendrillon.**
 - **Références :** `CH01-POR-11`, fiches Psodia et Sispéo ; palette féerie de la charte en usage ponctuel.
 
+### CH01-ILL-38 — Le récital des faux musiciens
+- **Priorité A · § 9 · Demi-page ou pleine largeur.**
+- **Prompt :** au bal de Saint-Glinglin, Tito (ogre juvénile), Personne (Inexistant costumé) et Marée de Nuit (moine chalupestre rond) remplacent l'orchestre du Doux Fumet. Déguisés sommairement en musiciens, ils tentent de jouer un ou deux airs devant des invités perplexes. Silhouettes fidèles aux portraits, humour de gestes, costumes Renaissance ; pas de virtuosité ni de répertoire inventés. Mandolines attestées chez les musiciens d'origine ; attribution précise des instruments aux héros non connue.
+- **Références :** trois PJ, `CH01-POR-17`, `CH01-ACC-13`.
+
+### CH01-ILL-39 — Mais si, c'est moi, trou du cul !
+- **Priorité B · § 9 · Demi-page, scène littéraire reconstituée.**
+- **Prompt :** après le récital, un magnifique jeune homme — Sispéo sous forme humaine temporaire — apostrophe, furieux, Tito, Personne et Marée de Nuit, incrédules. Psodia, également humaine sous enchantement, tente de se faire reconnaître. Jeu expressif entre la beauté de Sispéo et sa vulgarité inchangée. Scène éditoriale reconstituée, réplique non attestée, aucun texte dans l'image. Silhouettes et visages des deux variantes humaines à valider avant génération ; aucune articulation de bois ni queue de rat avant minuit.
+- **Références :** cinq PJ, `CH01-POR-16`.
+
 ### CH01-ILL-26 — Casanabo prend de la hauteur
 - **Priorité B · § 9 · Vignette de personnage.**
 - **Prompt :** dans la salle de bal des Moranes, un nain très sûr de lui, **Casanabo**, se tient sur son inséparable escabeau pour faire une déclaration de charme à **Psodia sous sa forme humaine temporaire**. Elle cherche clairement à repousser ses avances ; gestes galants outranciers, regards gênés des invités. Bougies, soieries, parquets usés et réception provinciale, humour sans caricature humiliante. **Ne pas montrer Psodia avec museau ou queue dans cette scène tant que l'enchantement tient ; variante humaine exacte à valider.**
@@ -188,7 +205,7 @@
 
 ### CH01-ILL-28 — La présentation du beau Tâcheron
 - **Priorité B · § 9 · Demi-page.**
-- **Prompt :** au bal, la clique pousse sous les regards curieux le jeune Tâcheron, désormais propre et séduisant, devant le petit baron Moranes et ses deux enfants Robert et Kali. Ambiance de réception provinciale surjouée, candidats au mariage de plus en plus clairsemés après les boules puantes. Tito, Personne et Marée de Nuit sont entrés en accompagnant Tâcheron ; Psodia et Sispéo, s'ils figurent dans l'image, sont **humains sous enchantement**. Ne pas imposer de gestes amoureux à ce stade.
+- **Prompt :** au bal, la clique pousse sous les regards curieux le jeune Tâcheron, désormais propre et séduisant, devant le petit baron Moranes et ses deux enfants Robert et Kali. Ambiance de réception provinciale surjouée, candidats au mariage de plus en plus clairsemés après les boules puantes. Tito, Personne et Marée de Nuit sont entrés en remplaçant les musiciens et ont tenté un petit récital ; le mode d'entrée de Tâcheron est inconnu. Psodia et Sispéo, s'ils figurent dans l'image, sont **humains sous enchantement**. Ne pas imposer de gestes amoureux à ce stade.
 - **Références :** famille Moranes, Tâcheron, cinq PJ ; variantes temporaires à valider.
 
 ### CH01-ILL-29 — Un échec critique, un vingt naturel
@@ -243,6 +260,7 @@ Les fiches et études ci-dessous servent à assurer la cohérence des scènes ; 
 
 | ID proposé | Sujet | Direction / précautions |
 |---|---|---|
+| CH01-POR-17 | Musiciens du Doux Fumet | Orchestre anonyme épuisé ; doigts des mandolinistes entaillés, lèvres gercées, tendinites ; effectif non précisé. |
 | CH01-POR-01 | Dame Mystique | Condottière avec énormes lunettes ; utiliser `croquis/dame_mystique.png` après vérification du rendu. |
 | CH01-POR-02 | Tourette | Fée minuscule ailée, ivre et injurieuse ; `Fée baroque au goblet mousseux.png` **candidate non identifiée définitivement**. |
 | CH01-POR-03 | Baron Moranes | Petit homme replet, tempérament débonnaire, noble désargenté ; traits non fixés. |
@@ -268,6 +286,7 @@ Pour un objet isolé : même préfixe commun, cadrage complet, fond parchemin di
 
 | ID proposé | Objet / décor | Direction et continuité |
 |---|---|---|
+| CH01-ACC-13 | Instruments du bal | Mandolines attestées ; autres instruments Renaissance possibles comme choix graphique et non faits joués. |
 | CH01-ACC-01 | Aqueduc et pont immergé | Étude de décor pour `ILL-03`, `05`, `15`, `23`, `36` ; verticalité, niveaux sociaux, pont dans ~50 cm d'eau. |
 | CH01-ACC-02 | Agneau et médaille « Unique » | Petit agneau bruyant ; médaille unique et constante ; texte ajouté en maquette ; **seul son porteur devient invisible**. |
 | CH01-ACC-03 | Plan de Robert / porte de crypte | Plan ancien indiquant la dix-septième pile, sans géographie inventée, sans numérotation générée ; serrure bloquant Psodia. |
@@ -304,9 +323,9 @@ Pour un objet isolé : même préfixe commun, cadrage complet, fond parchemin di
 
 | Ensemble | Statut | Observation |
 |---|---|---|
-| 36 scènes narratives `CH01-ILL-01` à `36` | **brouillon** | Priorités proposées, choix final soumis à la maquette. |
-| 16 lots de modèles/portraits `CH01-POR` | **à valider** | Ne pas créer de doublons aux PJ déjà validés. |
-| 12 accessoires/décors `CH01-ACC` | **à valider** | Trois objets majeurs communs avec les chapitres suivants. |
+| 39 scènes narratives `CH01-ILL-01` à `39` | **brouillon** | Priorités proposées, choix final soumis à la maquette. |
+| 17 lots de modèles/portraits `CH01-POR` | **à valider** | Ne pas créer de doublons aux PJ déjà validés. |
+| 13 accessoires/décors `CH01-ACC` | **à valider** | Trois objets majeurs communs avec les chapitres suivants. |
 | Images générées / fichiers finaux | **aucun** | Aucun fichier d'illustration n'est produit par ce registre. |
 
 **Règle de travail :** comme pour `GRAPH_05_Prompts_CH05_Pandosia.md`, ces prompts sont des **propositions éditoriales**, modifiables après validation des scènes et références. Conserver les études, les prompts approuvés et les originaux ; ne pas considérer la prose de ce document comme une nouvelle source canonique de la campagne.

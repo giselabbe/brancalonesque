@@ -36,6 +36,8 @@ Source : [manuscrit I](../../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_tr
 - [x] Q106 — Danger de l'Agneau : mise en garde vague, jamais approfondie ni élucidée. La laine nécessaire à la fin est un artifice narratif du MJ pour contourner la mort imprévue de l'animal au I. Modalités en jeu à consigner lors des arcs finaux, sans les inventer. Rouspète est la mère de Mustrum.
 - [x] Q107 — Constitution de la clique inutile au récit ; équipement initial correspondant aux classes des PJ selon les règles de D&D 5e, édition 2014.
 
+- [x] Q108 — À la Saint-Glinglin, la clique n'a aucune invitation. Tito, Personne et Marée de Nuit remplacent les musiciens exténués du Doux Fumet (mille soirées ; doigts des mandolinistes entaillés, lèvres gercées, tendinites), entrent déguisés et tentent un ou deux airs. Psodia et Sispéo passent par les cuisines et sont transformés en humains. Souvenirs confirmés de la joueuse. **Leur reconnaissance par les autres et la réplique vulgaire de Sispéo sont une reconstitution littéraire assumée**, située après le récital et avant la présentation de Tâcheron. Détails de la prestation et entrée précise de Tâcheron non attestés.
+
 ### Chapitre II — Scanzona
 Source : [manuscrit II](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame.md).
 
@@ -102,6 +104,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q003 | Sibara est la graphie retenue ; anciennes variantes conservées comme traces historiques. | Correction utilisateur | Partiel | 25/11/2026 |
 | Q004 | Deuxième visite à l'Académie au V, puis évasion et Pandosia ; Croc Chef annoncé à la clôture de l'arc. | Trames V.1–2 ; chronologie V.02–V.27 | Partiel | 25/11/2026 |
 | Q005 | Identification des elfes par Louis au V ; mécanisme de leur apparition confirmé par l'utilisateur mais non compris des héros à ce stade. Voir section confidentielle du lore. | Trame V.1, §5 ; précision utilisateur | Partiel | 25/11/2026 |
+| Q108 | Entrée au bal sans invitation par les musiciens épuisés ; tentative de récital ; Psodia et Sispéo entrés par les cuisines puis transformés. Reconnaissance et dialogue reconstitués. | Précisions directes de la joueuse, 26/11/2026 | Confirmé sauf dialogue/scène de reconnaissance reconstitués | 26/11/2026 |
 | Q101 | Les Canailles passent à travers une passerelle de la ville puis traversent le toit de l'auberge. La mise à l'eau ultérieure demeure un élément de la trame, non reconfirmé séparément. | Confirmation directe de la joueuse ; trame I, §2 | Confirmé (chute) | 26/11/2026 |
 | Q102 | Psodia portait l'Agneau Unique et découvrit son pouvoir d'invisibilité. | Confirmation directe de la joueuse ; trame I, §5 | Confirmé | 26/11/2026 |
 | Q104 | Le tombeau est vide car Quenotte a été lignifiée et sa statuette se trouve à Pandosia. Révélation aux héros au V, lors du témoignage du mage rescapé, puis découverte de la statuette dans le temple. Ne pas anticiper au I. | Confirmation directe de la joueuse ; trame V.2, §8–9 | Confirmé | 26/11/2026 |

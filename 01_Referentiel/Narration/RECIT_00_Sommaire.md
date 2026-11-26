@@ -22,7 +22,7 @@ Index des épisodes du recueil. Les numéros I à VI sont retenus ; aucune numé
 ## Détail des chapitres existants
 
 ### I — Sourcemolle
-Prologue : la clique de la Dame Mystique. Village des eaux ; réveil humide ; gueuleton du Doux Fumet ; expédition de Sœur Cornelia ; Communauté de l'Agneau ; nid du Cracoucass ; crypte de la dix-septième pile ; cambriolage des Vitalli ; préparatifs et bal de la Saint-Glinglin ; révélation de Cendrillon ; fortunes illusoires ; destin de l'Agneau Unique ; départ.
+Prologue : la clique de la Dame Mystique. Village des eaux ; réveil humide ; gueuleton du Doux Fumet ; expédition de Sœur Cornelia ; Communauté de l'Agneau ; nid du Cracoucass ; crypte de la dix-septième pile ; cambriolage des Vitalli ; préparatifs et bal de la Saint-Glinglin (remplacement des musiciens, faux récital, reconnaissance reconstituée des métamorphosés) ; révélation de Cendrillon ; fortunes illusoires ; destin de l'Agneau Unique ; départ.
 
 ### II — Scanzona
 Prêche de Maïale ; Gang des Crapauds ; mission de Spiroulin ; enquête sur la quête ; Cosma et Perdita ; rencontre d'Ondine ; grotte de Soubiroute ; détention de Tito ; confrontation avec les elfes et intégration d'Ondine ; retour sur la péniche, niveau 3 et apparition de Truffino ; urgence Tourette et péniche ; désaccords et abandon du pèlerinage face aux urgences et à la perspective d'un affrontement démoniaque.

@@ -41,7 +41,7 @@ Elle a notamment oublié l'emplacement de Pandosia, comme les autres ratons. Les
 
 ## Évolution pendant la campagne
 
-- **CH_01 — Sourcemolle** : Porte l'Agneau Unique et découvre son pouvoir d'invisibilité (Q102) ; découvre la baguette de Quenotte dans la crypte de la dix-septième pile. Lors du bal de Saint-Glinglin, Belle-Mère la Bonne Fée transforme temporairement Psodia et Sispéo en humains.
+- **CH_01 — Sourcemolle** : Porte l'Agneau Unique et découvre son pouvoir d'invisibilité (Q102) ; découvre la baguette de Quenotte dans la crypte de la dix-septième pile. Lors du bal de Saint-Glinglin, Psodia et Sispéo s'infiltrent sans invitation par les cuisines et Belle-Mère la Bonne Fée les transforme temporairement en humains. La reconnaissance par les autres est reconstituée (Q108).
 - **CH_02 — Scanzona** : Prend le parti de Cosma et des personnes démunies ; souhaite aider les habitants dans l'affaire du pèlerinage, contrairement à Personne et Sispéo. La mission est abandonnée face aux urgences et au risque d'affronter un démon puissant (Q205).
 - **CH_03 — Traversée vers Sibara** : Rencontre les réfugiés ratons ; la prophétie du Kwisach des Rats fait d'elle à leurs yeux un guide vers Pandosia. Elle promet de retrouver leur cité sans en connaître encore l'emplacement.
 - **CH_04 — Sibara et le bois de Bologne** : Participe aux recherches et au sauvetage du bois de vétille ; met discrètement en œuvre la potion de cochonisation lors du sabotage du Domaine des Vieux.

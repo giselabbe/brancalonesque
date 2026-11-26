@@ -43,7 +43,7 @@ Origine non précisée. Sa mère est la patronne de Chez Gargantua ; les soupço
 
 ## Évolution pendant la campagne
 
-- **CH_01** : Acquiert la pelle de Chaterpillar dans la crypte.
+- **CH_01** : Acquiert la pelle de Chaterpillar dans la crypte. Avec Personne et Marée de Nuit, se fait passer pour un musicien au bal et tente de jouer un ou deux airs (Q108).
 - **CH_02** : Rencontre Ondine et révèle sa nature d’ogre.
 - **CH_04** : Retrouve sa mère ; divergence avec la clique à propos du Domaine des Vieux.
 - **CH_05 — La cabane du savoir** : Pendant les recherches à la bibliothèque de l'Académie, s'ennuie et construit une cabane avec les livres. En ouvrant un grand volume pour former le toit, une réussite critique lui permet de reconnaître une illustration de Chez Gargantua. Il découvre ainsi que le restaurant aurait été construit sur l'ancien temple de la Faim Rassasiée et que la marmite de Saint Glaude y figurait comme relique magique. Cette découverte fait avancer la quête de Marée de Nuit.

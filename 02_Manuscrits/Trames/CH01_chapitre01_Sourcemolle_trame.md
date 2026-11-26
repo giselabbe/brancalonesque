@@ -126,6 +126,8 @@ Un homme mystérieux demeure quant à lui dans un coin sombre de la salle, occup
 
 Enfin, dans le jardin de l'auberge, les personnages découvrent un œuf de taille gigantesque.
 
+Les Canailles croisent aussi les musiciens du baron Moranes, épuisés d'avoir animé mille soirées consécutives. Les doigts des mandolinistes sont entaillés, les lèvres d'autres instrumentistes gercées, et tout l'orchestre souffre de tendinites. Cette rencontre au Doux Fumet leur sera bientôt fort utile.
+
 L'œuf appartient à un oiseau monstrueux qui survole régulièrement les environs : le **Cracoucass**, un vautour géant.
 
 Mais les habitants ont déjà imaginé une autre utilisation de cette découverte.
@@ -447,15 +449,13 @@ L'opération provoque un désordre considérable parmi les arrivants.
 
 Cette initiative constitue l'un des épisodes les plus marquants du séjour des Canailles à Sourcemolle.
 
-### Deux groupes pour entrer au château
+### Deux groupes, mais aucune invitation
 
-Une fois les préparatifs terminés, la clique se divise.
+Une difficulté demeure : **les Canailles ne possèdent aucune invitation** pour le bal. Elles vont donc entrer par deux voies différentes.
 
-**Tito, Personne et Marée de Nuit** accompagnent Tâcheron et se présentent au bal.
+**Tito, Personne et Marée de Nuit** retournent au Doux Fumet voir les musiciens rencontrés plus tôt. Après mille soirs de bals, les instrumentistes sont épuisés : doigts des mandolinistes entaillés, lèvres gercées, tendinites à répétition. Les trois Canailles saisissent cette occasion inespérée, prennent la place des musiciens et se déguisent en membres de l'orchestre pour pénétrer au château.
 
-De leur côté, **Psodia et Sispéo** estiment que leur apparence risque de compliquer leur admission parmi les invités.
-
-Ils décident donc de pénétrer dans le château en se mêlant au personnel de service.
+**Psodia et Sispéo** choisissent pour leur part de s'infiltrer par les cuisines en se mêlant au personnel. Le mode d'entrée exact de Tâcheron n'est pas documenté ; il se trouve néanmoins au bal pour la suite des événements.
 
 Psodia entreprend de crocheter une porte.
 
@@ -471,7 +471,7 @@ Il décide de faire appel à sa marraine féérique, Belle Mère la bonne fée.I
 
 La magie opère.
 
-Les deux Canailles prennent une apparence humaine et peuvent rejoindre les invités dans la salle de réception.
+Les deux Canailles prennent une apparence humaine et peuvent rejoindre les invités dans la salle de réception. Sispéo est devenu un magnifique jeune homme, mais garde sa voix éraillée et ses manières grossières.
 
 ---
 
@@ -479,9 +479,23 @@ Les deux Canailles prennent une apparence humaine et peuvent rejoindre les invit
 
 Le château accueille une assemblée de nobles, de bourgeois et de prétendants venus tenter leur chance auprès des enfants du baron.
 
-Les Canailles sont désormais réunies dans la salle de bal, où elles doivent faire accepter Tâcheron comme candidat au mariage.
+### L'orchestre de fortune
 
-Mais la réception réserve plusieurs complications.
+Le stratagème des faux musiciens fonctionne : Tito, Personne et Marée de Nuit entrent au bal. Il leur faut cependant jouer, ou tenter de jouer, un petit air ou deux devant les invités. Le détail du répertoire et la qualité exacte de leur performance ne sont pas conservés.
+
+### « Mais si, c'est moi ! » — reconstitution littéraire
+
+Après cette prestation musicale, Psodia et Sispéo, métamorphosés en humains, rejoignent leurs compagnons. Encore faut-il se faire reconnaître.
+
+**La scène suivante est une reconstitution assumée : elle a vraisemblablement eu lieu, mais les paroles exactes ne sont pas attestées.**
+
+Devant les regards incrédules de ses compagnons, Sispéo, désormais magnifique jeune homme, s'impatiente et lance de sa voix toujours éraillée :
+
+« Mais si, c'est moi ! Tu ne me reconnais pas, trou du cul ? »
+
+Cette manière de s'exprimer est finalement plus convaincante que son apparence. La clique peut maintenant reprendre son projet de présenter Tâcheron au baron, dans la suite de cette même réception.
+
+Mais le bal réserve plusieurs autres complications.
 
 ### Le prétendant de Psodia
 
@@ -513,7 +527,7 @@ Il se concentre sur son propre objectif : permettre à Tâcheron de se faire rem
 
 ### La présentation de Tâcheron
 
-Les aventuriers parviennent à présenter Tâcheron au baron et à ses deux enfants.
+Après leur performance musicale et les retrouvailles avec les compagnons métamorphosés, les aventuriers parviennent à présenter Tâcheron au baron et à ses deux enfants.
 
 Grâce aux soins apportés à sa présentation et à sa transformation, le jeune homme fait désormais figure de prétendant particulièrement séduisant.
 
