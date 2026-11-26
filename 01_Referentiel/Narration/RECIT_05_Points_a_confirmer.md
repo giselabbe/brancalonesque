@@ -151,7 +151,13 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q511 | Choix de reconstitution littéraire : attribuer le déclic à Marée de Nuit, cerveau de la clique, sur le mode « Bon sang, mais c'est bien sûr ! ». Psodia réalise le polissage pendant que les autres combattent. Ne pas présenter la réplique comme une transcription de la partie. | Décision éditoriale de la joueuse | Partiel (reste Tarantasio) | 26/11/2026 |
 | Q509 | Nuance libérée par polissage de la figure de proue ; la polisseuse a été emportée avec l'accord rétrospectif du MJ. | Trame V.2, §10–12 et précision utilisateur | Partiel | 25/11/2026 | |
 
-| Q518 | Inimitié et lien de sororité confirmés : l'Enfant a exilé Méliane, future reine des elfes. Hypothèses ouvertes : Ondine souhaite restaurer l'Enfant ; guerre civile féerique distincte du projet de retour des elfes. | Confirmation directe de la joueuse pour l'exil et la rivalité ; trames II, IV, V pour les indices | Partiel (faits et hypothèses distingués) | 26/11/2026 |
+| Q518 | Inimitié et lien de sororité confirmés : l'Enfant a exilé Méliane, future reine des elfes. Précisions du 27/11 : Ondine et Quenotte fidèles à l'Enfant ; elfes hostiles aux deux factions. Voir RECIT_06_Guerre_des_Fees.md. | Confirmation directe de la joueuse pour l'exil et la rivalité ; trames II, IV, V pour les indices | Partiel (faits et hypothèses distingués) | 26/11/2026 |
+
+## Points ouverts VII–VIII (27/11/2026)
+- Vérifier généalogie et graphies sur Chronologie.pdf ; nombre et identité des fragments ; circonstances du lien Nuance/péniche.
+- Confirmer Carabosse comme marraine de Sispéo (ancienne mention Belle-Mère), allégeances de Carabosse et Tourette, noms et objectifs précis des factions.
+- Sort des enfants, modalités de récupération/destruction possible des fragments, arguments individuels, étendue de la malédiction du fils, déroulement du château et répartition des révélations.
+- Décision de soutenir Uncino et remplacement du Père Ternel confirmés par la joueuse ; ne pas remettre ces faits en question sans nouvelle source.
 
 ## Règle de validation
 Une réponse confirmée doit être répercutée dans le manuscrit et les référentiels concernés, notamment les fiches individuelles YAML + Markdown lorsqu'un personnage est concerné. Vérifier aussi les conséquences sur les illustrations et la continuité visuelle. Une validation graphique ne vaut pas validation narrative.
