@@ -1,6 +1,6 @@
 # Branca — Index général du recueil
 
-Version 2.2 — 25 novembre 2026 — choix éditoriaux et direction chromatique.
+Version 2.3 — 26 novembre 2026 — convention commune de priorité documentaire.
 
 Cet index est le point d’entrée du projet éditorial BRANCA, recueil illustré de la deuxième campagne de Brancalonia.
 
@@ -8,12 +8,23 @@ Cet index est le point d’entrée du projet éditorial BRANCA, recueil illustr�
 
 Le [dépôt GitHub brancalonesque](https://github.com/giselabbe/brancalonesque), branche `main`, constitue le référentiel maître des documents qui y sont intégrés. Deux projets ChatGPT complémentaires l’utilisent :
 
-- **BRANCA** : reconstitution de la campagne, rédaction et continuité narrative.
-- **BRANCA Illustrations** : direction artistique, portraits, scènes, ornements et préparation graphique.
+- **Branca Récit** : reconstitution de la campagne, rédaction et continuité narrative.
+- **Branca Illustration** : direction artistique, portraits, scènes, ornements et préparation graphique.
 
 Consulter les fichiers pertinents sur GitHub avant chaque travail. Les versions distantes priment sur les anciennes copies des Sources, sauf indication explicite. Les documents et images absents du dépôt restent à consulter dans les Sources ou auprès de l’utilisateur. GitHub n’est pas synchronisé automatiquement dans le contexte ChatGPT.
 
 Par défaut, ChatGPT consulte le dépôt en lecture seule ; les modifications et commits directs sont possibles sur autorisation explicite de l’utilisateur, limitée au périmètre convenu. Les références visuelles validées restent prioritaires pour les illustrations ; les joindre à la génération si nécessaire.
+
+### Convention commune aux deux projets — autorité des corrections (26 novembre 2026)
+
+Cette convention s'applique **à Branca Récit comme à Branca Illustration**, et à tous les documents communs : manuscrits, fiches de personnages, chronologie, lieux, lore, références graphiques, prompts et suivi.
+
+1. **Modification explicitement confiée à ChatGPT :** une fois réalisée et intégrée au dépôt GitHub, la modification demandée à ChatGPT fait autorité sur les anciennes versions. En vérifier les conséquences et répercuter les informations cohérentes dans les autres documents concernés.
+2. **Fichier modifié par l'utilisatrice, avec instruction explicite « j'ai mis à jour ce fichier, vérifie » :** **la version qu'elle a publiée fait autorité**, même si elle contredit une version précédemment rédigée par ChatGPT. Partir du commit concerné comme nouvelle référence, examiner les différences et propager les conséquences documentaires, sans restaurer silencieusement l'ancienne formulation.
+3. **Conflit impossible à résoudre avec certitude :** présenter le désaccord, son incidence et les options à l'utilisatrice. Ne pas inventer des faits ni modifier arbitrairement une décision narrative ou graphique qui nécessiterait son arbitrage.
+4. **Traçabilité et sécurité :** consulter l'état actuel de GitHub avant toute intervention ; conserver l'historique et les références validées. Le contrôle de cohérence peut être demandé seul : dans ce cas, rendre d'abord le diagnostic. Ne publier des modifications que si leur application a été demandée ou autorisée, et éviter d'écraser des changements intervenus en parallèle.
+
+**Règle de synthèse :** la modification explicitement assumée par son auteur dans la demande en cours prévaut sur les anciennes versions. Pour un audit initié après un commit de l'utilisatrice, **son commit constitue le point de départ et la source prioritaire** ; pour une modification explicitement confiée à ChatGPT, **la modification validée et intégrée devient la référence**.
 
 ## 2. RECIT — Référentiels narratifs
 
