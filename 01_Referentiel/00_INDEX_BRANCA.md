@@ -136,6 +136,13 @@ Les groupes (musiciens, brigands, entrepreneurs, duo d'artisans et résistants d
 | V — Pandosia et le Liber Vetillæ | [Partie 1](../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) · [Partie 2](../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md) | Arc terminé ; rédaction définitive à faire |
 | VI — La Marmite de Saint Glaude (titre de travail) | À intégrer | Prochain chapitre ; reconstitution à poursuivre |
 
+| VII — L'île des Enfants perdus (Le moindre mal) | [Trame](../02_Manuscrits/Trames/CH7_chapitre07_Ile_des_enfants_perdus_trame.md) | Partielle |
+| VIII — Le château dans le ciel | [Trame](../02_Manuscrits/Trames/CH8_chapitre08_Chateau_dans_le_ciel_trame.md) | Dénouement connu ; scènes à documenter |
+
+[Dossier confidentiel Guerre des Fées](Narration/RECIT_06_Guerre_des_Fees.md).
+
+La campagne a été écrite conjointement par le MJ et sa compagne ; prévoir un crédit aux deux auteurs. Le recueil restitue la campagne vécue, très adaptée à la clique, plutôt qu'un module générique.
+
 Les arcs ultérieurs restent à consolider. Conserver les graphies des titres de travail en attendant leur harmonisation.
 
 ## 5. GRAPH — Référentiels graphiques
