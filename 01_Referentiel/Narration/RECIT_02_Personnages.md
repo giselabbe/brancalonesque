@@ -43,7 +43,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | El Lessar / Grands Plats | Cuisinier, mystérieux rôdeur de l'auberge ; Communauté. |
 | Le Beau Romir | Barbier ; Communauté. |
 | Chaterpillar | Chalupestre représenté dans la crypte avec la pelle acquise par Tito. |
-| Quenotte | Fée des dents ; tombeau vide et baguette retrouvée au I, sans explication pour les héros. V : le témoignage du mage rescapé révèle sa lignification par les elfes et sa présence à Pandosia, expliquant le tombeau vide (Q104) ; statuette vibrante au contact de Psodia ; libérée par polissage dans son temple à Pandosia. Utilise sa baguette pour ouvrir la porte avant l'apparition de cinq elfes. Son rôle dans le silence du flûtiste reste une hypothèse. |
+| Quenotte | Fée des dents ; tombeau vide et baguette retrouvée au I, sans explication pour les héros. V : le témoignage du mage rescapé révèle sa lignification par les elfes et sa présence à Pandosia, expliquant le tombeau vide (Q104) ; statuette vibrante au contact de Psodia ; libérée par polissage dans son temple à Pandosia. Utilise sa baguette pour ouvrir la porte avant l'apparition de cinq elfes. Après sa libération, elle transforme le flûtiste en grenouille (Q512). Son rôle dans le silence du flûtiste reste une hypothèse. |
 | Belle Mère | Bonne fée, marraine de Sispéo ; transforme provisoirement Sispéo et Psodia. |
 | Casanabo | Nain muni d'un escabeau, prétendant importun de Psodia. |
 | Cracoucass | Vautour géant ; son nid abrite Robert et l'Agneau. |
@@ -84,7 +84,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | Guiscard Destin | Nouveau doyen de l'université ; contrôles renforcés ; demande aux Canailles de remplacer un professeur. Sa crainte supposée de Tarantasio est une hypothèse de Dame Mystique. |
 | Ronce Aînée | Professeure de botanique ; recommande de consulter Humus. |
 | Humus | Druide, doyen de la Faculté de Paysagisme Arcanique et de Jardinage Nécromantique ; recommande Belle-Mère la Bonne Fée ou Ondine. |
-| Malebranche flûtiste | Prisonnier sous une bulle de silence ; communique par dessins ; engagé par les mages pour entraîner les ratons hors de Pandosia afin de récupérer leurs queues. Accompagne l'évasion et l'expédition ; nom propre et devenir à confirmer. |
+| Malebranche flûtiste | Prisonnier sous une bulle de silence ; communique par dessins ; engagé par les mages pour entraîner les ratons hors de Pandosia afin de récupérer leurs queues. Accompagne l'évasion et l'expédition ; nom propre inconnu ; transformé en grenouille par Quenotte après sa libération (Q512). |
 | Magicien rescapé | Se cache près de la rivière souterraine, avec une canne à pêche ; témoigne de l'expédition pour la machine à fabriquer les couleurs, des monstres gardiens et de la lignification de Quenotte. Nom et faculté non établis. |
 | Tas de boue | Créature visqueuse accrochée au plafond des égouts ; vaincue par les Canailles. Butin : dentier magique avertisseur et réchaud à fondue. |
 | Deux golems d'émail | Gardiens du temple de Quenotte ; l'un vaincu, l'autre immobilisé lors de la libération de la fée. |
