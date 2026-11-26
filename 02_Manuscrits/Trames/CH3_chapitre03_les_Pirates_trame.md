@@ -35,7 +35,7 @@ Bosco Rosso et Isabella n'entendent pas s'encombrer de ces passagers supplément
 
 PSODIA ET LA PROPHÉTIE DES RATONS
 
-Parmi les réfugiés, les ratons évoquent une prophétie annonçant la venue d'un sauveur qui les conduira à Pandosia, leur cité mythique. À leurs yeux, Psodia pourrait bien être cet être providentiel : le « Kwisach des Rats ».
+Parmi les réfugiés, les ratons évoquent une prophétie annonçant qu'un raton sauveur reconduira le peuple raton à Pandosia, la cité mythique dont l'entrée s'est perdue. À leurs yeux, Psodia pourrait bien être cet être providentiel : le « Kwisach des Rats ».
 
 Au départ, Psodia entend surtout rassurer les réfugiés, quitte à les duper un peu. Mais leurs regards admiratifs et pleins d'espoir commencent à la troubler. Et si elle pouvait réellement jouer ce rôle ? Du moins, pourquoi ne pas commencer par le prétendre ?
 Lorsque les ratons lui demandent si elle sait où se trouve Pandosia, Psodia répond avec un aplomb admirable que oui. En réalité, elle n'en a pas la moindre idée.
