@@ -37,7 +37,7 @@ Théâtral, flamboyant, pratique les arts occultes. Les masques lui donnent acc�
 
 ## Histoire personnelle
 
-Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considère comme Maman. Au chapitre V, après sa réparation, la péniche se réveille et communique avec lui : elle lui révèle être un Port-Trop-Loin, capable de rejoindre n'importe quel port déjà vu à condition d'atteindre 8,8 nœuds par heure grâce à la Burrichetta, qui fait office de moteur (Q517). Les modalités précises de la communication restent à établir ; aucune autre restriction du voyage n'est confirmée.
+Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considère comme Maman. Au chapitre V, après sa réparation, la péniche se réveille et communique avec lui : elle lui révèle être un Port-Trop-Loin, capable de rejoindre n'importe quel port déjà vu à condition d'atteindre 8,8 nœuds par heure grâce à la Burrichetta, qui fait office de moteur (Q517). Les modalités précises de la communication restent à établir ; aucune autre restriction du voyage n'est confirmée. Utilisations ultérieures : retour à Scanzona pour chercher Perdita, puis voyage vers l'île des enfants perdus grâce à un dessin laissé dans sa chambre ; une représentation du lieu suffit dans ce cas (Q510, Q517).
 
 ## Évolution pendant la campagne
 
