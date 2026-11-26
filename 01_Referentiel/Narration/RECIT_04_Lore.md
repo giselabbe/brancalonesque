@@ -61,6 +61,9 @@ Les recherches de Personne à la bibliothèque révèlent une référence au Lib
 Psodia a grandi près de l'Académie de Sibara ; l'ingestion de déchets magiques et de potions a affecté sa mémoire et lui a conféré des capacités magiques. Elle retrouve progressivement des souvenirs de Quenotte et de Pandosia, se rappelle sa baguette acquise au I et se transforme en véritable souris pour reconnaître le temple. Ne pas attribuer automatiquement tous ses pouvoirs à la baguette ni préciser une mécanique de jeu non documentée.
 
 ### 4.3. Révélation confidentielle — à ne pas anticiper dans le récit
+
+**Guerre des fées et motivation d'Ondine (Q407).** Deux tendances opposent les fées « bordéliques », attachées au nouvel équilibre chaotique, et les fées « elfiques », attachées à l'ordre et à la rigueur des contes. Ces termes sont descriptifs, non des noms officiels de factions ; ils ne prouvent pas une alliance avec les elfes. Ondine soutient les trois cochons au Domaine des Vieux parce que, dans la logique traditionnelle du conte qu'elle souhaite rétablir, ils sont les gentils. Les héros ne connaissent pas cette motivation et ne comprennent pas encore les enjeux de la guerre féerique. Ne pas présenter ce point de vue comme un jugement objectif sur les entrepreneurs ni l'expliquer dans le récit du chapitre IV.
+
 Précision confirmée par l'utilisateur : les elfes sont attirés par la magie féerique, notamment lorsqu'une baguette est utilisée ou qu'il est fait appel aux pouvoirs des fées. À Pandosia, le déclencheur de leur apparition est l'utilisation de la baguette par Quenotte pour ouvrir la porte, et non sa libération par polissage. Les cercles de champignons sont associés à leurs passages. Au chapitre V, le lecteur doit seulement voir la succession des événements, sans explication causale. Ne pas en déduire que toute magie, quelle que soit son origine, déclenche leur venue.
 
 ## 5. Objets, pouvoirs et matériaux
