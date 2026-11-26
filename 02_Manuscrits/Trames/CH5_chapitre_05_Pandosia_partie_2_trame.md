@@ -142,7 +142,7 @@ Elle découvre que le temple ressemble étrangement à un immense cabinet d'orth
 
 Les Canailles comprennent alors comment utiliser les connaissances acquises lors de leurs recherches sur le *Liber Vetillæ*.
 
-Tandis qu'une partie du groupe affronte les golems, les autres entreprennent de polir la statuette de Quenotte.
+Tandis que les autres Canailles affrontent les golems, Psodia polit la statuette de Quenotte.
 
 Un premier golem est mis hors de combat.
 
@@ -160,7 +160,7 @@ Tout heureuses de leur réussite, les Canailles quittent le temple en compagnie 
 
 La fée utilise sa baguette pour ouvrir la porte.
 
-Soudain, cinq elfes apparaissent au milieu du cercle de champignons découvert précédemment.
+Soudain, cinq elfes apparaissent au milieu du cercle de champignons découvert précédemment. Toutes les Canailles participent à l'affrontement.
 
 Un nouvel affrontement s'engage dans les rues de Pandosia. Les Canailles parviennent à venir à bout de leurs adversaires et peuvent enfin quitter la cité en compagnie de Quenotte.
 
