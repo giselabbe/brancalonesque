@@ -204,7 +204,7 @@ La clique ne prête toutefois pas une attention particulière à l'état de leur
 
 Les membres de la Communauté expliquent qu'ils sont à la recherche de quatre individus de petite taille.
 
-Ces derniers avaient reçu pour mission de détruire une relique particulièrement dangereuse, appelée **l'Agneau Unique**.
+Ces derniers avaient reçu pour mission de détruire une relique qu'ils présentent comme dangereuse, sans préciser la nature de ce danger, appelée **l'Agneau Unique**.
 
 Pour accomplir cette tâche, ils devaient transporter l'animal jusqu'à un volcan et l'y faire disparaître.
 
@@ -654,7 +654,7 @@ L'animal est encombrant, bruyant et difficile à dissimuler.
 
 Ils se souviennent également des avertissements formulés par la Communauté : l'Agneau Unique serait une relique dangereuse, dont la survie pourrait entraîner des conséquences importantes.
 
-Ces affirmations n'ont toutefois jamais été vérifiées.
+Ces avertissements restent vagues. Les Canailles ne cherchent pas à en savoir davantage et n'en apprendront jamais plus sur la nature exacte du danger.
 
 Sispéo décide alors de régler définitivement la question.
 
