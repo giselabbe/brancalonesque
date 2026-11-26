@@ -274,7 +274,7 @@ Aurora inverse alors par magie le sort frappant Palla in Corso : les hommes
 reprennent leur apparence et les femmes se réveillent. Elle remet aux
 Canailles la recette d'une potion « Anti-Cuite ». Des marmottes herboristes,
 installées près de chez elle et évoquant les publicités Ricola, fournissent
-les plantes nécessaires. Aurora offre aussi TROIS potions de cochonisation.
+les plantes nécessaires, dont les noms ne sont pas documentés. Aurora offre aussi TROIS potions de cochonisation.
 
 L'Anti-Cuite est préparée et administrée à Tourette, qui retrouve son état
 normal. Cette guérison sera cependant de très courte durée.
