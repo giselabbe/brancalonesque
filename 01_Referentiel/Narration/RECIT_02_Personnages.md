@@ -11,7 +11,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 
 | ID | Personnage | Identité, comportement et évolution |
 |---|---|---|
-| PJ_PSODIA | Psodia | Ratone roublarde, lettrée, discrète, solidaire des opprimés ; proche de Tito, apprécie peu l'exubérance de Personne. Baguette de Quenotte au I ; protège Cosma au II ; promet Pandosia au III ; contribue à sauver le bois au IV. V : a grandi à Sibara près de l'Académie, où les déchets magiques ingérés ont affecté sa mémoire et lui ont conféré des capacités magiques ; crochète les portes de la prison, retrouve le souvenir du sanctuaire et de sa baguette, ouvre Pandosia, se transforme en souris pour reconnaître le temple et convainc les ratons de regagner leur cité. |
+| PJ_PSODIA | Psodia | Ratone roublarde, lettrée, discrète, solidaire des opprimés ; proche de Tito, apprécie peu l'exubérance de Personne. Porte l'Agneau Unique et découvre son pouvoir d'invisibilité au I (Q102) ; baguette de Quenotte au I ; protège Cosma au II ; promet Pandosia au III ; contribue à sauver le bois au IV. V : a grandi à Sibara près de l'Académie, où les déchets magiques ingérés ont affecté sa mémoire et lui ont conféré des capacités magiques ; crochète les portes de la prison, retrouve le souvenir du sanctuaire et de sa baguette, ouvre Pandosia, se transforme en souris pour reconnaître le temple et convainc les ratons de regagner leur cité. |
 | PJ_TITO | Tito | Jeune ogre paladin, d'abord pris pour un Morgant ; loyal et attaché à l'ordre. Pelle de Chaterpillar au I ; amoureux d'Ondine et nature d'ogre révélée au II ; retrouve sa mère au IV. V : découvre grâce à une cabane de livres et une réussite critique le lien entre Chez Gargantua, l'ancien temple de la Faim Rassasiée et la Marmite ; s'impose dans la bagarre en prison, retrouve Ondine, repère le Tas de boue. S : histoire familiale réévaluée grâce à Petit Poucet ; transformation naine temporaire. |
 | PJ_MAREE_DE_NUIT | Marée de Nuit | Chalupestre, moine de la Faim Rassasiée, érudit et observateur ; conseille Kali au III ; enquête chez Gargantua et prélève l'échantillon au IV ; mission de Bombance. V : fait appeler Louis pour accéder à l'Académie, se rappelle Du dit des nains et des elfes, assure le cours improvisé de résurrection bovine, communique par dessins avec le flûtiste et s'engage à participer à Croc Chef. S : suite du concours et de la quête de la Marmite. |
 | PJ_PERSONNE | Personne | Inexistant sans corps matériel ; théâtral, pratique les arts occultes. Premier masque de Dona Vitalli au I ; familier Truffino au II ; la péniche est Maman ; incident de la cale au III ; faux laissez-passer au IV. Les masques transmettent des souvenirs avec risque de perte de soi. V : ne sait pas lire ; Louis lui prête des lunettes magiques de lecture ; découvre la référence au Liber Vetillæ ; la péniche réveillée lui révèle sa nature de Port-Trop-Loin. |
@@ -47,7 +47,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | Belle Mère | Bonne fée, marraine de Sispéo ; transforme provisoirement Sispéo et Psodia. |
 | Casanabo | Nain muni d'un escabeau, prétendant importun de Psodia. |
 | Cracoucass | Vautour géant ; son nid abrite Robert et l'Agneau. |
-| Agneau Unique | Relique vivante permettant l'invisibilité de son porteur ; destin au chapitre I. |
+| Agneau Unique | Relique vivante permettant l'invisibilité de son porteur ; propriété découverte par Psodia (Q102) ; destin au chapitre I. |
 
 ## Scanzona et traversée (D)
 | Nom | Rôle |
