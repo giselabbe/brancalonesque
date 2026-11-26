@@ -46,7 +46,7 @@ Origine non renseignée. Appartient à l’ordre de la Faim Rassasiée.
 - **CH_05 — Les geôles de Sibara** : Après plusieurs tentatives infructueuses pour dissiper la bulle de silence du Malebranche flûtiste, trouve le moyen de communiquer avec lui par des dessins tracés dans la poussière du sol. Cette conversation éclaire l'exode des ratons de Pandosia.
 - **CH_05 — Pandosia** : Participe à l'expédition et à la libération de Quenotte avec les Canailles. La répartition exacte des rôles lors du combat et du polissage n'est pas établie.
 - **CH_05 — Croc Chef** : Apprend qu'un concours culinaire est organisé à Sibara, avec une marmite magique comme premier prix. S'engage à y participer, dans le cadre de sa quête pour le père Bombance. L'identité du prix n'est pas encore confirmée.
-- **CH_06 — Suite à documenter** : Concours culinaire et quête de la marmite de Saint Glaude.
+- **CH_06 — Suite à documenter** : Concours culinaire et quête de la marmite de Saint Glaude. Une herbe poussant chez les elfes sert à nettoyer la Marmite ; nom exact et moment de récupération à confirmer (Q502).
 
 ## Références visuelles
 
