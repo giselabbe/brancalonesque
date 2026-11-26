@@ -104,7 +104,7 @@ Les aventuriers ont été découverts le matin même, inconscients, dans les dé
 
 Le toit de l'établissement a été partiellement détruit par leur chute.
 
-Les circonstances de l'accident finissent par être éclaircies : les cinq compagnons sont tombés depuis l'une des passerelles reliant les constructions de la ville haute et ont traversé la toiture de l'auberge.
+Les circonstances de l'accident finissent par être éclaircies : les cinq compagnons sont passés à travers l'une des passerelles reliant les constructions de la ville haute, puis ont traversé la toiture de l'auberge.
 
 Le bailli a ensuite ordonné qu'on les jette à l'eau pour les réveiller.
 
