@@ -56,7 +56,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | Gang des Crapauds | Clique rivale chargée de la chasse aux sorcières. |
 | Chevalier Spiroulin | Garde de la cathédrale, grand, maigre, imbu de lui-même ; confie l'enquête. |
 | Padre Cosma | Ancien prêtre, déguisé en Saint Nicollo ; aide orphelins et pauvres, redistribue la collecte. |
-| Perdita | Enfant aux cheveux verts, liée à Cosma ; aide à retrouver Ondine ; réapparaît plus tard sur l'île (S). |
+| Perdita | Enfant aux cheveux verts, liée à Cosma ; aide à retrouver Ondine ; les Canailles retournent à Scanzona pour la rechercher ; un dessin de l'île des enfants perdus laissé dans sa chambre permet au Port-Trop-Loin d'atteindre l'île où elle réapparaît (S, Q510/Q517). |
 | Bosco Rosso | « Le Sanguinaire », équipage de Kali ; semble tenir la vraie direction du bateau. |
 | Isabella | « La Sirène », équipage de Kali ; hostile aux passagers supplémentaires. |
 | Hulc | Grenouille de taille humaine à accent marseillais, réfugié. V : dénonce les Canailles aux gardes pour la prime et provoque leur arrestation. |
