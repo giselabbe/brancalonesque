@@ -140,7 +140,7 @@ Pour reconnaître discrètement les lieux, Psodia se transforme en véritable so
 
 Elle découvre que le temple ressemble étrangement à un immense cabinet d'orthodontiste. Au fond de la pièce se trouvent deux golems d'émail et une énorme machine à polir, dont le bruit rappelle celui, particulièrement désagréable, de la roulette du dentiste.
 
-Les Canailles comprennent alors comment utiliser les connaissances acquises lors de leurs recherches sur le *Liber Vetillæ*. [Q511 : le traité déconseille de polir la figurine lors de sa préparation ; la libération par polissage est une déduction éprouvée en jeu, non une recette explicitement donnée dans le texte original.]
+Après avoir longtemps peiné à comprendre comment inverser la lignification, les Canailles trouvent enfin une piste dans la découverte des machines à polir de Pandosia. Elles rapprochent cette découverte des connaissances acquises lors de leurs recherches sur le *Liber Vetillæ* et envisagent de polir la statuette. [Q511 : le traité déconseille de polir la figurine lors de sa préparation ; la libération par polissage est une déduction éprouvée en jeu, non une recette explicitement donnée dans le texte original.]
 
 Tandis que les autres Canailles affrontent les golems, Psodia polit la statuette de Quenotte.
 
