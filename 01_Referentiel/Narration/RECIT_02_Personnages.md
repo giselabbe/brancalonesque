@@ -97,7 +97,8 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 - Petit Poucet : homme de petite taille et grandes bottes ; révélation sur la famille de Tito.
 - Carrabsosse : fée acariâtre associée au concours et à la transformation de Tito.
 - Sidney/Sydney : fée liée au camp favorable au retour à l'ordre ; graphie et titre à fixer.
-- L'Enfant : reine des fées disparue ; cheveux turquoise selon les souvenirs ; ne pas confondre avec Perdita.
+- L'Enfant : reine des fées disparue ; cheveux turquoise selon les souvenirs ; ne pas confondre avec Perdita. **Confidentiel (Q518)** : a exilé sa sœur Méliane, future reine des elfes et ennemie jurée, selon confirmation directe de la joueuse.
+- Méliane : sœur de l'Enfant, exilée par celle-ci, future reine des elfes ; inimitié confirmée. Orthographe, circonstances précises et moment de révélation à recouper dans les arcs finaux (Q510, Q518).
 - Homme en blanc : conserver l'anonymat jusqu'à la révélation finale ; ne pas identifier dans les légendes publiques.
 - Panini / Uzino / Uncino : noms évoqués autour de l'île ; ne pas fusionner les identités avant vérification.
 - Gisela et Léonard de la Sylve : figures de la première campagne, distinctes des héros actuels (D, annexe IV).
