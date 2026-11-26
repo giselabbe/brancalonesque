@@ -66,7 +66,7 @@ Précision confirmée par l'utilisateur : les elfes sont attirés par la magie f
 ## 5. Objets, pouvoirs et matériaux
 | Objet / phénomène | Propriété attestée ou rapportée | Continuité |
 |---|---|---|
-| Agneau Unique | D : son porteur devient invisible, propriété découverte par Psodia (Q102, confirmé) ; danger allégué par la Communauté, non vérifié | I seulement ; ne pas réintroduire l'animal vivant après sa mort |
+| Agneau Unique | D : son porteur devient invisible, propriété découverte par Psodia (Q102, confirmé) ; danger seulement évoqué par une mise en garde vague de la Communauté ; jamais approfondi ni élucidé (Q106) | I seulement ; ne pas réintroduire l'animal vivant après sa mort |
 | Pelle de Chaterpillar | D : récupérée dans la crypte, arme favorite de Tito | À partir de I.06 |
 | Baguette de Quenotte | D : retrouvée au tombeau vide, réaction des moustaches de Psodia ; ouvre la grande porte de Pandosia ; Quenotte utilise sa baguette à la sortie du temple | À partir de I.06 ; oubliée puis retrouvée dans les souvenirs de Psodia au V ; autres pouvoirs non établis |
 | Masques de Personne | D : permettent de prendre une apparence et d'accéder à des souvenirs ; usage prolongé menace son identité | Premier masque : Dona Vitalli (I) |
@@ -84,6 +84,9 @@ Précision confirmée par l'utilisateur : les elfes sont attirés par la magie f
 | Machine à fabriquer les couleurs | D : objet recherché par les mages, selon le témoignage du rescapé de Pandosia | V ; aspect, fonctionnement et devenir inconnus ; ne pas la confondre avec la polisseuse |
 | Port-Trop-Loin | D : bateau magique permettant de rejoindre n'importe quel port déjà visité ; la péniche révèle sa nature à Personne après sa réparation | V ; modalités, coût éventuel, vitesse et limites supplémentaires inconnus |
 | Flûte du Malebranche et bulle de silence | D : le flûtiste a fait sortir les ratons de Pandosia ; une puissante bulle de silence empêche la communication orale et résiste aux tentatives de dissipation | V ; Quenotte supposée responsable du silence, hypothèse non confirmée |
+
+### Note éditoriale confidentielle — laine de l'Agneau Unique (Q106)
+La laine nécessaire à la fin de la campagne relève d'un artifice narratif du MJ pour contourner la mort imprévue de l'Agneau au chapitre I : les Canailles n'en disposaient pas pour la suite prévue. Ne pas présenter cette explication méta comme un fait connu des héros, ni inventer une provenance ou des modalités de récupération de la laine. Documenter la solution effectivement jouée lorsque les arcs finaux seront disponibles.
 
 ## 6. Institutions et croyances (D)
 - Honorable Société : Dona Vitalli en est membre ; nature complète à vérifier dans le lore.
