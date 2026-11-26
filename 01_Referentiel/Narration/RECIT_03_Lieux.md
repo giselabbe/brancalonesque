@@ -34,7 +34,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 | LIEU_CATHEDRALE | Cathédrale et trésor | Prêche, collecte et enquête ; salle du trésor | II |
 | LIEU_SOUBIROUTE | Grotte de Soubiroute | Refuge de la communauté ; statue dite la Borgne à dette | II |
 | LIEU_COURS_EAU | Cours d'eau près de Scanzona | Rencontre d'Ondine lors de la confrontation elfique | II ; nom inconnu |
-| LIEU_PORT_DEPART | Port de départ | Embarquement sur La Brigantine | III ; nom inconnu |
+| LIEU_PORT_DEPART | Port de départ | Embarquement sur La Brigantine | III ; nom non conservé, rester vague dans le récit (Q301) |
 | LIEU_BRIGANTINE | La Brigantine | Navire de Kali Jones ; faux gouvernail, abordage et réfugiés | III |
 | LIEU_CRIQUE | Crique de débarquement | Accès hors du port soumis à un blocus | III |
 | LIEU_CIBARA | Sibara | Ville portuaire, Piccadore selon III ; Académie, réfugiés en périphérie, égouts donnant accès à Pandosia ; variantes historiques Cibara et Sidara | III–V |
