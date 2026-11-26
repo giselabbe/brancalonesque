@@ -78,7 +78,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 - Cité circulaire organisée autour d'un imposant bâtiment central dont l'identité n'est pas établie ; rivière en contrebas. Air frais et sec ; lueur turquoise dont la source précise n'est pas connue.
 - Rues pavées et murs de pierre incrustés de dents de lait et de pièces de monnaie ; quatre bâtiments signalés en langue ratone. Leur disposition exacte n'est pas documentée.
 - À l'arrivée : cité abandonnée depuis des années, présence de squelettes de mages (robes pourpre, vert lichen et marron moisi), d'un squelette elfique, de golems et d'un mage rescapé. Après l'expédition, les ratons sont convaincus de revenir ; ne pas présenter une scène de procession précise comme un événement attesté.
-- La mosaïque de la banque représente deux scènes distinctes ; elle ne prouve pas à elle seule l'origine réelle de l'or. La machine à fabriquer les couleurs mentionnée par le mage rescapé ne doit pas être assimilée à la polisseuse du temple sans confirmation.
+- La mosaïque de la banque représente deux scènes distinctes ; elle ne prouve pas à elle seule l'origine réelle de l'or. La mention d'une machine à fabriquer les couleurs attribuée au mage rescapé provient d'une note de carnet dont la joueuse doute ; à vérifier auprès du MJ (Q514). Ne pas l'assimiler à la polisseuse du temple sans confirmation.
 - Le cercle de champignons est un élément narratif attesté ; ne pas expliquer prématurément le déclenchement des apparitions elfiques dans une carte, légende ou illustration destinée aux lecteurs.
 - Proposition graphique (P) : panorama de la cité en double page, puis contraste entre la cité déserte et son repeuplement. Aucun plan exact ni architecture supplémentaire n'est validé.
 
