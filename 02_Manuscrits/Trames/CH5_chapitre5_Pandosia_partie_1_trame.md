@@ -34,11 +34,13 @@ Et surtout, Louis et Dame Mystique étaient amoureux dans leur jeunesse !
 
 Les recherches commencent à la bibliothèque. Marée de Nuit et Psodia sont les seuls à savoir lire. Personne, agacé de ne pouvoir participer, se voit prêter par Louis des lunettes magiques permettant de déchiffrer les ouvrages : les lorgnons de Gouguel (nom proposé pour le recueil).
 
-Ironie du sort, c'est précisément Personne qui découvre, dans un livre, une référence au *Liber Vetillæ*, un grimoire rédigé par un nécromancien de très haut niveau.
+Ironie du sort, c'est précisément Personne qui découvre, dans un livre, une référence au *Liber Vetillæ*, un grimoire attribué à Frà Maccario. [Note de travail Q511 : l'attribution à un nécromancien de haut niveau provient du souvenir des recherches en jeu ; le PDF original identifie Frà Maccario sans préciser son niveau.]
 
 Il y est question d'un puissant sort de lignification permettant d'inverser les propriétés du bois de vétille. Alors que ce bois permet habituellement à la magie d'animer des objets et des marionnettes, le sort inverse en fait un réceptacle capable d'emprisonner la magie et les créatures féériques.
 
 D'après les sources consultées, le dernier usage officiellement recensé de ce sort remonterait à environ six cents ans, par la Guilde des Guiscards de Tarantase. Cela ne signifie pas que le sort n'a plus été pratiqué depuis. Voilà une piste pour comprendre ce qui est arrivé à Tourette.
+
+[Source MJ, Liber Vetillæ.pdf, p. 1–4 : le traité explique que l'intention au premier entaillage, un rituel de retenue, une figurine grossière portant les traits de l'esprit et une goutte de vin, de lait ou de sang (jamais d'eau) préparent la prison. Le polissage est une erreur de préparation, non une méthode de libération explicitement prescrite. La date des 600 ans vient des recherches en jeu, non du PDF. Les détails exacts lus ou retenus par les Canailles ne sont pas tous attestés.]
 
 ## 5. Du dit des nains et des elfes
 
