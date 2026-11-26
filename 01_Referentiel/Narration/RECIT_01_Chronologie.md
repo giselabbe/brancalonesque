@@ -15,7 +15,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | ID | Événement | Conséquence / continuité |
 |---|---|---|
 | I.01 | Camp itinérant de Dame Mystique ; cinq Canailles déjà associées | Tourette et Sanchez présents ; matériel initial ordinaire |
-| I.02 | Chute à travers le toit du Doux Fumet puis réveil dans la rivière | Ne pas attribuer la chute au Cracoucass sans confirmation |
+| I.02 | Chute à travers une passerelle de la ville haute, puis le toit du Doux Fumet ; réveil dans la rivière | Chute confirmée par une joueuse (Q101) ; mise à l'eau documentée dans la trame |
 | I.03 | Concours de nourriture ; Personne démasqué | Œuf du Cracoucass brisé |
 | I.04 | Escorte de Cornelia, guet-apens, rencontre de la Communauté | Recherche de quatre porteurs et de l'Agneau Unique |
 | I.05 | Nid dans une vieille tour ; Robert et Agneau retrouvés | Plan de la crypte ; invisibilité liée au port de l'Agneau |
