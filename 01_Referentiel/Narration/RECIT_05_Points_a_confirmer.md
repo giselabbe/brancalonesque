@@ -34,7 +34,7 @@ Source : [manuscrit I](../../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_tr
 - [x] Q104 — Quenotte a été lignifiée et sa statuette se trouve à Pandosia. Les héros ignorent la raison du tombeau vide au I et la découvrent seulement dans l'arc Pandosia (V).
 - [ ] Q105 — Identité des marraines du bal et rôle de Belle Mère à préciser. La raison de la transformation de Rouspète en Cendrillon ne sera jamais révélée aux héros (confirmé).
 - [x] Q106 — Danger de l'Agneau : mise en garde vague, jamais approfondie ni élucidée. La laine nécessaire à la fin est un artifice narratif du MJ pour contourner la mort imprévue de l'animal au I. Modalités en jeu à consigner lors des arcs finaux, sans les inventer. Rouspète est la mère de Mustrum.
-- [ ] Q107 — Circonstances de constitution de la clique et équipement initial si utile au prologue.
+- [x] Q107 — Constitution de la clique inutile au récit ; équipement initial correspondant aux classes des PJ selon les règles de D&D 5e, édition 2014.
 
 ### Chapitre II — Scanzona
 Source : [manuscrit II](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame.md).
@@ -108,6 +108,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q105 | La raison de la transformation de Rouspète en Cendrillon ne sera jamais révélée. Restent ouvertes l'identité des marraines du bal et le rôle de Belle Mère. | Confirmation directe de la joueuse | Partiel (motif définitivement inconnu) | 26/11/2026 |
 | Q106 | Rouspète est la mère de Louis. | Trame V.1, §2 | Partiel | 25/11/2026 |
 | Q106 | Les héros entendent une mise en garde vague sur l'Agneau et ne creusent pas ; sa nature exacte et son danger restent inconnus. La laine nécessaire à la fin de l'histoire relève d'un artifice narratif du MJ pour pallier la mort imprévue de l'Agneau. Provenance et modalités en jeu à documenter dans les arcs finaux, sans inventer. | Confirmation directe de la joueuse ; trame I | Résolu (nature du mystère et intention narrative) | 26/11/2026 |
+| Q107 | Ne pas reconstituer la formation de la clique. Équipement de départ lié aux classes des personnages selon les règles de D&D 5e, édition 2014 ; aucun inventaire individuel fourni. | Confirmation directe de la joueuse | Résolu | 26/11/2026 |
 | Q204 | L'inscription de la statue n'a pas servi : les Canailles n'ont pas poursuivi la mission du pèlerinage. Son texte exact n'est pas nécessaire au récit. | Confirmation directe de la joueuse ; trame II | Résolu (détail non nécessaire) | 26/11/2026 |
 | Q205 | La clique commence à se renseigner ; Psodia veut aider les habitants, Personne et Sispéo non. Le MJ installe un sentiment d'urgence : sauver la péniche alors que Personne dépérit, trouver un remède pour Tourette. La perspective d'affronter un démon puissant contribue également à l'abandon. Aucun passage aux enfers ni affrontement avec ce démon confirmé. | Confirmation directe de la joueuse ; trame II | Résolu | 26/11/2026 |
 | Q206 | Ondine rejoint les Canailles après l'affrontement avec les elfes (II.07). Truffino apparaît lors du passage au niveau 3, au retour sur la péniche à la fin de la session (II.08) ; les familiers sont disponibles à ce niveau. | Confirmation directe de la joueuse ; trame II | Confirmé | 26/11/2026 |
