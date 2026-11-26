@@ -112,6 +112,7 @@ Documentation officielle : `BRANCALONIA_Livre_1_Livre-de-base_FR_09-07-22.pdf`, 
 Documents MJ : `Chronologie.pdf`, `Campagne saison 2 - Trame.pdf`, `Du dit des nains et des elfes-1.pdf`, `Liber Vetillæ.pdf`, `Critiques culinaires.pdf`, `Sibara - Ecoles de magie.pdf`, `Le porte Malheur.pdf`.
 
 ## 8. Règles éditoriales
+- Q107 : équipement initial correspondant aux classes des PJ selon les règles de D&D 5e, édition 2014. Ne pas inventer d'inventaire individuel ni détailler la constitution de la clique, inutile au récit.
 Ne pas importer des événements prévus mais non joués ; ne pas révéler les identités cachées ; distinguer la connaissance des joueurs de celle des héros ; ne pas transformer une mécanique de jeu ou un clin d'œil en élément canonique sans validation. Conserver les noms et jeux de mots du MJ lorsqu'ils sont attestés.
 
 Pour les illustrations, respecter l'état des personnages, les objets acquis et les connaissances disponibles au chapitre représenté. Les fiches individuelles et les références visuelles complètent le contexte narratif ; leur statut graphique ne vaut pas validation narrative. En cas de divergence, signaler le point dans [RECIT_05_Points_a_confirmer.md](RECIT_05_Points_a_confirmer.md) plutôt que de trancher sans confirmation.
