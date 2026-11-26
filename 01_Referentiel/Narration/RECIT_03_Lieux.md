@@ -40,7 +40,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 | LIEU_CIBARA | Sibara | Ville portuaire, Piccadore selon III ; Académie, réfugiés en périphérie, égouts donnant accès à Pandosia ; variantes historiques Cibara et Sidara | III–V |
 | LIEU_CAMPS_REFUGIES | Camps de réfugiés | Nombreux ratons, conditions difficiles ; assistance de Bombance ; au V, les Canailles convainquent les réfugiés ratons de retourner vivre à Pandosia | IV–V |
 | LIEU_CAPITAINERIE | Capitainerie et chantier naval | Péniche immobilisée, frais, travaux de Giuseppe et Jésus ; réparation achevée au retour de Pandosia, moment exact des travaux non précisé | IV–V |
-| LIEU_PENICHE | Péniche / Maman | Embarcation issue de la première campagne ; pièces en vétille, rejette le bois ordinaire ; réparée et réveillée au V, révèle à Personne être un Port-Trop-Loin capable de rejoindre tout port déjà vu à condition d'atteindre 8,8 nœuds par heure grâce à la Burrichetta qui fait office de moteur (Q517) ; Nuance, figure de proue, libérée par polissage | II–V |
+| LIEU_PENICHE | Péniche / Maman | Embarcation issue de la première campagne ; pièces en vétille, rejette le bois ordinaire ; réparée et réveillée au V, révèle à Personne être un Port-Trop-Loin capable de rejoindre tout port déjà vu à condition d'atteindre 8,8 nœuds par heure grâce à la Burrichetta qui fait office de moteur (Q517) ; Nuance, figure de proue, libérée par polissage ; utilisée ensuite pour revenir à Scanzona et atteindre l'île des enfants perdus grâce au dessin de Perdita (Q517) | II–suite |
 | LIEU_GARGANTUA | Chez Gargantua | Restaurant de la mère de Tito, boulettes, cave mystérieuse, forte attraction des plats ; au V, Tito découvre dans un livre que le restaurant aurait été construit sur l'ancien temple de la Faim Rassasiée, associé à la marmite de Saint Glaude | IV–V |
 | LIEU_ACADEMIE | Académie de magie | Écoles parodiques ; admission barbe et queue de raton ; au V, accès contrôlé sous le nouveau doyen Destin, cour où sont aperçus les guerriers, réfectoire, enseignement et geôles | IV–V |
 | LIEU_BIBLIOTHEQUE | Bibliothèque | Livres animés, Mustrum et Gobemouche ; première visite au IV ; seconde au V : recherches sur le Liber Vetillæ, identification des elfes, découverte de l'ancien temple par Tito | IV–V |
@@ -62,7 +62,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 | LIEU_PANDOSIA_RIVIERE | Rivière souterraine | Coule en contrebas de la cité ; rencontre du magicien rescapé près d'une canne à pêche | V |
 | LIEU_PANDOSIA_CERCLE | Cercle de champignons | Près de la banque ; squelette d'elfe au centre ; un objet lancé ne provoque aucune réaction ; cinq elfes y apparaissent plus tard | V |
 | LIEU_PLAN_ELFIQUE | Monde elfique | S : passage associé aux cercles de champignons ; monde perçu comme ordonné et monotone, serre évoquée | S |
-| LIEU_ILE_ENFANTS | Île des enfants perdus | S : Perdita réapparaît ; autres personnages et géographie à préciser | S |
+| LIEU_ILE_ENFANTS | Île des enfants perdus | S : Perdita réapparaît ; île atteinte à bord du Port-Trop-Loin grâce à un dessin laissé par Perdita dans sa chambre à Scanzona (Q510, Q517) ; autres personnages et géographie à préciser | S |
 
 ## Territoires et déplacements
 
