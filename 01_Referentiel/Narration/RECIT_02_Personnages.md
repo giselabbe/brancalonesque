@@ -90,7 +90,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | Deux golems d'émail | Gardiens du temple de Quenotte ; l'un vaincu, l'autre immobilisé lors de la libération de la fée. |
 | Elfes | Guerriers de grande taille, élégants et raffinés ; identifiés par Louis au V. Cinq surgissent d'un cercle de champignons après l'ouverture de la porte par Quenotte. Le lien causal avec la magie féerique n'est pas encore compris par les héros. |
 | Nuance | Anguana, ancienne figure de proue de la péniche ; libérée par polissage à la fin du V. |
-| Péniche / Maman | Entité consciente considérée comme sa mère par Personne ; réparée au V, lui parle et révèle être un Port-Trop-Loin permettant de rejoindre tout port déjà visité. |
+| Péniche / Maman | Entité consciente considérée comme sa mère par Personne ; réparée au V, lui parle et révèle être un Port-Trop-Loin permettant de rejoindre tout port déjà vu à condition d'atteindre 8,8 nœuds par heure (Q517). |
 | Ratons réfugiés | Peuple de Psodia ; a oublié collectivement l'emplacement de Pandosia ; attend le raton sauveur annoncé par la prophétie du Kwisach des Rats (Q305) ; convaincu par les Canailles de retourner vivre dans la cité retrouvée. |
 
 ## Personnages et entités des arcs à documenter (S)
