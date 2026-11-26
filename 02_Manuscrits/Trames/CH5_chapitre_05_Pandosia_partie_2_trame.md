@@ -48,7 +48,7 @@ Il faut dire que Psodia a passé son enfance à proximité de l'académie de mag
 
 Selon Ondine, Quenotte pourrait également savoir où se trouve l'Enfant, la reine des fées disparue.
 
-Les Canailles soupçonnent enfin Quenotte d'être à l'origine du puissant sort de silence qui frappe le Malebranche, afin de l'empêcher de poursuivre ses méfaits.
+L'origine du puissant sort de silence qui frappe le Malebranche reste incertaine. [Note de travail Q512 : deux hypothèses, sans confirmation : Quenotte aurait voulu l'empêcher de poursuivre ses méfaits, ou les mages auraient voulu empêcher leur complice de témoigner de leurs actes.]
 
 ### 4. Une expédition presque professionnelle
 
