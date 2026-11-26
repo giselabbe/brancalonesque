@@ -42,7 +42,7 @@ Apparu dans une malle de vêtements de Gisela sur la péniche, qu’il considèr
 ## Évolution pendant la campagne
 
 - **CH_01** : Premier masque : Dona Vitalli.
-- **CH_02** : Truffino annonce que Maman est en danger.
+- **CH_02** : S'oppose à la mission du pèlerinage ; Truffino annonce que Maman est en danger. La dégradation de la santé de Personne rend le sauvetage de la péniche urgent et contribue à l'abandon du pèlerinage (Q205).
 - **CH_03** : Incident de la cale de La Brigantine.
 - **CH_04** : Fabrique des laissez-passer ; utilise le masque de Dona Vitalli au Domaine des Vieux.
 - **CH_05 — Retour à Sibara** : Surveille d'abord la cargaison de bois de vétille à bord de la péniche, puis retrouve ses compagnons. Le moment exact où il rejoint la délégation universitaire n'est pas établi.
