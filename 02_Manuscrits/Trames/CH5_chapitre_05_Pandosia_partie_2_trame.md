@@ -152,6 +152,8 @@ Soudain, la statuette polie s'anime et le second golem s'immobilise.
 
 Les Canailles viennent de réussir à inverser le sort de lignification.
 
+Une fois libérée de sa statuette, Quenotte transforme le Malebranche joueur de flûte en grenouille. [Note de travail Q512 : moment précis de la métamorphose par rapport à la bataille suivante non confirmé.]
+
 ### 10. La bataille de Pandosia
 
 Tout heureuses de leur réussite, les Canailles quittent le temple en compagnie de Quenotte.
