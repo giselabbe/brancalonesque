@@ -124,7 +124,7 @@ En examinant les alentours, elles découvrent un homme qui tente de se cacher : 
 
 Celui-ci leur raconte les événements dont il a été témoin.
 
-Les mages étaient descendus à Pandosia afin de récupérer une mystérieuse machine à fabriquer les couleurs. Mais deux monstres énormes montent la garde.
+Les mages étaient descendus à Pandosia afin de récupérer une mystérieuse machine à fabriquer les couleurs. [Note de travail Q514 : cette mention provient d'une note de carnet possiblement erronée ; demander au MJ si cet objectif était bien celui des mages avant de conserver cette phrase dans le récit final.] Mais deux monstres énormes montent la garde.
 
 Le magicien a également assisté à un affrontement impliquant des elfes. Ces derniers sont parvenus à emprisonner Quenotte dans une statuette de bois avant d'être chassés par les monstres.
 
