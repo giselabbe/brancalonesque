@@ -19,7 +19,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | I.03 | Concours de nourriture ; Personne démasqué | Œuf du Cracoucass brisé |
 | I.04 | Escorte de Cornelia, guet-apens, rencontre de la Communauté | Recherche de quatre porteurs et de l'Agneau Unique |
 | I.05 | Nid dans une vieille tour ; Robert et Agneau retrouvés | Plan de la crypte ; Psodia porte l'Agneau et découvre son pouvoir d'invisibilité (Q102) |
-| I.06 | Crypte de la dix-septième pile, clé de Rouspète | Tito acquiert la pelle de Chaterpillar ; Psodia la baguette de Quenotte |
+| I.06 | Crypte de la dix-septième pile, clé de Rouspète | Tito acquiert la pelle de Chaterpillar ; Psodia la baguette de Quenotte ; mystère du tombeau vide non résolu à ce stade (Q104) |
 | I.07 | Manoir Vitalli, découverte de Tâcheron | Personne acquiert son premier masque, Dona Vitalli |
 | I.08 | Préparatifs du bal ; diversion des boules puantes ; magie de Belle Mère | Psodia et Sispéo temporairement humains |
 | I.09 | Bal ; Casanabo ; rivalité féerique ; échec auprès de Kali puis réussite auprès de Robert | Robert et Tâcheron se marient ; Kali libre de partir |
@@ -97,7 +97,7 @@ Sources : les deux trames du chapitre V. L'ordre suit ces trames ; les scènes d
 | V.16 | Nouvelle descente dans les égouts avec cordes, lanternes et flûtiste | Tito repère le Tas de boue ; victoire et acquisition d'un dentier avertisseur de danger et d'un réchaud à fondue. |
 | V.17 | Psodia se rappelle sa baguette acquise en I.06 ; ouverture de la porte en forme de dents | Entrée dans Pandosia, cité circulaire souterraine à lueur turquoise ; identification des quatre bâtiments par Psodia. |
 | V.18 | Exploration de la Banque des Dents de Lait | Squelettes de mages en robes pourpre, vert lichen et marron moisi ; squelette elfique dans un cercle de champignons ; objet lancé sans réaction ; réserve de dents et mosaïque de la souris et du chaudron au pied de l'arc-en-ciel. |
-| V.19 | Rencontre du magicien rescapé près de la rivière | Témoignage : expédition des mages pour une machine à fabriquer les couleurs ; deux monstres gardiens ; Quenotte lignifiée par les elfes. Ne pas assimiler la machine à couleurs à la polisseuse sans preuve. |
+| V.19 | Rencontre du magicien rescapé près de la rivière | Témoignage : expédition des mages pour une machine à fabriquer les couleurs ; deux monstres gardiens ; Quenotte lignifiée par les elfes, statuette dans son temple à Pandosia ; explication du tombeau vide de Sourcemolle (Q104). Ne pas assimiler la machine à couleurs à la polisseuse sans preuve. |
 | V.20 | Temple de Quenotte ; statuette vibrante ; reconnaissance de Psodia transformée en souris | Deux golems d'émail et énorme polisseuse ; combat et polissage simultanés. Répartition exacte des rôles inconnue. |
 | V.21 | Un golem vaincu ; la statuette s'anime et l'autre golem s'immobilise | Quenotte libérée ; inversion de la lignification démontrée. |
 | V.22 | Quenotte ouvre la porte avec sa baguette ; cinq elfes surgissent du cercle de champignons | Combat victorieux selon la trame, détails non notés. Ne pas expliquer encore le lien causal dans le récit. |
