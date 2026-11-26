@@ -45,7 +45,7 @@ Originaire du bois de Bologne selon le chapitre IV. Marionnette en bois de véti
 - **CH_02** : Ne souhaite pas aider les habitants dans le cadre de la mission du pèlerinage, contrairement à Psodia (Q205).
 - **CH_03** : Répare la cale de La Brigantine.
 - **CH_04** : Interprète les paroles du cochon au Domaine des Vieux.
-- **CH_05 — Pandosia et le Liber Vetillæ** : Lors de la détention à l'Académie de Sibara, descelle quelques pierres du mur de la cellule. Ces pierres servent de diversion lors de l'évasion organisée par les Canailles ; elles s'échappent par les portes, et non par le mur. Humus conseille de consulter sa marraine, Belle-Mère la Bonne Fée, ou Ondine au sujet de la lignification. Sispéo accompagne l'expédition à Pandosia ; sa participation précise au polissage de Quenotte reste à confirmer.
+- **CH_05 — Pandosia et le Liber Vetillæ** : Lors de la détention à l'Académie de Sibara, descelle quelques pierres du mur de la cellule. Ces pierres servent de diversion lors de l'évasion organisée par les Canailles ; elles s'échappent par les portes, et non par le mur. Humus conseille de consulter sa marraine, Belle-Mère la Bonne Fée, ou Ondine au sujet de la lignification. Sispéo accompagne l'expédition à Pandosia ; combat les golems tandis que Psodia polit la statuette, puis participe à l'affrontement collectif contre les cinq elfes (Q515).
 - **Suite — souvenir à recouper** : Peut diriger les marionnettes géantes elfiques.
 
 ## Références visuelles
