@@ -43,7 +43,7 @@ Source : [manuscrit II](../../02_Manuscrits/Trames/CH2_chapitre02_Scandoza_trame
 - [ ] Q202 — Noms officiels des factions féeriques et de leurs responsables ; ne pas canoniser « légalistes ».
 - [ ] Q203 — Graphies des trois récompenses obtenues après la rencontre avec Ondine.
 - [x] Q204 — Inscription de la statue de Soubiroute : inutile de récupérer son texte, la mission du pèlerinage n'ayant pas été poursuivie.
-- [ ] Q205 — Qu'a réellement joué la clique concernant le pèlerinage ? Le corpus dit quête abandonnée ; les anciens souvenirs évoquent une évasion et un passage vers les enfers. Vérifier la distinction trame/joué.
+- [x] Q205 — Début de renseignements sur le pèlerinage, puis abandon : Psodia veut aider les habitants, contrairement à Personne et Sispéo ; urgences du sauvetage de la péniche (santé de Personne) et du remède de Tourette, et perspective d'affronter un démon puissant. Ne pas transformer les anciens souvenirs d'évasion ou de passage aux enfers en événements confirmés.
 - [ ] Q206 — Moment exact de l'arrivée de Truffino et de l'intégration d'Ondine.
 
 ### Chapitre III — Traversée
@@ -105,6 +105,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q106 | Rouspète est la mère de Louis. | Trame V.1, §2 | Partiel | 25/11/2026 |
 | Q106 | Les héros entendent une mise en garde vague sur l'Agneau et ne creusent pas ; sa nature exacte et son danger restent inconnus. La laine nécessaire à la fin de l'histoire relève d'un artifice narratif du MJ pour pallier la mort imprévue de l'Agneau. Provenance et modalités en jeu à documenter dans les arcs finaux, sans inventer. | Confirmation directe de la joueuse ; trame I | Résolu (nature du mystère et intention narrative) | 26/11/2026 |
 | Q204 | L'inscription de la statue n'a pas servi : les Canailles n'ont pas poursuivi la mission du pèlerinage. Son texte exact n'est pas nécessaire au récit. | Confirmation directe de la joueuse ; trame II | Résolu (détail non nécessaire) | 26/11/2026 |
+| Q205 | La clique commence à se renseigner ; Psodia veut aider les habitants, Personne et Sispéo non. Le MJ installe un sentiment d'urgence : sauver la péniche alors que Personne dépérit, trouver un remède pour Tourette. La perspective d'affronter un démon puissant contribue également à l'abandon. Aucun passage aux enfers ni affrontement avec ce démon confirmé. | Confirmation directe de la joueuse ; trame II | Résolu | 26/11/2026 |
 | Q304 | Hulc dénonce les Canailles pour la prime ; il ne s'agit pas du Malebranche détenu avec elles. | Trame V.1, §11–12 | Partiel | 25/11/2026 |
 | Q408 | Péniche réparée au retour de Pandosia ; moment des travaux non précisé. | Trame V.2, §12 | Partiel | 25/11/2026 |
 | Q501 | Anti-Cuite guérit l'ivresse au IV ; la lignification de Quenotte, Tourette et Nuance est inversée par polissage au V. Ordre des scènes établi dans les trames. | Chronologie IV.14–15 et V.20–26 | Résolu (trame) | 25/11/2026 |
