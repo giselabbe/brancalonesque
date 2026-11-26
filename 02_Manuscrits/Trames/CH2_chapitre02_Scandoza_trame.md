@@ -110,7 +110,7 @@ En revenant de cette aventure - on ne se souviens plus pk mais Tito est jeté en
 =================================
 L'ATTAQUE DES ELFES
 ==================================
-A ce moemnt de l'histoire on pense qu'on va aider les habitants de la ville et enquêter sur le pélérinage : Perdita sait localiser ONDINE, et nous aide à le faire. 
+À ce moment de l'histoire, les Canailles ont commencé à se renseigner sur le pèlerinage. Psodia souhaite aider les habitants, mais Personne et Sispéo ne sont pas favorables à cette mission. Perdita sait localiser Ondine et nous aide à le faire. 
 Nous la retrouvons dans un cours d'eau environant, mais en plein affrontement avec des grands guerriers très beaux. 
 Nous l'aidons bien sûr - TITO en dévore un au passage révélant ainsi sa nature d'ogre. 
 
@@ -130,7 +130,7 @@ Il s'agit en réalité de la péniche oiu personne a pris vie. PERSONNE a pris v
 Truffino nous alerte : "ils sont en train de démonter MAMAN" ! 
 Truffino nous révèle que la péniche se trouve également à Cibara, ce qui tombe bien !
 
-Devant ce qui semble être une urgence, et aussi pk la santé de notre camarade semble se déteriorer, nous décidons de prioriser cette quête par rapport à celle du pélérinage qui sera abadonnée. 
+Deux urgences se conjuguent : sauver la péniche alors que la santé de Personne se dégrade, et trouver un remède pour Tourette. À cela s'ajoute la perspective d'un affrontement avec un démon puissant dans le cadre du pèlerinage. Ces circonstances, ainsi que les désaccords au sein de la clique, conduisent les Canailles à abandonner cette mission et à privilégier le départ vers Sibara. 
 
 
 
