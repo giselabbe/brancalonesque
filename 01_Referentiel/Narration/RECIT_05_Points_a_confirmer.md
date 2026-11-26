@@ -53,7 +53,7 @@ Source : [manuscrit III](../../02_Manuscrits/Trames/CH3_chapitre03_les_Pirates_t
 - [x] Q302 — Les Canailles n'ont pas compris pourquoi Personne a endommagé la cale. Conserver l'explication et le ton humoristique de la trame, sans inventer de motivation.
 - [ ] Q303 — Comment le conflit avec Bosco Rosso et Isabella s'est-il résolu ?
 - [ ] Q304 — Rôle ultérieur de Hulc confirmé au V : il dénonce les Canailles aux gardes, avant leur emprisonnement. Reste à préciser le devenir de la poule géante.
-- [ ] Q305 — Formulation exacte de la prophétie du Kwisach des Rats et moment où Psodia la reprend à son compte.
+- [ ] Q305 — Formulation confirmée : un raton sauveur reconduira le peuple raton à Pandosia, la cité mythique dont l'entrée s'est perdue. La trame situe l'appropriation du rôle par Psodia durant la traversée, lorsqu'elle prétend connaître l'emplacement ; moment à confirmer séparément.
 
 ### Chapitre IV — questions reprises du document du 25 novembre
 Source : [manuscrit IV](../../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.md).
@@ -110,6 +110,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q301 | Le nom du port de départ n'a pas été conservé. Employer une désignation générique dans le récit ; aucune recherche supplémentaire nécessaire. | Confirmation directe de la joueuse | Résolu (nom non conservé) | 26/11/2026 |
 | Q302 | Les Canailles n'ont pas du tout compris pourquoi Personne a endommagé la cale. Conserver le passage existant de la trame ; aucune motivation supplémentaire à inventer. | Confirmation directe de la joueuse ; trame III | Résolu (motivation inconnue des Canailles) | 26/11/2026 |
 | Q304 | Hulc dénonce les Canailles pour la prime ; il ne s'agit pas du Malebranche détenu avec elles. | Trame V.1, §11–12 | Partiel | 25/11/2026 |
+| Q305 | Un raton sauveur reconduira le peuple raton à Pandosia, la cité mythique dont l'entrée s'est perdue (formulation normalisée). La trame III situe la promesse de Psodia pendant la traversée ; cette seconde partie n'a pas été reconfirmée séparément. | Confirmation directe de la joueuse (prophétie) ; trame III (promesse) | Partiel | 26/11/2026 |
 | Q408 | Péniche réparée au retour de Pandosia ; moment des travaux non précisé. | Trame V.2, §12 | Partiel | 25/11/2026 |
 | Q501 | Anti-Cuite guérit l'ivresse au IV ; la lignification de Quenotte, Tourette et Nuance est inversée par polissage au V. Ordre des scènes établi dans les trames. | Chronologie IV.14–15 et V.20–26 | Résolu (trame) | 25/11/2026 |
 | Q503 | Prime de 100 couronnes par tête pour destruction de marionnette tombée de la péniche et brisée au sol ; Hulc dénonce les Canailles. Malebranche flûtiste engagé par les mages pour vider Pandosia, puis frappé d'une bulle de silence. | Trames V.1, §1 et 11–12 ; V.2, §1–3 | Résolu (trame) | 25/11/2026 |
