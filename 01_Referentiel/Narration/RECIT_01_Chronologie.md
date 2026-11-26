@@ -18,7 +18,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | I.02 | Chute à travers une passerelle de la ville haute, puis le toit du Doux Fumet ; réveil dans la rivière | Chute confirmée par une joueuse (Q101) ; mise à l'eau documentée dans la trame |
 | I.03 | Concours de nourriture ; Personne démasqué | Œuf du Cracoucass brisé |
 | I.04 | Escorte de Cornelia, guet-apens, rencontre de la Communauté | Recherche de quatre porteurs et de l'Agneau Unique |
-| I.05 | Nid dans une vieille tour ; Robert et Agneau retrouvés | Plan de la crypte ; invisibilité liée au port de l'Agneau |
+| I.05 | Nid dans une vieille tour ; Robert et Agneau retrouvés | Plan de la crypte ; Psodia porte l'Agneau et découvre son pouvoir d'invisibilité (Q102) |
 | I.06 | Crypte de la dix-septième pile, clé de Rouspète | Tito acquiert la pelle de Chaterpillar ; Psodia la baguette de Quenotte |
 | I.07 | Manoir Vitalli, découverte de Tâcheron | Personne acquiert son premier masque, Dona Vitalli |
 | I.08 | Préparatifs du bal ; diversion des boules puantes ; magie de Belle Mère | Psodia et Sispéo temporairement humains |
