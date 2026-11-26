@@ -38,7 +38,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | II.06 | Tito passe une nuit en prison | Motif inconnu |
 | II.07 | Perdita aide à retrouver Ondine ; affrontement elfique | Nature d'ogre de Tito révélée ; Ondine rejoint la clique |
 | II.08 | Retour au camp ; niveau 3 ; urgence Tourette | Truffino rejoint Personne et annonce le danger menaçant Maman |
-| II.09 | Départ vers Sibara | Pèlerinage abandonné ; ne pas importer automatiquement sa conclusion prévue |
+| II.09 | Départ vers Sibara | Pèlerinage abandonné après un début d'enquête : Psodia veut aider les habitants, Personne et Sispéo s'y opposent ; urgence péniche/santé de Personne et remède de Tourette, perspective d'affronter un démon puissant (Q205). Aucun affrontement démoniaque ni passage aux enfers confirmé |
 
 ## III — Traversée (D)
 | ID | Événement | Conséquence |
