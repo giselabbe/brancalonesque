@@ -40,13 +40,13 @@ Fée des dents à l'apparence de souris, associée au sanctuaire et au temple de
 
 ## Histoire personnelle
 
-Un tombeau lui est consacré dans la crypte de la dix-septième pile. Celui-ci est vide lorsque les Canailles le découvrent. Selon le témoignage du magicien rescapé de Pandosia, les elfes l'ont emprisonnée dans une statuette de bois. La mosaïque de la Banque des Dents de Lait représente une souris échangeant des pièces contre des dents, puis récupérant de l'or dans un chaudron au pied d'un arc-en-ciel. Ne pas déduire de cette iconographie un fonctionnement certain de l'économie féerique.
+Un tombeau lui est consacré dans la crypte de la dix-septième pile. Celui-ci est vide lorsque les Canailles le découvrent au I ; elles n'en apprennent la raison qu'au V, à Pandosia (Q104), où se trouve la fée lignifiée. Selon le témoignage du magicien rescapé de Pandosia, les elfes l'ont emprisonnée dans une statuette de bois. La mosaïque de la Banque des Dents de Lait représente une souris échangeant des pièces contre des dents, puis récupérant de l'or dans un chaudron au pied d'un arc-en-ciel. Ne pas déduire de cette iconographie un fonctionnement certain de l'économie féerique.
 
 ## Évolution pendant la campagne
 
 - **CH_01 (I.06)** : Première mention ; découverte du tombeau vide de Quenotte. Psodia récupère sa baguette sans en connaître les propriétés.
 - **CH_05 (V.15)** : Ondine indique que Quenotte pourrait savoir où se trouve l'Enfant. Psodia retrouve des souvenirs de son sanctuaire.
-- **CH_05 (V.19)** : Un magicien rescapé témoigne de sa lignification par les elfes.
+- **CH_05 (V.19)** : Un magicien rescapé témoigne de sa lignification par les elfes et de la présence de la statuette à Pandosia ; le mystère du tombeau vide est ainsi résolu (Q104).
 - **CH_05 (V.20–V.21)** : Découverte de la statuette vibrante dans le temple ; Psodia reconnaît les lieux sous forme de souris. Les Canailles combattent les golems d'émail et polissent la statuette. Quenotte est libérée ; le second golem s'immobilise.
 - **CH_05 (V.22)** : Quenotte ouvre la porte avec sa baguette ; cinq elfes surgissent d'un cercle de champignons.
 - **CH_05 (V.23)** : Quitte Pandosia en compagnie des Canailles.
@@ -74,7 +74,7 @@ Illustration originale de fantasy picaresque italienne, encre fine expressive et
 - Portrait de présentation : Quenotte vivante, portrait approuvé sur papier texturé.
 - PNJ_QUENOTTE_LIGNIFIEE_REF.png : même identité sculptée intégralement dans le bois, ailes et vêtements figés ; la vibration de la statuette est attestée dans le temple. Ne pas imposer la baguette dans sa main pendant la période où Psodia la possède.
 - REF_QUENOTTE_VARIANTES.png : planche comparative à produire.
-- Au chapitre I, ne montrer que le tombeau vide et la baguette, sans révéler la fée vivante.
+- Au chapitre I, ne montrer que le tombeau vide et la baguette, sans révéler la lignification ni la présence de Quenotte à Pandosia ; révélation au chapitre V (Q104).
 - Continuité confidentielle : l'utilisation de sa baguette en V.22 déclenche la venue des elfes. Le récit ne doit pas encore expliciter ce lien causal.
 - Ne pas présenter Quenotte comme reine des fées : ce titre appartient à l'Enfant.
 
