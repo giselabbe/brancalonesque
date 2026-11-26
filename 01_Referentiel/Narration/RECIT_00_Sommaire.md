@@ -8,7 +8,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 
 ## Fonction
 
-Index des épisodes du recueil. Les numéros I à VI sont retenus ; aucune numérotation définitive n'est attribuée aux arcs suivants. Le corpus narratif est réparti en fichiers de travail indépendants dans `02_Manuscrits/Trames/`. La branche `main` du dépôt GitHub constitue le référentiel maître ; la présence d'un document ne signifie pas qu'il est définitivement validé.
+Index des épisodes du recueil. Les numéros I à VIII sont retenus ; les titres VII et VIII sont fixés le 27 novembre 2026. Le corpus narratif est réparti en fichiers de travail indépendants dans `02_Manuscrits/Trames/`. La branche `main` du dépôt GitHub constitue le référentiel maître ; la présence d'un document ne signifie pas qu'il est définitivement validé.
 
 | Chapitre | Intitulé / contenu | État | Manuscrit de travail |
 |---|---|---|---|
@@ -18,6 +18,9 @@ Index des épisodes du recueil. Les numéros I à VI sont retenus ; aucune numé
 | IV | Sibara, le bois de Bologne et la réparation de la péniche | D — chronologie de travail, 25/11 ; réparation effective ultérieure | [Chapitre IV](../../02_Manuscrits/Trames/CH4_chapitre04_Vetille_trame.md) |
 | V | Pandosia et le Liber Vetillæ | D — arc terminé ; deux trames disponibles ; rédaction définitive à faire | [Partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_trame.md) · [Partie 2](../../02_Manuscrits/Trames/CH5_chapitre_05_Pandosia_partie_2_trame.md) |
 | VI | La Marmite de Saint Glaude (titre de travail) | P — prochain chapitre ; reconstitution à poursuivre | À intégrer |
+
+| VII | L'île des Enfants perdus (Le moindre mal) | S — décision confirmée, trame partielle | [Chapitre VII](../../02_Manuscrits/Trames/CH7_chapitre07_Ile_des_enfants_perdus_trame.md) |
+| VIII | Le château dans le ciel | S — dénouement connu, scènes à documenter | [Chapitre VIII](../../02_Manuscrits/Trames/CH8_chapitre08_Chateau_dans_le_ciel_trame.md) |
 
 ## Détail des chapitres existants
 
@@ -39,10 +42,16 @@ Seconde visite de l'Académie : avis de recherche, faux professeurs, Louis et Ro
 ### VI — La Marmite de Saint Glaude (titre de travail)
 Transition établie au chapitre V : annonce du concours Croc Chef et engagement de Marée de Nuit. Suite à reconstituer : Chez Gargantua, Petit Poucet, concours et destin de Bombance (S).
 
-## Arcs suivants à intégrer (S, ordre détaillé non arrêté)
+## Éléments des chapitres finaux à intégrer (S, ordre détaillé non arrêté)
 
 - Marionnettes elfiques et capacités de Sispéo.
 - Retour à Scanzona en Port-Trop-Loin pour rechercher Perdita ; dessin laissé dans sa chambre ; voyage vers l'île des enfants perdus grâce à ce dessin ; Perdita ; révélations finales (à documenter sans anticiper).
+
+### VII — L'île des Enfants perdus (Le moindre mal)
+Dilemme de la clique et soutien conscient à Uncino.
+
+### VIII — Le château dans le ciel
+Dénouement cosmologique connu ; déroulement à compléter. Voir [Guerre des Fées](RECIT_06_Guerre_des_Fees.md).
 
 ## Annexes envisagées (P)
 
