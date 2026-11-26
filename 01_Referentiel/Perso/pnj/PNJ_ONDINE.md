@@ -45,7 +45,7 @@ Origine et passé personnel inconnus. Ondine connaît les enjeux de la guerre de
 ## Évolution pendant la campagne
 
 - **CH_02 (II.04)** : Secourue par les Canailles alors qu'elle est accusée d'être une sorcière, elle révèle sa nature de fée des eaux. Tito tombe amoureux d'elle. Elle explique les enjeux de la guerre des fées.
-- **CH_02 (II.07)** : Retrouvée grâce à Perdita dans un cours d'eau, en plein affrontement avec de grands guerriers. Elle remercie les Canailles et rejoint la clique.
+- **CH_02 (II.07)** : Retrouvée grâce à Perdita dans un cours d'eau, en plein affrontement avec de grands guerriers. Après cet affrontement avec les elfes, elle remercie les Canailles et rejoint la clique (Q206).
 - **CH_04 (IV.12)** : Demande de soutenir les trois entrepreneurs cochons contre le Loup. Ses raisons demeurent inconnues de la clique ; son intervention provoque un désaccord.
 - **CH_05 (V.10)** : Humus conseille de la consulter au sujet de la lignification.
 - **CH_05 (V.15)** : Retrouvée sur la péniche après l'évasion. Elle indique qu'une fée se trouverait dans les égouts de Sibara et suggère que Quenotte pourrait connaître le sort de l'Enfant.
