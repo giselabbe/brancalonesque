@@ -42,7 +42,7 @@ Transition établie au chapitre V : annonce du concours Croc Chef et engagement 
 ## Arcs suivants à intégrer (S, ordre détaillé non arrêté)
 
 - Marionnettes elfiques et capacités de Sispéo.
-- Île des enfants perdus ; Perdita ; révélations finales (à documenter sans anticiper).
+- Retour à Scanzona en Port-Trop-Loin pour rechercher Perdita ; dessin laissé dans sa chambre ; voyage vers l'île des enfants perdus grâce à ce dessin ; Perdita ; révélations finales (à documenter sans anticiper).
 
 ## Annexes envisagées (P)
 
