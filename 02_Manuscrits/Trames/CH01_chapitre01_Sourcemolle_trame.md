@@ -283,15 +283,11 @@ Il leur faut donc trouver un autre moyen de pénétrer dans le tombeau.
 
 ### Le jardin de la vieille Rouspète
 
-Dans des circonstances qui restent à préciser, Tito se retrouve chargé de bêcher le jardin de la vieille Rouspète.
+D'après les souvenirs actuels de la joueuse, **Tito aurait bêché le jardin pour obtenir la clé** permettant d'ouvrir la crypte : le travail aurait donc été une contrepartie demandée par la vieille Rouspète. Cette explication demeure probable, non certaine.
 
-Il s'agit probablement d'un service rendu en compensation des dégâts occasionnés à l'auberge, bien que le lien exact entre ces événements n'ait pas été conservé dans les souvenirs de la clique.
+On ne se souvient plus de la façon dont les Canailles ont appris que Rouspète possédait la clé. Il serait artificiel de leur inventer un informateur ou une déduction.
 
-Quoi qu'il en soit, Tito accomplit le travail demandé.
-
-Pour le remercier, la vieille Rouspète remet aux aventuriers une clé.
-
-Il s'agit précisément de celle qui permet d'ouvrir la crypte située sous la dix-septième pile.
+Tito accomplit le travail ; la vieille Rouspète remet ensuite aux aventuriers la clé de la crypte située sous la dix-septième pile.
 
 Les Canailles peuvent désormais poursuivre leur exploration.
 
@@ -301,9 +297,7 @@ La première salle abrite plusieurs gisants.
 
 Il s'agit des sépultures des ancêtres de la vieille Rouspète.
 
-La présence de ces tombeaux confirme que la vieille femme possède un lien ancien avec le lieu.
-
-Les aventuriers ne parviennent toutefois pas à expliquer pourquoi elle détient également la clé permettant d'accéder aux parties plus profondes de la crypte.
+La présence de ces tombeaux confirme le lien familial de la vieille femme avec le lieu. Selon le souvenir de la joueuse, **c'est parce qu'il s'agit du tombeau de ses ancêtres que Rouspète détient la clé**. La raison paraît ainsi plausible, mais la manière dont les héros ont appris qu'elle avait cette clé reste inconnue.
 
 Ils poursuivent leur exploration.
 
@@ -712,7 +706,7 @@ Enfin, plusieurs interrogations demeurent.
 
 Pourquoi le tombeau de Quenotte était-il vide ?
 
-Pourquoi la vieille Rouspète détenait-elle la clé de cette crypte ?
+Comment les Canailles ont-elles appris que la vieille Rouspète détenait la clé de cette crypte ? (Q103)
 
 Quelle était la véritable nature des événements féériques survenus pendant le bal ?
 

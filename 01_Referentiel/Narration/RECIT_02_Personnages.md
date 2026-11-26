@@ -34,7 +34,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | PNJ_KALI_MORANES | Fille du baron ; rêve de piraterie ; retrouve la clique au III, capitaine de La Brigantine ; envisage ensuite une attraction. |
 | PNJ_DONA_VITALLI | Matriarche de l'Honorable Société ; cinq fils quintuplés (bailli, tavernier, évêque, armateur, chambellan) ; premier masque de Personne après sa mort. |
 | PNJ_TACHERON | Beau-fils de Dona Vitalli, exploité ; aidé par la clique ; épouse Robert. |
-| PNJ_VIEILLE_ROUSPETE | Habitant acariâtre ; remet la clé de la crypte ; se révèle être Cendrillon à minuit ; raison de sa transformation jamais révélée (Q105). V : mère de Mustrum Ridculouis, retrouvée à l'Académie. S : lien éventuel avec la laine de l'Agneau à documenter dans les arcs finaux ; voir note éditoriale Q106. |
+| PNJ_VIEILLE_ROUSPETE | Habitante acariâtre ; aurait obtenu le jardin bêché par Tito en contrepartie de la clé de la crypte de ses ancêtres (souvenir probable Q103 ; source de l'information inconnue) ; se révèle être Cendrillon à minuit ; raison de sa transformation jamais révélée (Q105). V : mère de Mustrum Ridculouis, retrouvée à l'Académie. S : lien éventuel avec la laine de l'Agneau à documenter dans les arcs finaux ; voir note éditoriale Q106. |
 | PNJ_MUSICIENS_DOUX_FUMET | Orchestre épuisé par mille bals ; doigts des mandolinistes entaillés, lèvres gercées, tendinites ; remplacé par Tito, Personne et Marée de Nuit à la Saint-Glinglin (Q108). Noms non établis. |
 | PNJ_SOEUR_CORNELIA | Ordre de Sainte Nitouche ; conduit la clique dans un guet-apens. |
 | PNJ_GRAND_ALF_GUISCARD | Sylvain artificier, Communauté de l'Agneau. |

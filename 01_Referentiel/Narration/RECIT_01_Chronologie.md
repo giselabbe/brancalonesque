@@ -19,7 +19,7 @@ Sources : [chapitres I–IV](../../02_Manuscrits/Trames/), [chapitre V, partie 1
 | I.03 | Concours de nourriture ; Personne démasqué | Œuf du Cracoucass brisé |
 | I.04 | Escorte de Cornelia, guet-apens, rencontre de la Communauté | Recherche de quatre porteurs et de l'Agneau Unique ; mise en garde vague, danger jamais élucidé (Q106) |
 | I.05 | Nid dans une vieille tour ; Robert et Agneau retrouvés | Plan de la crypte ; Psodia porte l'Agneau et découvre son pouvoir d'invisibilité (Q102) |
-| I.06 | Crypte de la dix-septième pile, clé de Rouspète | Tito acquiert la pelle de Chaterpillar ; Psodia la baguette de Quenotte ; mystère du tombeau vide non résolu à ce stade (Q104) |
+| I.06 | Crypte de la dix-septième pile, clé de Rouspète probablement obtenue après que Tito a bêché son jardin | Crypte des ancêtres de Rouspète ; origine de l'information sur sa clé inconnue (Q103). Tito acquiert la pelle de Chaterpillar ; Psodia la baguette de Quenotte ; mystère du tombeau vide non résolu à ce stade (Q104) |
 | I.07 | Manoir Vitalli, découverte de Tâcheron | Personne acquiert son premier masque, Dona Vitalli |
 | I.08 | Préparatifs ; boules puantes ; aucune invitation ; Psodia et Sispéo entrent par les cuisines et deviennent humains grâce à Belle Mère | Sispéo devient un magnifique jeune homme à la voix toujours éraillée (Q108) |
 | I.08a | Tito, Personne et Marée de Nuit remplacent les musiciens épuisés du Doux Fumet et tentent de jouer un ou deux airs au bal | Souvenir confirmé ; instruments autres que les mandolines non précisés (Q108) |

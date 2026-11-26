@@ -27,7 +27,9 @@ statut_fiche: a_completer
 
 ## Identité et rôle
 
-Habitant acariâtre ; remet la clé de la crypte ; se révèle être Cendrillon à minuit ; raison de sa transformation jamais révélée (Q105). V : mère de Mustrum Ridculouis, retrouvée à l'Académie. S : lien éventuel avec la laine de l'Agneau à documenter dans les arcs finaux ; voir note éditoriale Q106.
+Habitante acariâtre ; remet la clé de la crypte ; se révèle être Cendrillon à minuit ; raison de sa transformation jamais révélée (Q105). V : mère de Mustrum Ridculouis, retrouvée à l'Académie. S : lien éventuel avec la laine de l'Agneau à documenter dans les arcs finaux ; voir note éditoriale Q106.
+
+**Q103 — Origine de la clé (souvenir partiel, 26 novembre 2026) :** La crypte contient les sépultures des ancêtres de Rouspète, ce qui expliquerait qu'elle en détienne la clé. Tito aurait bêché son jardin précisément pour obtenir cette clé. On ne sait plus comment les Canailles avaient appris qu'elle la possédait. Ces éléments restent des souvenirs plausibles et non des certitudes ; ne pas réintroduire l'ancienne hypothèse d'un dédommagement pour des dégâts à l'auberge.
 
 ## Situation dans le récit
 
