@@ -48,7 +48,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 | LIEU_DOMAINE_VIEUX | Domaine des Vieux | Chantier de maison pour personnes âgées dirigé par trois hommes-cochons ; deux passages distincts | IV |
 | LIEU_BOSQUET_VETILLE | Bosquet de vétille | Exploitation perturbée depuis l'absence de sa gardienne Tourette | IV ; nom spécifique inconnu |
 | LIEU_PALLA_IN_CORSO | Palla in Corso | Village frappé par le sort d'Aurora ; château de Renault, ronces, maison forestière d'Aurora et marmottes | IV |
-| LIEU_PANDOSIA | Pandosia | Cité des ratons recherchée au III–IV, retrouvée au V ; souterraine, circulaire, lumière turquoise, air frais et sec, pierres incrustées de dents et de pièces ; repeuplement amorcé après l'expédition | III–V |
+| LIEU_PANDOSIA | Pandosia | Cité mythique des ratons dont l'entrée s'est perdue, recherchée au III–IV, retrouvée au V (Q305) ; souterraine, circulaire, lumière turquoise, air frais et sec, pierres incrustées de dents et de pièces ; repeuplement amorcé après l'expédition | III–V |
 | LIEU_GEOLES | Geôles de l'Académie de Sibara | Détention collective après la dénonciation de Hulc ; cellules, couloirs et accès aux égouts ; distinctes de la prison de Tito au II | V |
 | LIEU_EGOUTS_SIBARA | Égouts de Sibara | Réseau de galeries, escaliers, trous et passages ; emprunté lors de l'évasion puis de l'expédition ; rencontre du Tas de boue | V |
 | LIEU_PLAGE_EVASION | Plage hors de Sibara | Sortie des égouts après le franchissement d'une grille ; ne pas l'assimiler à la crique de débarquement sans confirmation | V |
