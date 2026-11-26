@@ -35,7 +35,7 @@ Les identifiants des PJ sont stables ; leurs descriptions visuelles et prompts d
 | Kali Moranes / Kali Jones | Fille du baron ; rêve de piraterie ; retrouve la clique au III, capitaine de La Brigantine ; envisage ensuite une attraction. |
 | Dona Vitalli | Matriarche de l'Honorable Société ; cinq fils quintuplés (bailli, tavernier, évêque, armateur, chambellan) ; premier masque de Personne après sa mort. |
 | Tâcheron | Beau-fils de Dona Vitalli, exploité ; aidé par la clique ; épouse Robert. |
-| Vieille Rouspète | Habitant acariâtre ; remet la clé de la crypte ; se révèle être Cendrillon à minuit. V : mère de Mustrum Ridculouis, retrouvée à l'Académie. S : laine de l'Agneau à recouper. |
+| Vieille Rouspète | Habitant acariâtre ; remet la clé de la crypte ; se révèle être Cendrillon à minuit ; raison de sa transformation jamais révélée (Q105). V : mère de Mustrum Ridculouis, retrouvée à l'Académie. S : laine de l'Agneau à recouper. |
 | Sœur Cornelia | Ordre de Sainte Nitouche ; conduit la clique dans un guet-apens. |
 | Grand Alf Guiscard | Sylvain artificier, Communauté de l'Agneau. |
 | Maître Gim Lee | Nain, ancien moine, trafic de reliques ; Communauté. |
