@@ -67,7 +67,7 @@ Les enquêtes urbaines se chevauchent ; l'ordre ci-dessous reprend le document d
 | IV.11 | Loup et Petit Chaperon rouge | Tourette reconnue comme gardienne absente du bosquet |
 | IV.12 | Ondine demande de soutenir les entrepreneurs | Désaccord dans la clique ; motivation inconnue des héros, confirmée dans le lore confidentiel (Q407) |
 | IV.13 | Palla in Corso, Renault et Aurora | Abstynthe identifié comme origine de l'ivresse magique |
-| IV.14 | Excuses de Renault ; Anti-Cuite | Tourette guérie de l'ivresse ; trois potions de cochonisation obtenues |
+| IV.14 | Excuses de Renault ; Anti-Cuite | Tourette guérie de l'ivresse grâce à la recette d'Aurora ; herbes non nommées, sans lien avec l'herbe elfique (Q502) ; trois potions de cochonisation obtenues |
 | IV.15 | Apparition d'elfes après la magie d'Aurora | Tourette transformée en statuette de bois |
 | IV.16 | Second passage au Domaine ; mise en scène et cochonisation | Abandon du chantier ; auteur de la brume non retrouvé (Q407) |
 | IV.17 | Récupération du bois et de la Burrichetta | Matériaux disponibles |
@@ -115,7 +115,7 @@ Sources : les deux trames du chapitre V. L'ordre suit ces trames ; les scènes d
 |---|---|---|
 | S.06 | Petit Poucet ; révélations sur la famille de Tito | Ne pas anticiper dans les chapitres précédents |
 | S.07 | Croc Chef ; restaurant sur la péniche ; Tito temporairement nain ; victoire | Jury, nom du restaurant et détails à retrouver |
-| S.08 | Marmite ; confrontation à l'élémentaire de graisse ; mort de Bombance | Ordre relatif et conséquences à confirmer |
+| S.08 | Marmite ; confrontation à l'élémentaire de graisse ; mort de Bombance | Ordre relatif et conséquences à confirmer ; une herbe poussant chez les elfes sert à nettoyer la Marmite (Q502), moment de récupération non précisé |
 | S.09 | Sispéo dirige les grandes marionnettes elfiques lorsqu'elles apparaissent | Aucune marionnette géante conservée ; réanimation de Nuance désormais documentée en V.26 |
 | S.10 | Île des enfants perdus ; Perdita retrouvée ; révélations | Sources exactes et dénouement à récupérer |
 
