@@ -31,7 +31,7 @@ Source : [manuscrit I](../../02_Manuscrits/Trames/CH01_chapitre01_Sourcemolle_tr
 - [x] Q101 — Chute initiale confirmée : les Canailles passent à travers une passerelle de la ville, puis traversent le toit de l'auberge du Doux Fumet. La mise à l'eau qui suit est documentée dans la trame ; aucun rôle du Cracoucass dans cette chute n'est établi.
 - [x] Q102 — Psodia portait l'Agneau Unique et découvrit son pouvoir d'invisibilité.
 - [ ] Q103 — Pourquoi Tito bêchait-il le jardin de Rouspète ? Pourquoi détenait-elle la clé ?
-- [ ] Q104 — Pourquoi le tombeau de Quenotte était-il vide ? Quand les héros apprennent-ils la réponse ?
+- [x] Q104 — Quenotte a été lignifiée et sa statuette se trouve à Pandosia. Les héros ignorent la raison du tombeau vide au I et la découvrent seulement dans l'arc Pandosia (V).
 - [ ] Q105 — Identité des marraines du bal, rôle de Belle Mère, raison de la transformation de Rouspète en Cendrillon.
 - [ ] Q106 — Nature et danger réel de l'Agneau ; devenir éventuel de sa laine. Lien de Rouspète avec Mustrum confirmé au V : elle est sa mère.
 - [ ] Q107 — Circonstances de constitution de la clique et équipement initial si utile au prologue.
@@ -100,6 +100,7 @@ Sources : [partie 1](../../02_Manuscrits/Trames/CH5_chapitre5_Pandosia_partie_1_
 | Q005 | Identification des elfes par Louis au V ; mécanisme de leur apparition confirmé par l'utilisateur mais non compris des héros à ce stade. Voir section confidentielle du lore. | Trame V.1, §5 ; précision utilisateur | Partiel | 25/11/2026 |
 | Q101 | Les Canailles passent à travers une passerelle de la ville puis traversent le toit de l'auberge. La mise à l'eau ultérieure demeure un élément de la trame, non reconfirmé séparément. | Confirmation directe de la joueuse ; trame I, §2 | Confirmé (chute) | 26/11/2026 |
 | Q102 | Psodia portait l'Agneau Unique et découvrit son pouvoir d'invisibilité. | Confirmation directe de la joueuse ; trame I, §5 | Confirmé | 26/11/2026 |
+| Q104 | Le tombeau est vide car Quenotte a été lignifiée et sa statuette se trouve à Pandosia. Révélation aux héros au V, lors du témoignage du mage rescapé, puis découverte de la statuette dans le temple. Ne pas anticiper au I. | Confirmation directe de la joueuse ; trame V.2, §8–9 | Confirmé | 26/11/2026 |
 | Q106 | Rouspète est la mère de Louis. | Trame V.1, §2 | Partiel | 25/11/2026 |
 | Q304 | Hulc dénonce les Canailles pour la prime ; il ne s'agit pas du Malebranche détenu avec elles. | Trame V.1, §11–12 | Partiel | 25/11/2026 |
 | Q408 | Péniche réparée au retour de Pandosia ; moment des travaux non précisé. | Trame V.2, §12 | Partiel | 25/11/2026 |
