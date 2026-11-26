@@ -172,6 +172,10 @@ De retour à Sibara, les Canailles vont à la rencontre des réfugiés ratons et
 
 Elles les convainquent de retourner vivre à Pandosia.
 
+[Proposition de reconstitution littéraire du discours de Psodia, Q505 : paroles originales non conservées ; souffle messianique inspiré de Paul Atréides face aux Fremen dans Dune, sans reprendre ses répliques.]
+
+« Ratons de Sibara, écoutez-moi ! Vous avez vécu trop longtemps loin de vos foyers. Vous avez oublié le chemin de votre cité, mais votre cité, elle, est toujours là. Je l'ai retrouvée. J'ai franchi ses portes. J'ai marché dans ses rues. Vous n'êtes pas condamnés à vivre aux portes de la ville, à mendier votre pain et à attendre que d'autres décident de votre sort. Pandosia est à vous ! Vous m'avez demandé de vous y conduire. Aujourd'hui, je viens tenir ma promesse. Rassemblez les vôtres, prenez vos affaires et suivez-moi. Je vais vous reconduire à PANDOSIA ! »
+
 Psodia tient ainsi la promesse qu'elle avait faite à son peuple lors de son arrivée à Sibara.
 
 Après plusieurs années d'abandon et d'oubli, Pandosia peut enfin retrouver ses habitants.
