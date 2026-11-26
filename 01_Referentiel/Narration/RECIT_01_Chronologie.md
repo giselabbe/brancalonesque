@@ -83,7 +83,7 @@ Sources : les deux trames du chapitre V. L'ordre suit ces trames ; les scènes d
 | V.02 | Seconde visite de l'Académie ; fausses barbes et robes, prétendue délégation de Tarantase | Accès grâce à Mustrum Ridculouis, dit Louis ; contrôles renforcés sous le nouveau doyen, le guiscard Destin ; mystérieux guerriers aperçus. |
 | V.03 | Rencontre de Rouspette, mère de Louis ; confidences du bibliothécaire | Dame Mystique (Miranda Zardélia), ancienne doyenne démise après des scandales, et Louis étaient amoureux dans leur jeunesse. |
 | V.04 | Recherches à la bibliothèque ; lunettes de lecture magiques prêtées à Personne | Seuls Psodia et Marée de Nuit savent lire ; Personne découvre la référence au Liber Vetillæ. « Lorgnons de Gouguel » est un nom proposé (P). |
-| V.05 | Étude de la lignification | Inversion des propriétés de la vétille : emprisonnement de magie et de créatures féeriques ; dernier usage rapporté il y a 600 ans par la Guilde des Guiscards de Tarantase. |
+| V.05 | Étude de la lignification | Inversion des propriétés de la vétille : emprisonnement de magie et de créatures féeriques ; dernier usage officiellement recensé il y a environ 600 ans par la Guilde des Guiscards de Tarantase ; des usages elfiques ultérieurs sont attestés par Tourette et Quenotte (Q511). |
 | V.06 | Louis identifie les guerriers comme des elfes ; Marée de Nuit se rappelle Du dit des nains et des elfes | Exil sur un autre plan par les fées, opposition ordre/chaos ; intentions actuelles encore inconnues. |
 | V.07 | Tito construit une cabane de livres ; réussite critique | Reconnaît Chez Gargantua dans une illustration de l'ancien temple de la Faim Rassasiée ; piste de la Marmite de Saint Glaude. |
 | V.08 | Consultation de Ronce Aînée, professeure de botanique | Oriente vers Humus, doyen de la Faculté de Paysagisme Arcanique et de Jardinage Nécromantique. |
@@ -106,6 +106,8 @@ Sources : les deux trames du chapitre V. L'ordre suit ces trames ; les scènes d
 | V.25 | Péniche réparée et réveillée ; elle parle à Personne | Révélation du Port-Trop-Loin : permet de rejoindre tout port déjà vu ; règle confirmée Q517 : atteindre 8,8 nœuds par heure grâce à la Burrichetta, qui fait office de moteur. Moment exact de révélation du seuil et de ce rôle et des travaux non précisé. |
 | V.26 | Polissage de Tourette et de la figure de proue | Tourette et Nuance, l'anguana, libérées ; distinct de la guérison de l'ivresse en IV.14. |
 | V.27 | Annonce du concours Croc Chef, doté d'une marmite magique ; Marée de Nuit s'engage | Transition vers le chapitre VI ; l'identité de la marmite n'est pas encore confirmée. |
+
+**Continuité confidentielle Q511 :** lors du voyage ultérieur sur le plan des elfes, les Canailles découvrent que les mages elfiques ont également lignifié de nombreuses autres créatures féeriques. Ne pas anticiper cette découverte au V ; datation et circonstances à préciser dans les arcs finaux.
 
 **Continuité confidentielle (hors récit à ce stade)** : les elfes sont attirés par la magie féerique, notamment l'utilisation des baguettes ; en V.22, c'est le geste de Quenotte qui déclenche leur venue. Les Canailles ne l'ont pas encore compris. La chronologie précise des autres manifestations reste à établir.
 
