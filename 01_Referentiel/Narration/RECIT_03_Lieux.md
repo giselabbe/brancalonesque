@@ -26,7 +26,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 | LIEU_CAMP | Camp de Dame Mystique | Campement itinérant de roulottes sur les routes du Royaume d'État-lie | I |
 | LIEU_SOURCEMOLLE | Sourcemolle | Bourgade de Volturnie autour d'un aqueduc partiellement effondré ; habitat vertical, riches en hauteur, passerelles, pont sous environ 50 cm d'eau | I |
 | LIEU_DOUX_FUMET | Doux Fumet | Auberge, toit traversé par les Canailles après leur chute à travers une passerelle de la ville haute (Q101), jardin où se trouve l'œuf | I |
-| LIEU_CRYPTE | Crypte de la 17e pile | Gisants des ancêtres de Rouspète, statue de Chaterpillar, tombeau vide de Quenotte | I |
+| LIEU_CRYPTE | Crypte de la 17e pile | Gisants des ancêtres de Rouspète, statue de Chaterpillar, tombeau vide de Quenotte, mystère expliqué seulement au V : fée lignifiée à Pandosia (Q104) | I |
 | LIEU_NID_CRACOUCASS | Vieille tour | Nid du vautour géant, découverte de Robert et de l'Agneau | I |
 | LIEU_MANOIR_VITALLI | Manoir Vitalli | Grande demeure, richesse de façade, grenier de Tâcheron | I |
 | LIEU_CHATEAU_MORANES | Château Moranes | Bals quotidiens et Saint-Glinglin | I |
@@ -58,7 +58,7 @@ Les graphies divergentes ne sont pas corrigées silencieusement. Les noms de tra
 | LIEU_PANDOSIA_COLLECTES | Maison des Collectes | Bâtiment identifié par un panneau en langue ratone ; intérieur non décrit | V |
 | LIEU_PANDOSIA_POLISSEURS | Halle des Polisseurs | Bâtiment identifié par un panneau ; les Canailles s'y dirigent avant de rencontrer le mage rescapé ; intérieur non décrit | V |
 | LIEU_PANDOSIA_BANQUE | Banque des Dents de Lait | Porte crochetée par Psodia ; rangées de dents de lait à perte de vue ; mosaïque de la souris échangeant les dents contre des pièces puis récupérant de l'or dans un chaudron au pied d'un arc-en-ciel | V |
-| LIEU_PANDOSIA_TEMPLE | Temple de Quenotte | Aspect de cabinet d'orthodontiste ; deux golems d'émail, statuette de Quenotte et énorme polisseuse ; lieu de sa libération | V |
+| LIEU_PANDOSIA_TEMPLE | Temple de Quenotte | Aspect de cabinet d'orthodontiste ; deux golems d'émail, statuette de Quenotte lignifiée, dont la présence explique le tombeau vide de Sourcemolle (Q104), et énorme polisseuse ; lieu de sa libération | V |
 | LIEU_PANDOSIA_RIVIERE | Rivière souterraine | Coule en contrebas de la cité ; rencontre du magicien rescapé près d'une canne à pêche | V |
 | LIEU_PANDOSIA_CERCLE | Cercle de champignons | Près de la banque ; squelette d'elfe au centre ; un objet lancé ne provoque aucune réaction ; cinq elfes y apparaissent plus tard | V |
 | LIEU_PLAN_ELFIQUE | Monde elfique | S : passage associé aux cercles de champignons ; monde perçu comme ordonné et monotone, serre évoquée | S |
