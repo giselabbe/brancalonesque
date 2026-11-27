@@ -1,6 +1,6 @@
 # Chapitre 06 – Croc Chef
 
-*Trame V1 — 27 novembre 2026. Reconstitution à partir des souvenirs de la joueuse et de son carnet de jeu, tels que rapportés dans la conversation de travail. Les notes Q6xx sont des questions ou des choix éditoriaux, non des faits supplémentaires.*
+*Trame V2 — 27 novembre 2026. Reconstitution à partir des souvenirs de la joueuse et de son carnet de jeu, tels que rapportés dans la conversation de travail. Les notes Q6xx sont des questions ou des choix éditoriaux, non des faits supplémentaires.*
 
 ### 1. 50 Nuances de Brie
 
@@ -145,9 +145,15 @@ Les Canailles parviennent à tuer l'élémentaire et Pollicino lui-même.
 
 Malheureusement, le père Bombance trouve lui aussi la mort au cours de l'affrontement.
 
-Les Canailles ont gagné la Marmite de Saint Glaude. Marée de Nuit a accompli la quête qui lui avait été confiée, mais le père Bombance n'a pas survécu à son accomplissement.
+Les Canailles récupèrent la Marmite de Saint Glaude en récompense de leur victoire. Marée de Nuit a retrouvé la relique que le père Bombance lui avait demandé de chercher, mais celui-ci n'a pas survécu au combat.
+
+Le Monaciello, que Marée de Nuit avait reconnu dès le début du concours, leur explique alors que la marmite est tellement encrassée de graisse qu'elle est inutilisable en tant que relique. Il leur faudra trouver un moyen de la nettoyer pour lui rendre ses vertus.
+
+La quête de Marée de Nuit n'est donc pas encore terminée.
 
 [Q611 : circonstances de la mort de Bombance, rôle et devenir de l'ogresse, éventuelles retrouvailles avec Tito, fin de la métamorphose, sort de la fée de la sucrière, du Monaciello et destination finale de la marmite.]
+
+[Q612 : retrouver le procédé de nettoyage de la marmite et les circonstances de sa remise en état. Ne pas supposer une corruption magique distincte de l'encrassement par la graisse.]
 
 *Fin du chapitre 06.*
 
@@ -163,6 +169,7 @@ Les Canailles ont gagné la Marmite de Saint Glaude. Marée de Nuit a accompli l
 - Q609 : tragédie familiale de Tito, survivants et conséquences.
 - Q610 : motivations des organisateurs.
 - Q611 : combat final, mort de Bombance et devenir des personnages et de la marmite.
+- Q612 : nettoyage de la marmite et restauration de ses propriétés de relique.
 
 ## Illustrations envisagées (propositions, non événements supplémentaires)
 
